@@ -1,0 +1,1048 @@
+pdf_file,page,metric,value,unit,currency_symbol,is_percent,topic,period,comment,evidence
+amazon.pdf,1,page_number,1.0,UNSPEC,,False,general,,Page number extracted,4 2 0 2 A N N U A L R E P O R T
+amazon.pdf,2,Total revenue,638000000000.0,USD,$,False,revenue,FY2024,Total revenue grew 11% year-over-year,total revenue grew 11% year-over-year
+amazon.pdf,2,North America revenue,387000000000.0,USD,$,False,revenue,FY2024,North America revenue grew 10% year-over-year,North America revenue increased 10% year-over-year
+amazon.pdf,2,International revenue,143000000000.0,USD,$,False,revenue,FY2024,International revenue grew 9% year-over-year,International revenue grew 9% year-over-year
+amazon.pdf,2,AWS revenue,108000000000.0,USD,$,False,aws,FY2024,AWS revenue grew 19% year-over-year,AWS revenue increased 19% year-over-year
+amazon.pdf,2,Operating income,68600000000.0,USD,$,False,operating_income,FY2024,Operating income improved 86% year-over-year,operating income improved 86% year-over-year
+amazon.pdf,2,Free Cash Flow,36200000000.0,USD,$,False,fcf,FY2024,Free cash flow improved from $35.5B to $36.2B,"Free Cash Flow, adjusted for equipment finance leases improved from $35.5B to $36.2B"
+amazon.pdf,3,WhyQ,1.0,UNSPEC,,False,general,,Amazon has an unusually high quotient of 'WhyQ',Amazon has an unusually high quotient of this WhyQ
+amazon.pdf,3,revenue,0.0,UNSPEC,,False,general,,,
+amazon.pdf,4,Leadership Principles,16.0,UNSPEC,,False,general,,Number of leadership principles guiding behavior,We have 16 Leadership Principles that guide our behavior
+amazon.pdf,5,inventor process,0.0,UNSPEC,,False,general,,Invention process is described as collaborative and in-person,Amazon invention is deeply collaborative
+amazon.pdf,5,speed,0.0,UNSPEC,,False,general,,Speed is emphasized as a critical factor for success,speed does not happen unless the entire company and culture embrace it
+amazon.pdf,6,number of bureaucracy examples,1000.0,UNSPEC,,False,general,,"Received 1,000 emails about bureaucracy from employees","received almost 1,000 of these emails"
+amazon.pdf,6,number of changes made,375.0,UNSPEC,,False,general,,Made over 375 changes based on bureaucracy feedback,made over 375 changes based on this feedback
+amazon.pdf,6,cost savings,0.0,UNSPEC,,False,costs,,AI is saving companies a lot of money through productivity and cost avoidance,savingcompaniesalotof money
+amazon.pdf,7,AI revenue growth,300.0,UNSPEC,,True,revenue,YoY,AI revenue is growing at triple-digit year-over-year rates,AI revenue is growing triple digit YoY percentages
+amazon.pdf,7,AI annual revenue run rate,2000000000.0,USD,$,False,revenue,annual,AI revenue represents a multi-billion-dollar annual run rate,represents a multi-billion-dollar annual revenue runrate
+amazon.pdf,7,Trainium2 chip price-performance improvement,35.0,UNSPEC,,True,costs,improvement,Trainium2 chips offer 30-40% better price-performance than current GPU-powered compute instances,Trainium2 chips offer 30-40% better price-performance
+amazon.pdf,7,Alexa devices,600000000.0,UNSPEC,,False,general,current,Number of Alexa devices in use,We have over 600 million Alexa devices out there today
+amazon.pdf,7,Amazon Prime items,300000000.0,UNSPEC,,False,general,current,Number of items available on Amazon Prime,it's now grown to over 300 million items
+amazon.pdf,8,number of zip codes,13000.0,UNSPEC,,False,general,,"Amazon expands delivery to 13,000 zip codes","13,000 zip codesspanning1.2millionsquaremiles"
+amazon.pdf,8,square miles covered,1200000.0,UNSPEC,,False,general,,Amazon delivers to 1.2 million square miles,1.2millionsquaremiles
+amazon.pdf,8,number of households without broadband,400000000.0,UNSPEC,,False,general,,Approximately 400-500 million households lack broadband connectivity,400-500millionhouseholdsaroundtheworld
+amazon.pdf,8,number of satellites in orbit,3200.0,UNSPEC,,False,general,,"Project Kuiper plans to have over 3,200 satellites in orbit","over3,200inorbit"
+amazon.pdf,8,revenue,0.0,UNSPEC,,False,revenue,,,
+amazon.pdf,9,DayOne,1.0,UNSPEC,,False,general,present,Reference to the company's ongoing philosophy of operating as a startup,It remains DayOne.
+amazon.pdf,10,revenue,147800000.0,USD,$,False,revenue,1997,Revenue growth driven by customer base expansion,yielding 838% revenue growth to $147.8 million
+amazon.pdf,10,revenue_growth,838.0,UNSPEC,,True,revenue,1997,Revenue grew by over 800% in 1997,yielding 838% revenue growth to $147.8 million
+amazon.pdf,11,Sales growth,147800000.0,USD,$,False,revenue,1997,Sales increased significantly in 1997 compared to 1996,Sales grew from $15.7 million in 1996 to $147.8 million
+amazon.pdf,11,Sales growth rate,838.0,UNSPEC,,True,revenue,1997,Sales grew by 838% in 1997 compared to 1996,Sales grew from $15.7 million in 1996 to $147.8 million – an 838% increase
+amazon.pdf,11,Customer accounts growth,1510000.0,UNSPEC,,False,general,1997,Customer accounts increased significantly in 1997,"Cumulative customer accounts grew from 180,000 to 1,510,000"
+amazon.pdf,11,Customer accounts growth rate,738.0,UNSPEC,,True,general,1997,Customer accounts grew by 738% in 1997 compared to 1996,"Cumulative customer accounts grew from 180,000 to 1,510,000 – a 738% increase"
+amazon.pdf,11,Repeat customer percentage growth,12.0,UNSPEC,,True,general,1997,Percentage of orders from repeat customers increased by 12 percentage points in 1997,The percentage of orders from repeat customers grew from over 46% in the fourth quarter of 1996 to over 58% in the same period in 1997
+amazon.pdf,12,Cash and investment balances,125000000.0,USD,$,False,general,FY1997,Cash and investment balances increased due to IPO and loan,Our cash and investment balances at year-end were $125 million
+amazon.pdf,12,Distribution center capacity,285000.0,UNSPEC,,False,general,FY1997,Distribution center capacity expanded significantly,"Distribution center capacity grew from 50,000 to 285,000 square feet"
+amazon.pdf,12,Employee base,614.0,UNSPEC,,False,general,FY1997,Employee base grew to support increased traffic and operations,Amazon.com’s employee base grew from 158 to 614
+amazon.pdf,12,year,1997.0,UNSPEC,,False,general,,Reference to the year 1997,1997 was indeed an incredible year
+amazon.pdf,13,Fiscal year,2024.0,UNSPEC,,False,general,FY2024,"Fiscal year ended December 31, 2024","For the fiscal year ended December 31, 2024"
+amazon.pdf,13,Aggregate market value of voting stock held by non-affiliates,1815014489485.0,USD,$,False,general,"June 30, 2024","Market value of voting stock held by non-affiliates as of June 30, 2024","Aggregate market value of voting stock held by non-affiliates of the registrant as of June 30, 2024"
+amazon.pdf,13,Number of shares of common stock outstanding,10597729352.0,UNSPEC,,False,general,"January 29, 2025","Shares of common stock outstanding as of January 29, 2025","Number of shares of common stock outstanding as of January 29, 2025"
+amazon.pdf,14,PART II Item 5. Market for the Registrant’s Common Stock,19.0,UNSPEC,,False,general,,Page number listed in the index,Page 19
+amazon.pdf,14,page,14.0,UNSPEC,,False,general,,Page number of the document,TEXT (page 14):
+amazon.pdf,14,page,14.0,UNSPEC,,False,general,,Page number identified in the document,TEXT (page 14):
+amazon.pdf,15,AWS revenue,90700000000.0,USD,$,False,aws,FY2024,Revenue grew on migration of enterprise workloads to cloud,AWS revenue increased ...
+amazon.pdf,15,net sales,,UNSPEC,,False,revenue,,Reference to net sales provided in financial statements,Information on our net sales is contained in Item 8...
+amazon.pdf,15,fixed fees,0.0,UNSPEC,,False,revenue,,Fixed fees are part of revenue model,We earn fixed fees...
+amazon.pdf,15,percentage of sales,0.0,UNSPEC,,True,revenue,,Revenue includes a percentage of sales,a percentage of sales
+amazon.pdf,15,per-unit activity fees,0.0,UNSPEC,,False,revenue,,Per-unit activity fees contribute to revenue,per-unit activity fees
+amazon.pdf,15,interest,0.0,UNSPEC,,False,revenue,,Interest is part of revenue model,interest
+amazon.pdf,16,Competition,,UNSPEC,,False,general,,Discusses competitive landscape across multiple sectors and factors affecting competition,Competition Our businesses encompass a large variety of product types
+amazon.pdf,16,number of employees,1556000.0,UNSPEC,,False,general,"Dec 31, 2024",Total full-time and part-time employees as of end of 2024,"As of December 31, 2024, we employed approximately 1,556,000 full-time and part-time employees"
+amazon.pdf,16,number of Amazon employees,240000.0,UNSPEC,,False,general,present,Participation in Career Choice program,"Over 240,000 Amazon employees ..."
+amazon.pdf,17,Age,61.0,UNSPEC,,False,general,,"Jeffrey P. Bezos is 61 years old as of January 29, 2025",Jeffrey P. Bezos 61 Executive Chair
+amazon.pdf,17,Age,57.0,UNSPEC,,False,general,,"Andrew R. Jassy is 57 years old as of January 29, 2025",Andrew R. Jassy 57 President and Chief Executive Officer
+amazon.pdf,17,Age,48.0,UNSPEC,,False,general,,"Matthew S. Garman is 48 years old as of January 29, 2025",Matthew S. Garman 48 CEO Amazon Web Services
+amazon.pdf,17,Age,58.0,UNSPEC,,False,general,,"Douglas J. Herrington is 58 years old as of January 29, 2025",Douglas J. Herrington 58 CEO Worldwide Amazon Stores
+amazon.pdf,17,Age,61.0,UNSPEC,,False,general,,"Brian T. Olsavsky is 61 years old as of January 29, 2025",Brian T. Olsavsky 61 Senior Vice President and Chief Financial Officer
+amazon.pdf,17,Age,60.0,UNSPEC,,False,general,,"Shelley L. Reynolds is 60 years old as of January 29, 2025","Shelley L. Reynolds 60 Vice President, Worldwide Controller, and Principal Accounting Officer"
+amazon.pdf,17,Age,61.0,UNSPEC,,False,general,,"David A. Zapolsky is 61 years old as of January 29, 2025","David A. Zapolsky 61 Senior Vice President, Global Public Policy and General Counsel"
+amazon.pdf,17,AWS revenue,90700000000.0,USD,$,False,aws,FY2024,Revenue grew on migration of enterprise workloads to cloud,AWS revenue increased ...
+amazon.pdf,17,AWS revenue,0.0,UNSPEC,,False,aws,,,
+amazon.pdf,17,operating_income,0.0,UNSPEC,,False,operating_income,,,
+amazon.pdf,17,net_income,0.0,UNSPEC,,False,net_income,,,
+amazon.pdf,17,eps,0.0,UNSPEC,,False,eps,,,
+amazon.pdf,17,ads,0.0,UNSPEC,,False,ads,,,
+amazon.pdf,17,fcf,0.0,UNSPEC,,False,fcf,,,
+amazon.pdf,17,margin,0.0,UNSPEC,,False,margin,,,
+amazon.pdf,17,guidance,0.0,UNSPEC,,False,guidance,,,
+amazon.pdf,17,costs,0.0,UNSPEC,,False,costs,,,
+amazon.pdf,17,capex,0.0,UNSPEC,,False,capex,,,
+amazon.pdf,17,general,0.0,UNSPEC,,False,general,,,
+amazon.pdf,17,page,17.0,UNSPEC,,False,general,,Page number of the document,page 17
+amazon.pdf,18,AWS revenue,90700000000.0,USD,$,False,aws,FY2024,Revenue grew on migration of enterprise workloads to cloud,AWS revenue increased ...
+amazon.pdf,18,revenue,0.0,UNSPEC,,False,revenue,,No revenue data found on this page,No revenue data found
+amazon.pdf,18,Business and Industry Risks,,UNSPEC,,False,general,,Discusses risks related to competition and expansion into new markets,Business and Industry Risks We Face Intense Competition
+amazon.pdf,18,investment,6.0,UNSPEC,,False,costs,FY2024,"Failure to realize benefits of investments in new technologies, products, or services",Failure to realize the benefits of amounts we invest
+amazon.pdf,19,international operations,,UNSPEC,,False,general,,International operations expose the company to various risks,Our international operations may not become profitable
+amazon.pdf,19,international growth limitation,0.0,UNSPEC,,False,general,,Inability to hire and manage personnel may limit international growth,"The inability to hire, train, retain, and manage sufficient required personnel may limit our international growth"
+amazon.pdf,20,retail sales,0.0,UNSPEC,,False,revenue,Q4,Most retail sales occur during the fourth quarter,we expect a disproportionate amount of our retail sales to occur during our fourth quarter
+amazon.pdf,20,"cash, cash equivalents, and marketable securities balances",0.0,UNSPEC,,False,general,as of December 31,Balances typically reach highest level due to holiday sales and quick settlement of receivables,"cash, cash equivalents, and marketable securities balances typically reach their highest level"
+amazon.pdf,20,accounts payable balance,0.0,UNSPEC,,False,general,as of December 31,Balance increases due to inventory purchases and third-party seller sales,corresponding increase in accounts payable as of December 31
+amazon.pdf,20,costs,0.0,UNSPEC,,False,costs,,Costs of A-to-z Guarantee program could increase with third-party seller sales growth,the cost of this program will increase
+amazon.pdf,21,financial and managerial resources,,UNSPEC,,False,costs,,Protection of intellectual property requires significant financial and managerial resources,The protection of our intellectual property requires the expenditure of significant financial and managerial resources
+amazon.pdf,21,Foreign exchange risk,,UNSPEC,,False,costs,,Exposure to foreign exchange rate fluctuations impacts operating results and intercompany balances,Results of operations ... exposed to foreign exchange rate fluctuations
+amazon.pdf,21,revenue growth,,UNSPEC,,False,revenue,FY2024,Revenue growth may not be sustainable and percentage growth rates may decrease,Our revenue growth may not be sustainable...
+amazon.pdf,22,operating results,0.0,UNSPEC,,False,general,,Risk of material adverse impact on operating results from legal proceedings,outcomes of legal proceedings ...
+amazon.pdf,23,net shipping cost,0.0,UNSPEC,,False,costs,,Failure to optimize inventory management increases net shipping cost,failure to optimize inventory management ... increases our net shipping cost
+amazon.pdf,23,payroll costs,0.0,UNSPEC,,False,costs,,Regional labor market constraints increase payroll costs,regional labor market constraints ... increase payroll costs
+amazon.pdf,23,system interruptions,0.0,UNSPEC,,False,general,,Occasional system interruptions and delays reported,We experience occasional system interruptions
+amazon.pdf,23,competition for qualified personnel,11.0,UNSPEC,,False,costs,,Indicates intensity of competition for skilled personnel,we experience 11
+amazon.pdf,24,revenue,0.0,UNSPEC,,False,revenue,,No specific revenue figure mentioned in the text,No specific revenue figure mentioned
+amazon.pdf,24,operating_income,0.0,UNSPEC,,False,operating_income,,No specific operating income figure mentioned in the text,No specific operating income figure mentioned
+amazon.pdf,24,net_income,0.0,UNSPEC,,False,net_income,,No specific net income figure mentioned in the text,No specific net income figure mentioned
+amazon.pdf,24,eps,0.0,UNSPEC,,False,eps,,No specific EPS figure mentioned in the text,No specific EPS figure mentioned
+amazon.pdf,24,aws,0.0,UNSPEC,,False,aws,,No specific AWS figure mentioned in the text,No specific AWS figure mentioned
+amazon.pdf,24,ads,0.0,UNSPEC,,False,ads,,No specific ADS figure mentioned in the text,No specific ADS figure mentioned
+amazon.pdf,24,fcf,0.0,UNSPEC,,False,fcf,,No specific FCF figure mentioned in the text,No specific FCF figure mentioned
+amazon.pdf,24,margin,0.0,UNSPEC,,False,margin,,No specific margin figure mentioned in the text,No specific margin figure mentioned
+amazon.pdf,24,guidance,0.0,UNSPEC,,False,guidance,,No specific guidance figure mentioned in the text,No specific guidance figure mentioned
+amazon.pdf,24,costs,0.0,UNSPEC,,False,costs,,No specific costs figure mentioned in the text,No specific costs figure mentioned
+amazon.pdf,24,capex,0.0,UNSPEC,,False,capex,,No specific capex figure mentioned in the text,No specific capex figure mentioned
+amazon.pdf,24,general,0.0,UNSPEC,,False,general,,No specific general figure mentioned in the text,No specific general figure mentioned
+amazon.pdf,24,Commercial agreements compensation,0.0,UNSPEC,,False,revenue,,Compensation depends on volume of other company's sales,Compensation...volume of the other company’s sales
+amazon.pdf,24,additional or alternative commercial relationships,12.0,UNSPEC,,False,general,FY2024,Number of additional or alternative commercial relationships mentioned as potential risk,we may not be able to enter into additional or alternative commercial relationships
+amazon.pdf,25,inventory risk,,UNSPEC,,False,costs,,"Significant inventory risks due to seasonality, product cycles, and demand changes",exposed to significant inventory risks
+amazon.pdf,25,inventory risk factors,13.0,UNSPEC,,False,general,,Number of inventory risk factors mentioned,inventory risk factors set forth above
+amazon.pdf,26,payments-related risks,,UNSPEC,,False,costs,,Payment methods involve costs and compliance requirements that could affect profitability,"We pay interchange and other fees, which may increase"
+amazon.pdf,26,stock price volatility,0.0,UNSPEC,,False,general,,Stock price fluctuates significantly due to various risks,The trading price of our common stock fluctuates significantly
+amazon.pdf,27,regulatory compliance costs,,UNSPEC,,False,costs,,Regulatory compliance costs are increasing due to evolving laws and regulations,increasing compliance costs and limits the operation of our business
+amazon.pdf,27,product liability claims,,UNSPEC,,False,costs,,Exposure to product liability or food safety claims relating to personal injury or illness,Some of the products we sell or manufacture expose us to product liability or food safety claims
+amazon.pdf,27,product liability claims,15.0,UNSPEC,,True,costs,FY2024,Percentage of claims related to product liability under A-to-z Guarantee,15% of claims related to product liability
+amazon.pdf,28,product liability cost,,UNSPEC,,False,costs,,Cost of product liability program will increase as third-party seller sales grow,the cost of this program will increase
+amazon.pdf,28,tax expense,,UNSPEC,,False,costs,,Potential increase in tax expense due to global minimum taxes,EU and other countries have enacted global minimum taxes
+amazon.pdf,28,taxes,0.0,UNSPEC,,False,costs,,Potential increase in taxes due to unresolved tax controversies,taxes in the future could increase
+amazon.pdf,28,page_number,16.0,UNSPEC,,False,general,,Page number extracted,Page 28
+amazon.pdf,29,cybersecurity training,1.0,UNSPEC,,False,general,,Employees undertake annual data protection and cybersecurity training,employees ... undertake data protection and cybersecurity training
+amazon.pdf,29,years of work experience,15.0,UNSPEC,,False,general,,Chief security officer has over 15 years of work experience in cybersecurity,over 15 years of work experience
+amazon.pdf,30,Leased Square Footage North America,457104.0,UNSPEC,,False,general,"December 31, 2024","Leased square footage in North America as of December 31, 2024",Leased Square Footage North America
+amazon.pdf,30,Owned Square Footage North America,20741.0,UNSPEC,,False,general,"December 31, 2024","Owned square footage in North America as of December 31, 2024",Owned Square Footage North America
+amazon.pdf,30,Leased Square Footage International,166673.0,UNSPEC,,False,general,"December 31, 2024","Leased square footage in International as of December 31, 2024",Leased Square Footage International
+amazon.pdf,30,Owned Square Footage International,11741.0,UNSPEC,,False,general,"December 31, 2024","Owned square footage in International as of December 31, 2024",Owned Square Footage International
+amazon.pdf,30,AWS Leased Square Footage,24875.0,UNSPEC,,False,aws,"December 31, 2024","Leased square footage for AWS as of December 31, 2024",AWS Leased Square Footage
+amazon.pdf,30,AWS Owned Square Footage,24052.0,UNSPEC,,False,aws,"December 31, 2024","Owned square footage for AWS as of December 31, 2024",AWS Owned Square Footage
+amazon.pdf,31,Shareholders of record,12135.0,UNSPEC,,False,general,"Jan 29, 2025",Number of shareholders of record as of the specified date,"There were 12,135 shareholders of record"
+amazon.pdf,32,Forward-looking statements,,UNSPEC,,False,general,FY2024,Statement about uncertainty of future results,Forward-looking statements reflect management’s current expectations
+amazon.pdf,32,free cash flows,,UNSPEC,,False,fcf,,Driven by operating income and efficient management of working capital and capital expenditures,Free cash flows are driven primarily by increasing operating income
+amazon.pdf,32,operating income,,UNSPEC,,False,operating_income,,Primarily increased by sales growth and efficient cost management,Increases in operating income primarily result from increases in sales
+amazon.pdf,32,inventory turnover,,UNSPEC,,False,costs,,Inventory turnover varies due to product mix and supply chain factors,variability in inventory turnover over time
+amazon.pdf,32,accounts payable days,,UNSPEC,,False,costs,,Accounts payable days vary due to sales mix and vendor terms,variability in accounts payable days over time
+amazon.pdf,33,technology and infrastructure investment,,UNSPEC,,False,capex,,Investment is expected to increase over time,Spending in technology and infrastructure will increase
+amazon.pdf,33,AWS investment,,UNSPEC,,False,aws,,Investment in AWS is part of broader technology and infrastructure strategy,Investing in AWS to offer on-demand technology services
+amazon.pdf,33,Total shares outstanding,10800000000.0,UNSPEC,,False,general,"as of December 31, 2023","Total shares outstanding as of December 31, 2023",Total shares outstanding ... 10.8 billion
+amazon.pdf,33,Total shares outstanding,10900000000.0,UNSPEC,,False,general,"as of December 31, 2024","Total shares outstanding as of December 31, 2024",Total shares outstanding ... 10.9 billion
+amazon.pdf,33,Annual Report,2023.0,UNSPEC,,False,general,"year ended December 31, 2023","Reference to Annual Report on Form 10-K for the year ended December 31, 2023",Our Annual Report on Form 10-K ...
+amazon.pdf,33,"Year ended December 31, 2022",2022.0,UNSPEC,,False,general,"year ended December 31, 2022","Reference to discussion of financial condition and results of operations for the year ended December 31, 2022","discussion and analysis ... year ended December 31, 2022"
+amazon.pdf,34,Cost of sales,365000000.0,USD,$,False,costs,"December 31, 2024",Additional inventory valuation allowance would increase cost of sales,for every 1% ... $365 million
+amazon.pdf,34,Cash provided by operating activities,84946000000.0,USD,$,False,fcf,"Year Ended December 31, 2023",Positive cash flow from operations indicates strong operational performance,"Cash provided by operating activities $ 84,946"
+amazon.pdf,34,Cash provided by operating activities,115877000000.0,USD,$,False,fcf,"Year Ended December 31, 2024",Increase in cash flow from operations suggests improved business performance,"Cash provided by operating activities $ 115,877"
+amazon.pdf,34,Investing activities,-49833000000.0,USD,$,False,fcf,"Year Ended December 31, 2023",Negative cash flow from investing activities reflects capital expenditures,"Investing activities (49,833)"
+amazon.pdf,34,Investing activities,-94342000000.0,USD,$,False,fcf,"Year Ended December 31, 2024",Higher negative cash flow from investing activities shows increased capital spending,"Investing activities (94,342)"
+amazon.pdf,34,Financing activities,-15879000000.0,USD,$,False,fcf,"Year Ended December 31, 2023",Negative cash flow from financing activities reflects debt repayment or dividends,"Financing activities (15,879)"
+amazon.pdf,34,Financing activities,-11812000000.0,USD,$,False,fcf,"Year Ended December 31, 2024",Reduced negative cash flow from financing activities suggests lower debt repayment or dividend activity,"Financing activities (11,812)"
+amazon.pdf,34,"Cash, cash equivalents, and marketable securities",86800000000.0,USD,$,False,liquidity,"As of December 31, 2023",High liquidity level provides financial flexibility,"Cash, cash equivalents, and marketable securities balances ... $86.8 billion"
+amazon.pdf,34,"Cash, cash equivalents, and marketable securities",101200000000.0,USD,$,False,liquidity,"As of December 31, 2024",Increase in liquidity indicates growth in cash reserves,"Cash, cash equivalents, and marketable securities balances ... $101.2 billion"
+amazon.pdf,34,Foreign currency balances,23500000000.0,USD,$,False,liquidity,"As of December 31, 2023",Significant foreign currency holdings reflect international operations,Amounts held in foreign currencies ... $23.5 billion
+amazon.pdf,34,Foreign currency balances,25500000000.0,USD,$,False,liquidity,"As of December 31, 2024",Slight increase in foreign currency balances shows continued international presence,Amounts held in foreign currencies ... $25.5 billion
+amazon.pdf,34,Operating cash flow,84900000000.0,USD,$,False,fcf,2023,Cash provided by operating activities in 2023,Cash provided by (used in) operating activities was $84.9 billion
+amazon.pdf,34,Operating cash flow,115900000000.0,USD,$,False,fcf,2024,Cash provided by operating activities in 2024,Cash provided by (used in) operating activities was $115.9 billion
+amazon.pdf,35,Cash capital expenditures,48100000000.0,USD,$,False,capex,2023,Primarily reflects investments in technology infrastructure and fulfillment network,Cash capital expenditures were $48.1 billion
+amazon.pdf,35,Cash capital expenditures,77700000000.0,USD,$,False,capex,2024,Primarily reflects investments in technology infrastructure and fulfillment network,Cash capital expenditures were $77.7 billion
+amazon.pdf,35,Cash payments related to acquisition and investment activity,5800000000.0,USD,$,False,costs,2023,Includes funding for acquisition of One Medical,Cash payments ... $5.8 billion in 2023
+amazon.pdf,35,Cash payments related to acquisition and investment activity,7100000000.0,USD,$,False,costs,2024,Includes investments in convertible notes,Cash payments ... $7.1 billion in 2024
+amazon.pdf,35,Investment in convertible note from Anthropic,1250000000.0,USD,$,False,costs,Q3 2023,Investment in a convertible note,Invested $1.25 billion in a convertible note
+amazon.pdf,35,Investment in second convertible note,2750000000.0,USD,$,False,costs,Q1 2024,Second investment in a convertible note,Invested $2.75 billion in a second convertible note
+amazon.pdf,35,Investment in third convertible note,1300000000.0,USD,$,False,costs,Q4 2024,Third investment in a convertible note,Invested $1.3 billion in a third convertible note
+amazon.pdf,35,Cash provided by financing activities,-1.59e+19,USD,$,False,fcf,2023,Negative cash flow from financing activities in 2023,Cash provided by (used in) financing activities was $(15.9) billion
+amazon.pdf,35,Cash provided by financing activities,-1.18e+19,USD,$,False,fcf,2024,Negative cash flow from financing activities in 2024,Cash provided by (used in) financing activities was $(11.8) billion
+amazon.pdf,35,Proceeds from short-term debt and long-term debt,18100000000.0,USD,$,False,costs,2023,Inflows from short-term and long-term debt in 2023,"proceeds from short-term debt, and other and long-term-debt of $18.1 billion"
+amazon.pdf,35,Proceeds from short-term debt and long-term debt,5100000000.0,USD,$,False,costs,2024,Inflows from short-term and long-term debt in 2024,"proceeds from short-term debt, and other and long-term-debt of $5.1 billion"
+amazon.pdf,35,Payments of short-term debt and long-term debt,34000000000.0,USD,$,False,costs,2023,Outflows from short-term and long-term debt in 2023,"payments of short-term debt, and other, long-term debt, finance leases, and financing obligations of $34.0 billion"
+amazon.pdf,35,Payments of short-term debt and long-term debt,17000000000.0,USD,$,False,costs,2024,Outflows from short-term and long-term debt in 2024,"payments of short-term debt, and other, long-term debt, finance leases, and financing obligations of $17.0 billion"
+amazon.pdf,35,Property and equipment acquired under finance leases,642000000.0,USD,$,False,capex,2023,Value of property and equipment acquired under finance leases in 2023,Property and equipment acquired under finance leases was $642 million
+amazon.pdf,35,Property and equipment acquired under finance leases,854000000.0,USD,$,False,capex,2024,Value of property and equipment acquired under finance leases in 2024,Property and equipment acquired under finance leases was $854 million
+amazon.pdf,35,"Cash, cash equivalents, and marketable securities held by foreign subsidiaries",6300000000.0,USD,$,False,general,2024,Amount of cash and marketable securities held by foreign subsidiaries as of 2024,"cash, cash equivalents, and marketable securities held by foreign subsidiaries were $6.3 billion"
+amazon.pdf,35,Cash paid for U.S. and foreign income taxes,11200000000.0,USD,$,False,costs,2023,Cash paid for U.S. and foreign income taxes in 2023,Cash paid for U.S. (federal and state) and foreign income taxes...
+amazon.pdf,35,Cash paid for U.S. and foreign income taxes,12300000000.0,USD,$,False,costs,2024,Cash paid for U.S. and foreign income taxes in 2024,Cash paid for U.S. (federal and state) and foreign income taxes...
+amazon.pdf,35,"Restricted cash, cash equivalents, and marketable securities",503000000.0,USD,$,False,general,"December 31, 2023","Restricted cash, cash equivalents, and marketable securities as of December 31, 2023","As of December 31, 2023 and 2024, restricted cash..."
+amazon.pdf,35,"Restricted cash, cash equivalents, and marketable securities",3500000000.0,USD,$,False,general,"December 31, 2024","Restricted cash, cash equivalents, and marketable securities as of December 31, 2024","As of December 31, 2023 and 2024, restricted cash..."
+amazon.pdf,35,future cash needs,23.0,UNSPEC,,False,general,N/A,Uncertainty around future cash needs and cash flows,any projections of future cash needs and cash flows are subject to substantial uncertainty
+amazon.pdf,36,Net Sales North America 2023,35282800000.0,USD,$,False,revenue,"Year Ended December 31, 2023",North America net sales for 2023,"North America $ 352,828"
+amazon.pdf,36,Net Sales North America 2024,38749700000.0,USD,$,False,revenue,"Year Ended December 31, 2024",North America net sales for 2024,"North America $ 387,497"
+amazon.pdf,36,Net Sales International 2023,13120000000.0,USD,$,False,revenue,"Year Ended December 31, 2023",International net sales for 2023,"International 131,200"
+amazon.pdf,36,Net Sales International 2024,14290600000.0,USD,$,False,revenue,"Year Ended December 31, 2024",International net sales for 2024,"International 142,906"
+amazon.pdf,36,Net Sales AWS 2023,9075700000.0,USD,$,False,aws,"Year Ended December 31, 2023",AWS net sales for 2023,"AWS 90,757"
+amazon.pdf,36,Net Sales AWS 2024,10755600000.0,USD,$,False,aws,"Year Ended December 31, 2024",AWS net sales for 2024,"AWS 107,556"
+amazon.pdf,36,Consolidated Net Sales 2023,57478500000.0,USD,$,False,revenue,"Year Ended December 31, 2023",Total net sales for 2023,"Consolidated $ 574,785"
+amazon.pdf,36,Consolidated Net Sales 2024,63795900000.0,USD,$,False,revenue,"Year Ended December 31, 2024",Total net sales for 2024,"Consolidated $ 637,959"
+amazon.pdf,36,North America Year-over-year Percentage Growth 2023,12.0,UNSPEC,,True,revenue,Year-over-year Percentage Growth: North America 12 %,Year-over-year growth for North America in 2023,North America 12 %
+amazon.pdf,36,North America Year-over-year Percentage Growth 2024,10.0,UNSPEC,,True,revenue,Year-over-year Percentage Growth: North America 10 %,Year-over-year growth for North America in 2024,North America 10 %
+amazon.pdf,36,International Year-over-year Percentage Growth 2023,11.0,UNSPEC,,True,revenue,Year-over-year Percentage Growth: International 11,Year-over-year growth for International in 2023,International 11
+amazon.pdf,36,International Year-over-year Percentage Growth 2024,9.0,UNSPEC,,True,revenue,Year-over-year Percentage Growth: International 9,Year-over-year growth for International in 2024,International 9
+amazon.pdf,36,AWS Year-over-year Percentage Growth 2023,13.0,UNSPEC,,True,aws,Year-over-year Percentage Growth: AWS 13,Year-over-year growth for AWS in 2023,AWS 13
+amazon.pdf,36,AWS Year-over-year Percentage Growth 2024,19.0,UNSPEC,,True,aws,Year-over-year Percentage Growth: AWS 19,Year-over-year growth for AWS in 2024,AWS 19
+amazon.pdf,36,Consolidated Year-over-year Percentage Growth 2023,12.0,UNSPEC,,True,revenue,Year-over-year Percentage Growth: Consolidated 12,Year-over-year growth for consolidated net sales in 2023,Consolidated 12
+amazon.pdf,36,Consolidated Year-over-year Percentage Growth 2024,11.0,UNSPEC,,True,revenue,Year-over-year Percentage Growth: Consolidated 11,Year-over-year growth for consolidated net sales in 2024,Consolidated 11
+amazon.pdf,36,North America Year-over-year Percentage Growth excluding foreign exchange 2023,12.0,UNSPEC,,True,revenue,"Year-over-year Percentage Growth, excluding the effect of foreign exchange rates: North America 12 %",Year-over-year growth for North America excluding foreign exchange in 2023,North America 12 %
+amazon.pdf,36,North America Year-over-year Percentage Growth excluding foreign exchange 2024,10.0,UNSPEC,,True,revenue,"Year-over-year Percentage Growth, excluding the effect of foreign exchange rates: North America 10 %",Year-over-year growth for North America excluding foreign exchange in 2024,North America 10 %
+amazon.pdf,36,International Year-over-year Percentage Growth excluding foreign exchange 2023,11.0,UNSPEC,,True,revenue,"Year-over-year Percentage Growth, excluding the effect of foreign exchange rates: International 11",Year-over-year growth for International excluding foreign exchange in 2023,International 11
+amazon.pdf,36,International Year-over-year Percentage Growth excluding foreign exchange 2024,10.0,UNSPEC,,True,revenue,"Year-over-year Percentage Growth, excluding the effect of foreign exchange rates: International 10",Year-over-year growth for International excluding foreign exchange in 2024,International 10
+amazon.pdf,36,AWS Year-over-year Percentage Growth excluding foreign exchange 2023,13.0,UNSPEC,,True,aws,"Year-over-year Percentage Growth, excluding the effect of foreign exchange rates: AWS 13",Year-over-year growth for AWS excluding foreign exchange in 2023,AWS 13
+amazon.pdf,36,AWS Year-over-year Percentage Growth excluding foreign exchange 2024,19.0,UNSPEC,,True,aws,"Year-over-year Percentage Growth, excluding the effect of foreign exchange rates: AWS 19",Year-over-year growth for AWS excluding foreign exchange in 2024,AWS 19
+amazon.pdf,36,Consolidated Year-over-year Percentage Growth excluding foreign exchange 2023,12.0,UNSPEC,,True,revenue,"Year-over-year Percentage Growth, excluding the effect of foreign exchange rates: Consolidated 12",Year-over-year growth for consolidated net sales excluding foreign exchange in 2023,Consolidated 12
+amazon.pdf,36,Consolidated Year-over-year Percentage Growth excluding foreign exchange 2024,11.0,UNSPEC,,True,revenue,"Year-over-year Percentage Growth, excluding the effect of foreign exchange rates: Consolidated 11",Year-over-year growth for consolidated net sales excluding foreign exchange in 2024,Consolidated 11
+amazon.pdf,36,North America Net Sales Mix 2023,61.0,UNSPEC,,True,revenue,Net Sales Mix: North America 61 %,North America net sales mix in 2023,North America 61 %
+amazon.pdf,36,North America Net Sales Mix 2024,61.0,UNSPEC,,True,revenue,Net Sales Mix: North America 61 %,North America net sales mix in 2024,North America 61 %
+amazon.pdf,36,International Net Sales Mix 2023,23.0,UNSPEC,,True,revenue,Net Sales Mix: International 23,International net sales mix in 2023,International 23
+amazon.pdf,36,International Net Sales Mix 2024,22.0,UNSPEC,,True,revenue,Net Sales Mix: International 22,International net sales mix in 2024,International 22
+amazon.pdf,36,AWS Net Sales Mix 2023,16.0,UNSPEC,,True,aws,Net Sales Mix: AWS 16,AWS net sales mix in 2023,AWS 16
+amazon.pdf,36,AWS Net Sales Mix 2024,17.0,UNSPEC,,True,aws,Net Sales Mix: AWS 17,AWS net sales mix in 2024,AWS 17
+amazon.pdf,36,Consolidated Net Sales Mix 2023,100.0,UNSPEC,,True,revenue,Net Sales Mix: Consolidated 100 %,Consolidated net sales mix in 2023,Consolidated 100 %
+amazon.pdf,36,Consolidated Net Sales Mix 2024,100.0,UNSPEC,,True,revenue,Net Sales Mix: Consolidated 100 %,Consolidated net sales mix in 2024,Consolidated 100 %
+amazon.pdf,36,Sales Growth 2024,11.0,UNSPEC,,True,revenue,Sales increased 11% in 2024,Overall sales growth in 2024,Sales increased 11% in 2024
+amazon.pdf,36,Foreign Exchange Impact on Net Sales 2024,-2.3e+18,USD,$,False,revenue,"Year Ended December 31, 2024",Impact of foreign exchange on net sales in 2024,Changes in foreign exchange rates reduced net sales by $2.3 billion in 2024
+amazon.pdf,36,North America sales growth,10.0,UNSPEC,,True,revenue,2024,Sales growth driven by increased unit sales and customer focus,North America sales increased 10% in 2024
+amazon.pdf,36,North America net sales reduction,462000000.0,USD,$,False,costs,2024,Reduction due to changes in foreign exchange rates,Changes in foreign exchange rates reduced North America net sales by $462 million
+amazon.pdf,36,International sales growth,9.0,UNSPEC,,True,revenue,2024,Sales growth driven by increased unit sales and customer focus,International sales increased 9% in 2024
+amazon.pdf,36,International net sales reduction,1800000000.0,USD,$,False,costs,2024,Reduction due to changes in foreign exchange rates,Changes in foreign exchange rates reduced International net sales by $1.8 billion
+amazon.pdf,37,AWS sales,19.0,UNSPEC,,True,aws,2024,AWS sales increased by 19% in 2024 compared to the prior year,AWS sales increased 19% in 2024
+amazon.pdf,37,Cost of sales 2023,304739000000.0,USD,$,False,costs,"Year Ended December 31, 2023",Cost of sales for 2023 was $304.7 billion,"Cost of sales $ 304,739"
+amazon.pdf,37,Cost of sales 2024,326288000000.0,USD,$,False,costs,"Year Ended December 31, 2024",Cost of sales for 2024 was $326.3 billion,"Cost of sales $ 326,288"
+amazon.pdf,37,Fulfillment 2023,90619000000.0,USD,$,False,costs,"Year Ended December 31, 2023",Fulfillment costs for 2023 were $90.6 billion,"Fulfillment 90,619"
+amazon.pdf,37,Fulfillment 2024,98505000000.0,USD,$,False,costs,"Year Ended December 31, 2024",Fulfillment costs for 2024 were $98.5 billion,"Fulfillment 98,505"
+amazon.pdf,37,Technology and infrastructure 2023,85622000000.0,USD,$,False,costs,"Year Ended December 31, 2023",Technology and infrastructure costs for 2023 were $85.6 billion,"Technology and infrastructure 85,622"
+amazon.pdf,37,Technology and infrastructure 2024,88544000000.0,USD,$,False,costs,"Year Ended December 31, 2024",Technology and infrastructure costs for 2024 were $88.5 billion,"Technology and infrastructure 88,544"
+amazon.pdf,37,Sales and marketing 2023,44370000000.0,USD,$,False,costs,"Year Ended December 31, 2023",Sales and marketing costs for 2023 were $44.4 billion,"Sales and marketing 44,370"
+amazon.pdf,37,Sales and marketing 2024,43907000000.0,USD,$,False,costs,"Year Ended December 31, 2024",Sales and marketing costs for 2024 were $43.9 billion,"Sales and marketing 43,907"
+amazon.pdf,37,General and administrative 2023,11816000000.0,USD,$,False,costs,"Year Ended December 31, 2023",General and administrative costs for 2023 were $11.8 billion,"General and administrative 11,816"
+amazon.pdf,37,General and administrative 2024,11359000000.0,USD,$,False,costs,"Year Ended December 31, 2024",General and administrative costs for 2024 were $11.4 billion,"General and administrative 11,359"
+amazon.pdf,37,"Other operating expense (income), net 2023",767000000.0,USD,$,False,costs,"Year Ended December 31, 2023","Other operating expense (income), net for 2023 was $767 million","Other operating expense (income), net 767"
+amazon.pdf,37,"Other operating expense (income), net 2024",763000000.0,USD,$,False,costs,"Year Ended December 31, 2024","Other operating expense (income), net for 2024 was $763 million","Other operating expense (income), net 763"
+amazon.pdf,37,Total operating expenses 2023,537933000000.0,USD,$,False,costs,"Year Ended December 31, 2023",Total operating expenses for 2023 were $537.9 billion,"Total operating expenses $ 537,933"
+amazon.pdf,37,Total operating expenses 2024,569366000000.0,USD,$,False,costs,"Year Ended December 31, 2024",Total operating expenses for 2024 were $569.4 billion,"Total operating expenses $ 569,366"
+amazon.pdf,37,Cost of sales growth 2024,7.0,UNSPEC,,True,costs,Year-over-year,Cost of sales grew by 7% in 2024 compared to the prior year,Cost of sales 6 % 7 %
+amazon.pdf,37,Fulfillment growth 2024,9.0,UNSPEC,,True,costs,Year-over-year,Fulfillment costs grew by 9% in 2024 compared to the prior year,Fulfillment 7 9
+amazon.pdf,37,Technology and infrastructure growth 2024,3.0,UNSPEC,,True,costs,Year-over-year,Technology and infrastructure costs decreased by 3% in 2024 compared to the prior year,Technology and infrastructure 17 3
+amazon.pdf,37,Sales and marketing growth 2024,-1.0,UNSPEC,,True,costs,Year-over-year,Sales and marketing costs decreased by 1% in 2024 compared to the prior year,Sales and marketing 5 (1)
+amazon.pdf,37,General and administrative growth 2024,-4.0,UNSPEC,,True,costs,Year-over-year,General and administrative costs decreased by 4% in 2024 compared to the prior year,General and administrative (1) (4)
+amazon.pdf,37,"Other operating expense (income), net growth 2024",-1.0,UNSPEC,,True,costs,Year-over-year,"Other operating expense (income), net decreased by 1% in 2024 compared to the prior year","Other operating expense (income), net (39) (1)"
+amazon.pdf,37,Cost of sales as percent of net sales 2023,53.0,UNSPEC,,True,margin,"Year Ended December 31, 2023",Cost of sales represented 53.0% of net sales in 2023,Cost of sales 53.0 % 51.1 %
+amazon.pdf,37,Cost of sales as percent of net sales 2024,51.0,UNSPEC,,True,margin,"Year Ended December 31, 2024",Cost of sales represented 51.1% of net sales in 2024,Cost of sales 53.0 % 51.1 %
+amazon.pdf,37,Fulfillment as percent of net sales 2023,15.0,UNSPEC,,True,margin,"Year Ended December 31, 2023",Fulfillment costs represented 15.8% of net sales in 2023,Fulfillment 15.8 15.4
+amazon.pdf,37,Fulfillment as percent of net sales 2024,15.0,UNSPEC,,True,margin,"Year Ended December 31, 2024",Fulfillment costs represented 15.4% of net sales in 2024,Fulfillment 15.8 15.4
+amazon.pdf,37,Technology and infrastructure as percent of net sales 2023,14.0,UNSPEC,,True,margin,"Year Ended December 31, 2023",Technology and infrastructure costs represented 14.9% of net sales in 2023,Technology and infrastructure 14.9 13.9
+amazon.pdf,37,Technology and infrastructure as percent of net sales 2024,13.0,UNSPEC,,True,margin,"Year Ended December 31, 2024",Technology and infrastructure costs represented 13.9% of net sales in 2024,Technology and infrastructure 14.9 13.9
+amazon.pdf,37,Sales and marketing as percent of net sales 2023,7.0,UNSPEC,,True,margin,"Year Ended December 31, 2023",Sales and marketing costs represented 7.7% of net sales in 2023,Sales and marketing 7.7 6.9
+amazon.pdf,37,Sales and marketing as percent of net sales 2024,6.0,UNSPEC,,True,margin,"Year Ended December 31, 2024",Sales and marketing costs represented 6.9% of net sales in 2024,Sales and marketing 7.7 6.9
+amazon.pdf,37,General and administrative as percent of net sales 2023,2.0,UNSPEC,,True,margin,"Year Ended December 31, 2023",General and administrative costs represented 2.1% of net sales in 2023,General and administrative 2.1 1.8
+amazon.pdf,37,General and administrative as percent of net sales 2024,1.0,UNSPEC,,True,margin,"Year Ended December 31, 2024",General and administrative costs represented 1.8% of net sales in 2024,General and administrative 2.1 1.8
+amazon.pdf,37,"Other operating expense (income), net as percent of net sales 2023",0.0,UNSPEC,,True,margin,"Year Ended December 31, 2023","Other operating expense (income), net represented 0.1% of net sales in 2023","Other operating expense (income), net 0.1 0.1"
+amazon.pdf,37,"Other operating expense (income), net as percent of net sales 2024",0.0,UNSPEC,,True,margin,"Year Ended December 31, 2024","Other operating expense (income), net represented 0.1% of net sales in 2024","Other operating expense (income), net 0.1 0.1"
+amazon.pdf,37,Shipping costs 2023,89500000000.0,USD,$,False,costs,"Year Ended December 31, 2023",Shipping costs for 2023 were $89.5 billion,Shipping costs were $89.5 billion and $95.8 billion in 2023 and 2024.
+amazon.pdf,37,Shipping costs 2024,95800000000.0,USD,$,False,costs,"Year Ended December 31, 2024",Shipping costs for 2024 were $95.8 billion,Shipping costs were $89.5 billion and $95.8 billion in 2023 and 2024.
+amazon.pdf,37,Fulfillment costs,25.0,UNSPEC,,True,costs,FY2024,Fulfillment costs include payment processing and staffing expenses,Fulfillment costs primarily consist of ...
+amazon.pdf,38,Fulfillment costs,223000000.0,USD,$,False,costs,2024,Foreign exchange rates reduced fulfillment costs by $223 million in 2024,Changes in foreign exchange rates reduced fulfillment costs by $223 million
+amazon.pdf,38,technology and infrastructure costs,244000000.0,USD,$,False,costs,2024,Changes in foreign exchange rates reduced technology and infrastructure costs,Changes in foreign exchange rates reduced ...
+amazon.pdf,38,sales and marketing costs,263000000.0,USD,$,False,costs,2024,Foreign exchange rates reduced sales and marketing costs,Changes in foreign exchange rates reduced sales and marketing costs by $263 million in 2024
+amazon.pdf,39,General and administrative costs,767000000.0,USD,$,False,costs,2023,"Other operating expense (income), net was $767 million in 2023","Other operating expense (income), net was $767 million"
+amazon.pdf,39,General and administrative costs,763000000.0,USD,$,False,costs,2024,"Other operating expense (income), net was $763 million in 2024","Other operating expense (income), net was $763 million"
+amazon.pdf,39,North America operating income,14877000000.0,USD,$,False,operating_income,2023,North America operating income was $14.9 billion in 2023,"North America $ 14,877 $ 24,967"
+amazon.pdf,39,North America operating income,24967000000.0,USD,$,False,operating_income,2024,North America operating income was $25.0 billion in 2024,"North America $ 14,877 $ 24,967"
+amazon.pdf,39,International operating income,-2.656e+18,USD,$,False,operating_income,2023,International operating loss was $2.7 billion in 2023,"International (2,656) 3,792"
+amazon.pdf,39,International operating income,3792000000.0,USD,$,False,operating_income,2024,International operating income was $3.8 billion in 2024,"International (2,656) 3,792"
+amazon.pdf,39,AWS operating income,24631000000.0,USD,$,False,aws,2023,AWS operating income was $24.6 billion in 2023,"AWS 24,631 39,834"
+amazon.pdf,39,AWS operating income,39834000000.0,USD,$,False,aws,2024,AWS operating income was $39.8 billion in 2024,"AWS 24,631 39,834"
+amazon.pdf,39,Consolidated operating income,36852000000.0,USD,$,False,operating_income,2023,Consolidated operating income was $36.9 billion in 2023,"Consolidated $ 36,852 $ 68,593"
+amazon.pdf,39,Consolidated operating income,68593000000.0,USD,$,False,operating_income,2024,Consolidated operating income was $68.6 billion in 2024,"Consolidated $ 36,852 $ 68,593"
+amazon.pdf,39,Foreign exchange impact on operating income,240000000.0,USD,$,False,general,2024,Foreign exchange rates positively impacted operating income by $240 million in 2024,Changes in foreign exchange rates positively impacted operating income by $240 million
+amazon.pdf,39,Interest income,2900000000.0,USD,$,False,costs,2023,Interest income was driven by higher average balance of invested funds,Interest income was $2.9 billion
+amazon.pdf,39,Interest income,4700000000.0,USD,$,False,costs,2024,Interest income was driven by higher average balance of invested funds,Interest income was $4.7 billion
+amazon.pdf,39,Interest expense,3200000000.0,USD,$,False,costs,2023,Interest expense related to debt and finance leases,Interest expense was $3.2 billion
+amazon.pdf,39,Interest expense,2400000000.0,USD,$,False,costs,2024,Interest expense related to debt and finance leases,Interest expense was $2.4 billion
+amazon.pdf,39,"Other income (expense), net",938000000.0,USD,$,False,general,2023,"Other income (expense), net includes equity securities valuations and foreign currency adjustments","Other income (expense), net was $938 million"
+amazon.pdf,39,"Other income (expense), net",-2.3e+18,USD,$,False,general,2024,"Other income (expense), net includes equity securities valuations and foreign currency adjustments","Other income (expense), net was $(2.3) billion"
+amazon.pdf,39,Long-term lease liabilities,77300000000.0,USD,$,False,costs,2023,Long-term lease liabilities as of December 31,Long-term lease liabilities were $77.3 billion
+amazon.pdf,39,Long-term lease liabilities,78300000000.0,USD,$,False,costs,2024,Long-term lease liabilities as of December 31,Long-term lease liabilities were $78.3 billion
+amazon.pdf,39,Long-term debt,58300000000.0,USD,$,False,costs,2023,Long-term debt as of December 31,Long-term debt was $58.3 billion
+amazon.pdf,39,Long-term debt,52600000000.0,USD,$,False,costs,2024,Long-term debt as of December 31,Long-term debt was $52.6 billion
+amazon.pdf,39,Marketable equity securities valuation gain,797000000.0,USD,$,False,other_income_expense,2023,Gain from equity investment in Rivian,marketable equity securities valuation gain of $797 million
+amazon.pdf,39,Marketable equity securities valuation loss,-1.6e+19,USD,$,False,other_income_expense,2024,Loss from equity investment in Rivian,marketable equity securities valuation loss of $(1.6) billion
+amazon.pdf,40,Free cash flow,36813000000.0,USD,$,False,fcf,2023,Free cash flow calculated from operating activities and purchases of property and equipment,"Free cash flow $36,813 million"
+amazon.pdf,40,Free cash flow,38219000000.0,USD,$,False,fcf,2024,Free cash flow calculated from operating activities and purchases of property and equipment,"Free cash flow $38,219 million"
+amazon.pdf,40,Provision for income taxes,9300000000.0,USD,$,False,costs,2024,Income tax provision for the year,Provision for income taxes of $9.3 billion
+amazon.pdf,40,Provision for income taxes,7100000000.0,USD,$,False,costs,2023,Income tax provision for the year,Provision for income taxes of $7.1 billion
+amazon.pdf,40,Free cash flow,36813000000.0,USD,$,False,fcf,2023,Free cash flow for 2023,"Free cash flow 36,813"
+amazon.pdf,40,Free cash flow,38219000000.0,USD,$,False,fcf,2024,Free cash flow for 2024,"Free cash flow 38,219"
+amazon.pdf,40,Free cash flow less principal repayments of finance leases and financing obligations,32158000000.0,USD,$,False,fcf,2023,Free cash flow after subtracting principal repayments for 2023,"Free cash flow less principal repayments ... $ 32,158"
+amazon.pdf,40,Free cash flow less principal repayments of finance leases and financing obligations,35507000000.0,USD,$,False,fcf,2024,Free cash flow after subtracting principal repayments for 2024,"Free cash flow less principal repayments ... $ 35,507"
+amazon.pdf,40,Net cash provided by (used in) operating activities,84946000000.0,USD,$,False,revenue,2023,Cash generated from operations for 2023,"Net cash provided by (used in) operating activities $ 84,946"
+amazon.pdf,40,Net cash provided by (used in) operating activities,115877000000.0,USD,$,False,revenue,2024,Cash generated from operations for 2024,"Net cash provided by (used in) operating activities $ 115,877"
+amazon.pdf,41,Net cash provided by (used in) operating activities,84946000000.0,USD,$,False,fcf,2023,Operating cash flow for 2023,"Net cash provided by (used in) operating activities $ 84,946"
+amazon.pdf,41,Net cash provided by (used in) operating activities,115877000000.0,USD,$,False,fcf,2024,Operating cash flow for 2024,"Net cash provided by (used in) operating activities $ 115,877"
+amazon.pdf,41,"Purchases of property and equipment, net of proceeds from sales and incentives",-48133000000.0,USD,$,False,capex,2023,Capital expenditures for 2023,"Purchases of property and equipment, net of proceeds from sales and incentives (48,133)"
+amazon.pdf,41,"Purchases of property and equipment, net of proceeds from sales and incentives",-77658000000.0,USD,$,False,capex,2024,Capital expenditures for 2024,"Purchases of property and equipment, net of proceeds from sales and incentives (77,658)"
+amazon.pdf,41,Free cash flow,36813000000.0,USD,$,False,fcf,2023,Free cash flow for 2023,"Free cash flow 36,813"
+amazon.pdf,41,Free cash flow,38219000000.0,USD,$,False,fcf,2024,Free cash flow for 2024,"Free cash flow 38,219"
+amazon.pdf,41,Equipment acquired under finance leases,-310000000.0,USD,$,False,fcf,2023,Equipment leased under finance leases for 2023,Equipment acquired under finance leases (1) (310)
+amazon.pdf,41,Equipment acquired under finance leases,-572000000.0,USD,$,False,fcf,2024,Equipment leased under finance leases for 2024,Equipment acquired under finance leases (1) (572)
+amazon.pdf,41,Principal repayments of all other finance leases,-683000000.0,USD,$,False,fcf,2023,Principal repayments for finance leases in 2023,Principal repayments of all other finance leases (2) (683)
+amazon.pdf,41,Principal repayments of all other finance leases,-767000000.0,USD,$,False,fcf,2024,Principal repayments for finance leases in 2024,Principal repayments of all other finance leases (2) (767)
+amazon.pdf,41,Principal repayments of financing obligations,-271000000.0,USD,$,False,fcf,2023,Repayments of financing obligations in 2023,Principal repayments of financing obligations (271)
+amazon.pdf,41,Principal repayments of financing obligations,-669000000.0,USD,$,False,fcf,2024,Repayments of financing obligations in 2024,Principal repayments of financing obligations (669)
+amazon.pdf,41,Free cash flow less equipment finance leases and principal repayments of all other finance leases and financing obligations,35549000000.0,USD,$,False,fcf,2023,Adjusted free cash flow for 2023,"Free cash flow less equipment finance leases and principal repayments of all other finance leases and financing obligations $ 35,549"
+amazon.pdf,41,Free cash flow less equipment finance leases and principal repayments of all other finance leases and financing obligations,36211000000.0,USD,$,False,fcf,2024,Adjusted free cash flow for 2024,"Free cash flow less equipment finance leases and principal repayments of all other finance leases and financing obligations $ 36,211"
+amazon.pdf,41,Net sales,574785000000.0,USD,$,False,revenue,"Year Ended December 31, 2023","Net sales reported for the year ended December 31, 2023","Net sales $ 574,785"
+amazon.pdf,41,Net sales effect from foreign exchange rates,71000000.0,USD,$,False,costs,"Year Ended December 31, 2023","Effect of foreign exchange rate changes on net sales for the year ended December 31, 2023",Exchange At Prior Rate Year As Rate
+amazon.pdf,41,Net sales,640294000000.0,USD,$,False,revenue,"Year Ended December 31, 2024","Net sales reported for the year ended December 31, 2024","Net sales $ 640,294"
+amazon.pdf,41,Net sales effect from foreign exchange rates,2335000000.0,USD,$,False,costs,"Year Ended December 31, 2024","Effect of foreign exchange rate changes on net sales for the year ended December 31, 2024",Exchange At Prior Rate Year As Rate
+amazon.pdf,41,Operating expenses,537933000000.0,USD,$,False,costs,"Year Ended December 31, 2023","Operating expenses reported for the year ended December 31, 2023","Operating expenses 537,933"
+amazon.pdf,41,Operating expenses effect from foreign exchange rates,531000000.0,USD,$,False,costs,"Year Ended December 31, 2023","Effect of foreign exchange rate changes on operating expenses for the year ended December 31, 2023",Exchange At Prior Rate Year As Rate
+amazon.pdf,41,Operating expenses,571832000000.0,USD,$,False,costs,"Year Ended December 31, 2024","Operating expenses reported for the year ended December 31, 2024","Operating expenses 569,366"
+amazon.pdf,41,Operating expenses effect from foreign exchange rates,2466000000.0,USD,$,False,costs,"Year Ended December 31, 2024","Effect of foreign exchange rate changes on operating expenses for the year ended December 31, 2024",Exchange At Prior Rate Year As Rate
+amazon.pdf,41,Operating income,36392000000.0,USD,$,False,operating_income,"Year Ended December 31, 2023","Operating income reported for the year ended December 31, 2023","Operating income 36,852"
+amazon.pdf,41,Operating income effect from foreign exchange rates,-4600000000.0,USD,$,False,costs,"Year Ended December 31, 2023","Effect of foreign exchange rate changes on operating income for the year ended December 31, 2023",Exchange At Prior Rate Year As Rate
+amazon.pdf,41,Operating income,68462000000.0,USD,$,False,operating_income,"Year Ended December 31, 2024","Operating income reported for the year ended December 31, 2024","Operating income 68,593"
+amazon.pdf,41,Operating income effect from foreign exchange rates,-1310000000.0,USD,$,False,costs,"Year Ended December 31, 2024","Effect of foreign exchange rate changes on operating income for the year ended December 31, 2024",Exchange At Prior Rate Year As Rate
+amazon.pdf,42,Net sales guidance,151000000000.0,USD,$,False,guidance,Q1 2025,Lower end of net sales guidance for Q1 2025,Net sales are expected to be between $151.0 billion
+amazon.pdf,42,Net sales guidance,155500000000.0,USD,$,False,guidance,Q1 2025,Upper end of net sales guidance for Q1 2025,Net sales are expected to be between $155.5 billion
+amazon.pdf,42,Net sales growth guidance,5.0,UNSPEC,,True,guidance,Q1 2025,Lower end of net sales growth guidance compared to Q1 2024,to grow between 5% and 9% compared with first quarter 2024
+amazon.pdf,42,Net sales growth guidance,9.0,UNSPEC,,True,guidance,Q1 2025,Upper end of net sales growth guidance compared to Q1 2024,to grow between 5% and 9% compared with first quarter 2024
+amazon.pdf,42,Foreign exchange impact,2100000000.0,USD,$,False,guidance,Q1 2025,Unusually large unfavorable impact from foreign exchange rates,"unusually large, unfavorable impact of approximately $2.1 billion"
+amazon.pdf,42,Foreign exchange impact in basis points,150.0,UNSPEC,,False,guidance,Q1 2025,Foreign exchange impact in basis points,150 basis points from foreign exchange rates
+amazon.pdf,42,Leap Year impact,1500000000.0,USD,$,False,guidance,Q1 2024,Impact from Leap Year on net sales in Q1 2024,added approximately $1.5 billion in net sales
+amazon.pdf,42,Operating income guidance,14000000000.0,USD,$,False,guidance,Q1 2025,Lower end of operating income guidance for Q1 2025,Operating income is expected to be between $14.0 billion
+amazon.pdf,42,Operating income guidance,18000000000.0,USD,$,False,guidance,Q1 2025,Upper end of operating income guidance for Q1 2025,Operating income is expected to be between $18.0 billion
+amazon.pdf,43,Long-term debt face value,58000000000.0,USD,$,False,costs,"December 31, 2024","Face value of long-term debt as of December 31, 2024","As of December 31, 2024, we had long-term debt with a face value of $58.0 billion"
+amazon.pdf,43,Money market funds fair value,28282000000.0,USD,$,False,cash,"December 31, 2024","Fair value of money market funds as of December 31, 2024","Money market funds $ 28,282"
+amazon.pdf,43,Corporate debt securities fair value,51139000000.0,USD,$,False,investments,"December 31, 2024","Fair value of corporate debt securities as of December 31, 2024","Corporate debt securities 47,908 1,779 1,086 311 55 — 51,139"
+amazon.pdf,43,U.S. government and agency securities fair value,3457000000.0,USD,$,False,investments,"December 31, 2024","Fair value of U.S. government and agency securities as of December 31, 2024","U.S. government and agency securities 1,986 928 215 65 50 213 3,457"
+amazon.pdf,43,Asset-backed securities fair value,1541000000.0,USD,$,False,investments,"December 31, 2024","Fair value of asset-backed securities as of December 31, 2024","Asset-backed securities 450 262 195 226 188 220 1,541"
+amazon.pdf,43,Foreign government and agency securities fair value,180000000.0,USD,$,False,investments,"December 31, 2024","Fair value of foreign government and agency securities as of December 31, 2024",Foreign government and agency securities 151 2 27 — — — 180
+amazon.pdf,43,Other debt securities fair value,68000000.0,USD,$,False,investments,"December 31, 2024","Fair value of other debt securities as of December 31, 2024",Other debt securities 44 8 8 8 — — 68
+amazon.pdf,43,Cash equivalents and marketable debt securities fair value,84667000000.0,USD,$,False,investments,"December 31, 2024","Total fair value of cash equivalents and marketable debt securities as of December 31, 2024","Cash equivalents and marketable debt securities $ 84,667"
+amazon.pdf,44,International segment net sales decrease,1800000000.0,USD,$,False,revenue,FY2024,Net sales decreased due to foreign exchange rate fluctuations compared to the prior year,International segment net sales decreased by $1.8 billion
+amazon.pdf,44,Foreign funds balance,25500000000.0,USD,$,False,costs,FY2024,"Balance of foreign-denominated cash, cash equivalents, and marketable securities","foreign funds as of December 31, 2024, of $25.5 billion"
+amazon.pdf,44,Loss from 5% adverse foreign exchange change,1300000000.0,USD,$,False,costs,FY2024,Potential loss from a 5% adverse change in foreign exchange rates on foreign funds,an assumed 5% adverse change ... would result in declines of $1.3 billion
+amazon.pdf,44,Loss from 10% adverse foreign exchange change,2600000000.0,USD,$,False,costs,FY2024,Potential loss from a 10% adverse change in foreign exchange rates on foreign funds,an assumed 10% adverse change ... would result in declines of $2.6 billion
+amazon.pdf,44,Loss from 20% adverse foreign exchange change,5100000000.0,USD,$,False,costs,FY2024,Potential loss from a 20% adverse change in foreign exchange rates on foreign funds,an assumed 20% adverse change ... would result in declines of $5.1 billion
+amazon.pdf,44,Loss from 5% adverse foreign exchange change on intercompany balances,305000000.0,USD,$,False,costs,FY2024,Potential loss from a 5% adverse change in foreign exchange rates on intercompany balances,an assumed 5% adverse change ... would result in losses of $305 million
+amazon.pdf,44,Loss from 10% adverse foreign exchange change on intercompany balances,605000000.0,USD,$,False,costs,FY2024,Potential loss from a 10% adverse change in foreign exchange rates on intercompany balances,an assumed 10% adverse change ... would result in losses of $605 million
+amazon.pdf,44,Loss from 20% adverse foreign exchange change on intercompany balances,1200000000.0,USD,$,False,costs,FY2024,Potential loss from a 20% adverse change in foreign exchange rates on intercompany balances,an assumed 20% adverse change ... would result in losses of $1.2 billion
+amazon.pdf,44,Equity investment value,22100000000.0,USD,$,False,general,FY2024,"Recorded value of equity, equity warrant, and convertible debt investments","recorded value in equity, equity warrant, and convertible debt investments ... was $22.1 billion"
+amazon.pdf,44,Equity and equity warrant investments,4600000000.0,USD,$,False,general,"December 31, 2024","Equity and equity warrant investments in publicly traded companies, including Rivian, are valued at $4.6 billion",Our equity and equity warrant investments ... $4.6 billion
+amazon.pdf,45,Page number,45.0,UNSPEC,,False,general,,Document page number indicated,TEXT (page 45):
+amazon.pdf,46,Operating income,41600000000.0,USD,$,False,operating_income,FY2024,Operating income increased due to higher revenue and cost optimization,Operating income increased ...
+amazon.pdf,46,Net income,7390000000.0,USD,$,False,net_income,FY2024,Net income grew on back-to-school demand and cost management,Net income grew ...
+amazon.pdf,46,Revenue,574000000000.0,USD,$,False,revenue,FY2024,Revenue increased driven by strong retail and cloud growth,Revenue increased ...
+amazon.pdf,46,audits,34.0,UNSPEC,,False,general,,Number of critical audit matters identified,Critical Audit Matter The critical audit matter communicated below is a matter arising from the current period audit
+amazon.pdf,47,Accrued liabilities for tax contingencies,6500000000.0,USD,$,False,costs,"December 31, 2024",Company reported accrued liabilities for tax contingencies,the Company reported accrued liabilities of $6.5 billion
+amazon.pdf,47,auditor_serve_years,29.0,UNSPEC,,False,general,as of 2025,Auditor has served the company since 1996,We have served as the Company’s auditor since 1996.
+amazon.pdf,48,Net income,-2722000000.0,USD,$,False,net_income,2022,Net loss in 2022 due to business challenges,"Net income (loss) (2,722)"
+amazon.pdf,48,Net income,30425000000.0,USD,$,False,net_income,2023,Strong recovery in net income in 2023,"Net income (loss) 30,425"
+amazon.pdf,48,Net income,59248000000.0,USD,$,False,net_income,2024,Significant growth in net income in 2024,"Net income (loss) 59,248"
+amazon.pdf,48,Depreciation and amortization,41921000000.0,USD,$,False,costs,2022,High depreciation and amortization in 2022,"Depreciation and amortization ... 41,921"
+amazon.pdf,48,Depreciation and amortization,48663000000.0,USD,$,False,costs,2023,Increased depreciation and amortization in 2023,"Depreciation and amortization ... 48,663"
+amazon.pdf,48,Depreciation and amortization,52795000000.0,USD,$,False,costs,2024,Continued high depreciation and amortization in 2024,"Depreciation and amortization ... 52,795"
+amazon.pdf,48,Stock-based compensation,19621000000.0,USD,$,False,costs,2022,Significant stock-based compensation expense in 2022,"Stock-based compensation 19,621"
+amazon.pdf,48,Stock-based compensation,24023000000.0,USD,$,False,costs,2023,Higher stock-based compensation in 2023,"Stock-based compensation 24,023"
+amazon.pdf,48,Stock-based compensation,22011000000.0,USD,$,False,costs,2024,Slight decline in stock-based compensation in 2024,"Stock-based compensation 22,011"
+amazon.pdf,48,Net cash provided by operating activities,46752000000.0,USD,$,False,fcf,2022,Positive cash flow from operations in 2022,"Net cash provided by ... 46,752"
+amazon.pdf,48,Net cash provided by operating activities,84946000000.0,USD,$,False,fcf,2023,Higher cash flow from operations in 2023,"Net cash provided by ... 84,946"
+amazon.pdf,48,Net cash provided by operating activities,115877000000.0,USD,$,False,fcf,2024,Substantial increase in cash flow from operations in 2024,"Net cash provided by ... 115,877"
+amazon.pdf,49,Net product sales,242901000000.0,USD,$,False,revenue,2022,Net product sales for 2022,"Net product sales $ 242,901"
+amazon.pdf,49,Net product sales,255887000000.0,USD,$,False,revenue,2023,Net product sales for 2023,"Net product sales $ 255,887"
+amazon.pdf,49,Net product sales,272311000000.0,USD,$,False,revenue,2024,Net product sales for 2024,"Net product sales $ 272,311"
+amazon.pdf,49,Net service sales,271082000000.0,USD,$,False,revenue,2022,Net service sales for 2022,"Net service sales 271,082"
+amazon.pdf,49,Net service sales,318898000000.0,USD,$,False,revenue,2023,Net service sales for 2023,"Net service sales 318,898"
+amazon.pdf,49,Net service sales,365648000000.0,USD,$,False,revenue,2024,Net service sales for 2024,"Net service sales 365,648"
+amazon.pdf,49,Total net sales,513983000000.0,USD,$,False,revenue,2022,Total net sales for 2022,"Total net sales 513,983"
+amazon.pdf,49,Total net sales,574785000000.0,USD,$,False,revenue,2023,Total net sales for 2023,"Total net sales 574,785"
+amazon.pdf,49,Total net sales,637959000000.0,USD,$,False,revenue,2024,Total net sales for 2024,"Total net sales 637,959"
+amazon.pdf,49,Cost of sales,288831000000.0,USD,$,False,costs,2022,Cost of sales for 2022,"Cost of sales 288,831"
+amazon.pdf,49,Cost of sales,304739000000.0,USD,$,False,costs,2023,Cost of sales for 2023,"Cost of sales 304,739"
+amazon.pdf,49,Cost of sales,326288000000.0,USD,$,False,costs,2024,Cost of sales for 2024,"Cost of sales 326,288"
+amazon.pdf,49,Fulfillment,84299000000.0,USD,$,False,costs,2022,Fulfillment expenses for 2022,"Fulfillment 84,299"
+amazon.pdf,49,Fulfillment,90619000000.0,USD,$,False,costs,2023,Fulfillment expenses for 2023,"Fulfillment 90,619"
+amazon.pdf,49,Fulfillment,98505000000.0,USD,$,False,costs,2024,Fulfillment expenses for 2024,"Fulfillment 98,505"
+amazon.pdf,49,Technology and infrastructure,73213000000.0,USD,$,False,costs,2022,Technology and infrastructure expenses for 2022,"Technology and infrastructure 73,213"
+amazon.pdf,49,Technology and infrastructure,85622000000.0,USD,$,False,costs,2023,Technology and infrastructure expenses for 2023,"Technology and infrastructure 85,622"
+amazon.pdf,49,Technology and infrastructure,88544000000.0,USD,$,False,costs,2024,Technology and infrastructure expenses for 2024,"Technology and infrastructure 88,544"
+amazon.pdf,49,Sales and marketing,42238000000.0,USD,$,False,costs,2022,Sales and marketing expenses for 2022,"Sales and marketing 42,238"
+amazon.pdf,49,Sales and marketing,44370000000.0,USD,$,False,costs,2023,Sales and marketing expenses for 2023,"Sales and marketing 44,370"
+amazon.pdf,49,Sales and marketing,43907000000.0,USD,$,False,costs,2024,Sales and marketing expenses for 2024,"Sales and marketing 43,907"
+amazon.pdf,49,General and administrative,11891000000.0,USD,$,False,costs,2022,General and administrative expenses for 2022,"General and administrative 11,891"
+amazon.pdf,49,General and administrative,11816000000.0,USD,$,False,costs,2023,General and administrative expenses for 2023,"General and administrative 11,816"
+amazon.pdf,49,General and administrative,11359000000.0,USD,$,False,costs,2024,General and administrative expenses for 2024,"General and administrative 11,359"
+amazon.pdf,49,"Other operating expense (income), net",1263000000.0,USD,$,False,costs,2022,Other operating expense (income) for 2022,"Other operating expense (income), net 1,263"
+amazon.pdf,49,"Other operating expense (income), net",767000000.0,USD,$,False,costs,2023,Other operating expense (income) for 2023,"Other operating expense (income), net 767"
+amazon.pdf,49,"Other operating expense (income), net",763000000.0,USD,$,False,costs,2024,Other operating expense (income) for 2024,"Other operating expense (income), net 763"
+amazon.pdf,49,Total operating expenses,501735000000.0,USD,$,False,costs,2022,Total operating expenses for 2022,"Total operating expenses 501,735"
+amazon.pdf,49,Total operating expenses,537933000000.0,USD,$,False,costs,2023,Total operating expenses for 2023,"Total operating expenses 537,933"
+amazon.pdf,49,Total operating expenses,569366000000.0,USD,$,False,costs,2024,Total operating expenses for 2024,"Total operating expenses 569,366"
+amazon.pdf,49,Operating income,12248000000.0,USD,$,False,operating_income,2022,Operating income for 2022,"Operating income 12,248"
+amazon.pdf,49,Operating income,36852000000.0,USD,$,False,operating_income,2023,Operating income for 2023,"Operating income 36,852"
+amazon.pdf,49,Operating income,68593000000.0,USD,$,False,operating_income,2024,Operating income for 2024,"Operating income 68,593"
+amazon.pdf,49,Interest income,989000000.0,USD,$,False,costs,2022,Interest income for 2022,Interest income 989
+amazon.pdf,49,Interest income,2949000000.0,USD,$,False,costs,2023,Interest income for 2023,"Interest income 2,949"
+amazon.pdf,49,Interest income,4677000000.0,USD,$,False,costs,2024,Interest income for 2024,"Interest income 4,677"
+amazon.pdf,49,Interest expense,-2367000000.0,USD,$,False,costs,2022,Interest expense for 2022,"Interest expense (2,367)"
+amazon.pdf,49,Interest expense,-3182000000.0,USD,$,False,costs,2023,Interest expense for 2023,"Interest expense (3,182)"
+amazon.pdf,49,Interest expense,-2406000000.0,USD,$,False,costs,2024,Interest expense for 2024,"Interest expense (2,406)"
+amazon.pdf,49,"Other income (expense), net",-16806000000.0,USD,$,False,costs,2022,Other income (expense) for 2022,"Other income (expense), net (16,806)"
+amazon.pdf,49,"Other income (expense), net",938000000.0,USD,$,False,costs,2023,Other income (expense) for 2023,"Other income (expense), net 938"
+amazon.pdf,49,"Other income (expense), net",-2250000000.0,USD,$,False,costs,2024,Other income (expense) for 2024,"Other income (expense), net (2,250)"
+amazon.pdf,49,Total non-operating income (expense),-18184000000.0,USD,$,False,costs,2022,Total non-operating income (expense) for 2022,"Total non-operating income (expense) (18,184)"
+amazon.pdf,49,Total non-operating income (expense),705000000.0,USD,$,False,costs,2023,Total non-operating income (expense) for 2023,Total non-operating income (expense) 705
+amazon.pdf,49,Total non-operating income (expense),210000000.0,USD,$,False,costs,2024,Total non-operating income (expense) for 2024,Total non-operating income (expense) 21
+amazon.pdf,49,Income (loss) before income taxes,-5936000000.0,USD,$,False,net_income,2022,Income (loss) before income taxes for 2022,"Income (loss) before income taxes (5,936)"
+amazon.pdf,49,Income (loss) before income taxes,37557000000.0,USD,$,False,net_income,2023,Income (loss) before income taxes for 2023,"Income (loss) before income taxes 37,557"
+amazon.pdf,49,Income (loss) before income taxes,68614000000.0,USD,$,False,net_income,2024,Income (loss) before income taxes for 2024,"Income (loss) before income taxes 68,614"
+amazon.pdf,49,Benefit (provision) for income taxes,3217000000.0,USD,$,False,costs,2022,Benefit (provision) for income taxes for 2022,"Benefit (provision) for income taxes 3,217"
+amazon.pdf,49,Benefit (provision) for income taxes,-7120000000.0,USD,$,False,costs,2023,Benefit (provision) for income taxes for 2023,"Benefit (provision) for income taxes (7,120)"
+amazon.pdf,49,Benefit (provision) for income taxes,-9265000000.0,USD,$,False,costs,2024,Benefit (provision) for income taxes for 2024,"Benefit (provision) for income taxes (9,265)"
+amazon.pdf,49,"Equity-method investment activity, net of tax",-3000000.0,USD,$,False,costs,2022,Equity-method investment activity for 2022,"Equity-method investment activity, net of tax (3)"
+amazon.pdf,49,"Equity-method investment activity, net of tax",-12000000.0,USD,$,False,costs,2023,Equity-method investment activity for 2023,"Equity-method investment activity, net of tax (12)"
+amazon.pdf,49,"Equity-method investment activity, net of tax",-101000000.0,USD,$,False,costs,2024,Equity-method investment activity for 2024,"Equity-method investment activity, net of tax (101)"
+amazon.pdf,49,Net income (loss),-2722000000.0,USD,$,False,net_income,2022,Net income (loss) for 2022,"Net income (loss) $ (2,722)"
+amazon.pdf,49,Net income (loss),30425000000.0,USD,$,False,net_income,2023,Net income (loss) for 2023,"Net income (loss) $ 30,425"
+amazon.pdf,49,Net income (loss),59248000000.0,USD,$,False,net_income,2024,Net income (loss) for 2024,"Net income (loss) $ 59,248"
+amazon.pdf,49,Basic earnings per share,-270000000.0,USD,$,False,eps,2022,Basic earnings per share for 2022,Basic earnings per share $ (0.27)
+amazon.pdf,49,Basic earnings per share,295000000.0,USD,$,False,eps,2023,Basic earnings per share for 2023,Basic earnings per share $ 2.95
+amazon.pdf,49,Basic earnings per share,566000000.0,USD,$,False,eps,2024,Basic earnings per share for 2024,Basic earnings per share $ 5.66
+amazon.pdf,49,Diluted earnings per share,-270000000.0,USD,$,False,eps,2022,Diluted earnings per share for 2022,Diluted earnings per share $ (0.27)
+amazon.pdf,49,Diluted earnings per share,290000000.0,USD,$,False,eps,2023,Diluted earnings per share for 2023,Diluted earnings per share $ 2.90
+amazon.pdf,49,Diluted earnings per share,553000000.0,USD,$,False,eps,2024,Diluted earnings per share for 2024,Diluted earnings per share $ 5.53
+amazon.pdf,49,Weighted-average shares used in computation of earnings per share: Basic,10189000000.0,UNSPEC,,False,general,2022,Weighted-average shares for basic EPS in 2022,"Weighted-average shares used in computation of earnings per share: Basic 10,189"
+amazon.pdf,49,Weighted-average shares used in computation of earnings per share: Basic,10304000000.0,UNSPEC,,False,general,2023,Weighted-average shares for basic EPS in 2023,"Weighted-average shares used in computation of earnings per share: Basic 10,304"
+amazon.pdf,49,Weighted-average shares used in computation of earnings per share: Basic,10473000000.0,UNSPEC,,False,general,2024,Weighted-average shares for basic EPS in 2024,"Weighted-average shares used in computation of earnings per share: Basic 10,473"
+amazon.pdf,49,Weighted-average shares used in computation of earnings per share: Diluted,10189000000.0,UNSPEC,,False,general,2022,Weighted-average shares for diluted EPS in 2022,"Weighted-average shares used in computation of earnings per share: Diluted 10,189"
+amazon.pdf,49,Weighted-average shares used in computation of earnings per share: Diluted,10492000000.0,UNSPEC,,False,general,2023,Weighted-average shares for diluted EPS in 2023,"Weighted-average shares used in computation of earnings per share: Diluted 10,492"
+amazon.pdf,49,Weighted-average shares used in computation of earnings per share: Diluted,10721000000.0,UNSPEC,,False,general,2024,Weighted-average shares for diluted EPS in 2024,"Weighted-average shares used in computation of earnings per share: Diluted 10,721"
+amazon.pdf,50,Net income (loss),-2722000000.0,USD,$,False,net_income,2022,Negative net income in 2022,"Net income (loss) $ (2,722)"
+amazon.pdf,50,Net income (loss),30425000000.0,USD,$,False,net_income,2023,Positive net income in 2023,"Net income (loss) $ 30,425"
+amazon.pdf,50,Net income (loss),59248000000.0,USD,$,False,net_income,2024,Positive net income in 2024,"Net income (loss) $ 59,248"
+amazon.pdf,50,Foreign currency translation adjustments,-2586000000.0,USD,$,False,other_comprehensive_income,2022,Negative foreign currency translation adjustments in 2022,"Foreign currency translation adjustments, net of tax of $100, $(55), and $226"
+amazon.pdf,50,Foreign currency translation adjustments,1027000000.0,USD,$,False,other_comprehensive_income,2023,Positive foreign currency translation adjustments in 2023,"Foreign currency translation adjustments, net of tax of $100, $(55), and $226"
+amazon.pdf,50,Foreign currency translation adjustments,-3333000000.0,USD,$,False,other_comprehensive_income,2024,Negative foreign currency translation adjustments in 2024,"Foreign currency translation adjustments, net of tax of $100, $(55), and $226"
+amazon.pdf,50,Change in net unrealized gains (losses),-823000000.0,USD,$,False,other_comprehensive_income,2022,Negative change in net unrealized gains in 2022,"Change in net unrealized gains (losses), net of tax of $159, $(110), and $(2,086)"
+amazon.pdf,50,Change in net unrealized gains (losses),366000000.0,USD,$,False,other_comprehensive_income,2023,Positive change in net unrealized gains in 2023,"Change in net unrealized gains (losses), net of tax of $159, $(110), and $(2,086)"
+amazon.pdf,50,Change in net unrealized gains (losses),6339000000.0,USD,$,False,other_comprehensive_income,2024,Positive change in net unrealized gains in 2024,"Change in net unrealized gains (losses), net of tax of $159, $(110), and $(2,086)"
+amazon.pdf,51,Cash and cash equivalents,73387000000.0,USD,$,False,assets,"December 31, 2023",Cash and cash equivalents increased from 2023 to 2024,"Cash and cash equivalents $ 73,387 $ 78,779"
+amazon.pdf,51,Marketable securities,13393000000.0,USD,$,False,assets,"December 31, 2023",Marketable securities increased from 2023 to 2024,"Marketable securities 13,393 22,423"
+amazon.pdf,51,Inventories,33318000000.0,USD,$,False,assets,"December 31, 2023",Inventories increased from 2023 to 2024,"Inventories 33,318 34,214"
+amazon.pdf,51,"Accounts receivable, net and other",52253000000.0,USD,$,False,assets,"December 31, 2023","Accounts receivable, net and other increased from 2023 to 2024","Accounts receivable, net and other 52,253 55,451"
+amazon.pdf,51,Total current assets,172351000000.0,USD,$,False,assets,"December 31, 2023",Total current assets increased from 2023 to 2024,"Total current assets 172,351 190,867"
+amazon.pdf,51,"Property and equipment, net",204177000000.0,USD,$,False,assets,"December 31, 2023","Property and equipment, net increased from 2023 to 2024","Property and equipment, net 204,177 252,665"
+amazon.pdf,51,Operating leases,72513000000.0,USD,$,False,assets,"December 31, 2023",Operating leases increased from 2023 to 2024,"Operating leases 72,513 76,141"
+amazon.pdf,51,Goodwill,22789000000.0,USD,$,False,assets,"December 31, 2023",Goodwill increased from 2023 to 2024,"Goodwill 22,789 23,074"
+amazon.pdf,51,Other assets,56024000000.0,USD,$,False,assets,"December 31, 2023",Other assets increased from 2023 to 2024,"Other assets 56,024 82,147"
+amazon.pdf,51,Total assets,527854000000.0,USD,$,False,assets,"December 31, 2023",Total assets increased from 2023 to 2024,"Total assets $ 527,854 $ 624,894"
+amazon.pdf,51,Accounts payable,84981000000.0,USD,$,False,liabilities,"December 31, 2023",Accounts payable increased from 2023 to 2024,"Accounts payable $ 84,981 $ 94,363"
+amazon.pdf,51,Accrued expenses and other,64709000000.0,USD,$,False,liabilities,"December 31, 2023",Accrued expenses and other increased from 2023 to 2024,"Accrued expenses and other 64,709 66,965"
+amazon.pdf,51,Unearned revenue,15227000000.0,USD,$,False,liabilities,"December 31, 2023",Unearned revenue increased from 2023 to 2024,"Unearned revenue 15,227 18,103"
+amazon.pdf,51,Total current liabilities,164917000000.0,USD,$,False,liabilities,"December 31, 2023",Total current liabilities increased from 2023 to 2024,"Total current liabilities 164,917 179,431"
+amazon.pdf,51,Long-term lease liabilities,77297000000.0,USD,$,False,liabilities,"December 31, 2023",Long-term lease liabilities increased from 2023 to 2024,"Long-term lease liabilities 77,297 78,277"
+amazon.pdf,51,Long-term debt,58314000000.0,USD,$,False,liabilities,"December 31, 2023",Long-term debt decreased from 2023 to 2024,"Long-term debt 58,314 52,623"
+amazon.pdf,51,Other long-term liabilities,25451000000.0,USD,$,False,liabilities,"December 31, 2023",Other long-term liabilities increased from 2023 to 2024,"Other long-term liabilities 25,451 28,593"
+amazon.pdf,51,Common stock,109000000.0,USD,$,False,stockholders equity,"December 31, 2023",Common stock increased from 2023 to 2024,"Common stock ($0.01 par value; 100,000 shares authorized; 10,898 and 11,108 shares issued; 10,383 and 10,593 shares outstanding) 109 111"
+amazon.pdf,51,"Treasury stock, at cost",7837000000.0,USD,$,False,stockholders equity,"December 31, 2023","Treasury stock, at cost remained the same from 2023 to 2024","Treasury stock, at cost (7,837) (7,837)"
+amazon.pdf,51,Additional paid-in capital,99025000000.0,USD,$,False,stockholders equity,"December 31, 2023",Additional paid-in capital increased from 2023 to 2024,"Additional paid-in capital 99,025 120,864"
+amazon.pdf,51,Accumulated other comprehensive income (loss),-3040000000.0,USD,$,False,stockholders equity,"December 31, 2023",Accumulated other comprehensive income (loss) increased from 2023 to 2024,"Accumulated other comprehensive income (loss) (3,040) (34)"
+amazon.pdf,51,Retained earnings,113618000000.0,USD,$,False,stockholders equity,"December 31, 2023",Retained earnings increased from 2023 to 2024,"Retained earnings 113,618 172,866"
+amazon.pdf,51,Total stockholders’ equity,201875000000.0,USD,$,False,stockholders equity,"December 31, 2023",Total stockholders’ equity increased from 2023 to 2024,"Total stockholders’ equity 201,875 285,970"
+amazon.pdf,51,Total liabilities and stockholders’ equity,527854000000.0,USD,$,False,liabilities,"December 31, 2023",Total liabilities and stockholders’ equity increased from 2023 to 2024,"Total liabilities and stockholders’ equity $ 527,854 $ 624,894"
+amazon.pdf,52,Net loss,-2722000000.0,USD,$,False,net_income,FY2022,"Net loss reported for the year ended December 31, 2022","Net loss — — — — — (2,722) (2,722)"
+amazon.pdf,52,Other comprehensive income (loss),-3111000000.0,USD,$,False,other,FY2022,"Other comprehensive loss for the year ended December 31, 2022","Other comprehensive income (loss) — — — — (3,111) — (3,111)"
+amazon.pdf,52,Stock-based compensation and issuance of employee benefit plan stock,19631000000.0,USD,$,False,costs,FY2022,"Stock-based compensation and issuance of employee benefit plan stock for the year ended December 31, 2022","Stock-based compensation and issuance of employee benefit plan stock 113 2 — 19,629 — — 19,631"
+amazon.pdf,52,Common stock repurchased,-6000000000.0,USD,$,False,capex,FY2022,"Common stock repurchased for the year ended December 31, 2022","Common stock repurchased (46) — (6,000) — — — (6,000)"
+amazon.pdf,52,Net income,30425000000.0,USD,$,False,net_income,FY2023,"Net income reported for the year ended December 31, 2023","Net income — — — — — 30,425 30,425"
+amazon.pdf,52,Other comprehensive income (loss),1447000000.0,USD,$,False,other,FY2023,"Other comprehensive income for the year ended December 31, 2023","Other comprehensive income (loss) — — — — 1,447 — 1,447"
+amazon.pdf,52,Stock-based compensation and issuance of employee benefit plan stock,23960000000.0,USD,$,False,costs,FY2023,"Stock-based compensation and issuance of employee benefit plan stock for the year ended December 31, 2023","Stock-based compensation and issuance of employee benefit plan stock 141 1 — 23,959 — — 23,960"
+amazon.pdf,52,Net income,59248000000.0,USD,$,False,net_income,FY2024,"Net income reported for the year ended December 31, 2024","Net income — — — — — 59,248 59,248"
+amazon.pdf,52,Other comprehensive income (loss),3006000000.0,USD,$,False,other,FY2024,"Other comprehensive income for the year ended December 31, 2024","Other comprehensive income (loss) — — — — 3,006 — 3,006"
+amazon.pdf,52,Stock-based compensation and issuance of employee benefit plan stock,21841000000.0,USD,$,False,costs,FY2024,"Stock-based compensation and issuance of employee benefit plan stock for the year ended December 31, 2024","Stock-based compensation and issuance of employee benefit plan stock 210 2 — 21,839 — — 21,841"
+amazon.pdf,53,common stock split,20.0,UNSPEC,,False,general,,Company executed a 20-for-1 stock split,"May 27, 2022, we effected a 20-for-1 stock split"
+amazon.pdf,53,operating income increase,900000000.0,USD,$,False,operating_income,2025,Increase in operating income due to extended useful life of heavy equipment,increase in 2025 operating income of approximately $0.9 billion
+amazon.pdf,53,Operating income decrease,700000000.0,USD,$,False,operating_income,2025,Decrease in operating income due to shorter useful life of servers and networking equipment,decrease in 2025 operating income of approximately $0.7 billion
+amazon.pdf,53,Accelerated depreciation charges,920000000.0,USD,$,False,costs,Q4 2024,Charges recorded for early retirement of servers and networking equipment,recorded approximately $920 million of accelerated depreciation
+amazon.pdf,53,Operating income decrease,600000000.0,USD,$,False,operating_income,2025,Decrease in operating income due to continued accelerated depreciation,decrease operating income by approximately $0.6 billion in 2025
+amazon.pdf,54,Depreciation and amortization expense reduction,3200000000.0,USD,$,False,costs,FY2024,Reduction in depreciation and amortization expense due to changes in server and networking equipment useful life,reduction in depreciation and amortization expense of $3.2 billion
+amazon.pdf,54,Benefit to net income,2500000000.0,USD,$,False,net_income,FY2024,Benefit to net income from changes in server and networking equipment useful life,benefit to net income of $2.5 billion
+amazon.pdf,54,Impairments of property and equipment,1100000000.0,USD,$,False,costs,FY2022,Impairments recorded for property and equipment related to physical stores,recorded approximately $1.1 billion of impairments
+amazon.pdf,54,Expenses for terminating contracts,480000000.0,USD,$,False,costs,FY2022,Expenses for terminating leases and other commitments,recorded expenses of approximately $480 million
+amazon.pdf,54,Estimated severance costs,720000000.0,USD,$,False,costs,FY2022,Estimated severance costs related to role eliminations,recorded approximately $720 million of estimated severance costs
+amazon.pdf,54,Cash paid for interest on debt,1561000000.0,USD,$,False,costs,FY2022,"Cash paid for interest on debt, net of capitalized interest","Cash paid for interest on debt, net of capitalized interest $ 1,561"
+amazon.pdf,54,Cash paid for operating leases,8633000000.0,USD,$,False,costs,FY2022,Cash paid for operating leases,"Cash paid for operating leases $ 8,633"
+amazon.pdf,54,Cash paid for interest on finance leases,374000000.0,USD,$,False,costs,FY2022,Cash paid for interest on finance leases,Cash paid for interest on finance leases $ 374
+amazon.pdf,54,Cash paid for income taxes,6035000000.0,USD,$,False,costs,FY2022,"Cash paid for income taxes, net of refunds","Cash paid for income taxes, net of refunds $ 6,035"
+amazon.pdf,54,Assets acquired under operating leases,18800000000.0,USD,$,False,costs,FY2022,Assets acquired under operating leases,"Assets acquired under operating leases $ 18,800"
+amazon.pdf,54,Shares used in computation of basic earnings per share,10189000000.0,UNSPEC,,False,general,"Year Ended December 31, 2022",Basic shares for 2022,Shares used in computation of basic earnings per share
+amazon.pdf,54,Shares used in computation of basic earnings per share,10304000000.0,UNSPEC,,False,general,"Year Ended December 31, 2023",Basic shares for 2023,Shares used in computation of basic earnings per share
+amazon.pdf,54,Shares used in computation of basic earnings per share,10473000000.0,UNSPEC,,False,general,"Year Ended December 31, 2024",Basic shares for 2024,Shares used in computation of basic earnings per share
+amazon.pdf,54,Total dilutive effect of outstanding stock awards,188000000.0,UNSPEC,,False,general,"Year Ended December 31, 2023",Dilutive effect in 2023,Total dilutive effect of outstanding stock awards
+amazon.pdf,54,Total dilutive effect of outstanding stock awards,248000000.0,UNSPEC,,False,general,"Year Ended December 31, 2024",Dilutive effect in 2024,Total dilutive effect of outstanding stock awards
+amazon.pdf,54,Shares used in computation of diluted earnings per share,10189000000.0,UNSPEC,,False,general,"Year Ended December 31, 2022",Diluted shares for 2022,Shares used in computation of diluted earnings per share
+amazon.pdf,54,Shares used in computation of diluted earnings per share,10492000000.0,UNSPEC,,False,general,"Year Ended December 31, 2023",Diluted shares for 2023,Shares used in computation of diluted earnings per share
+amazon.pdf,54,Shares used in computation of diluted earnings per share,10721000000.0,UNSPEC,,False,general,"Year Ended December 31, 2024",Diluted shares for 2024,Shares used in computation of diluted earnings per share
+amazon.pdf,55,Revenue,,UNSPEC,,False,revenue,,Definition and measurement of revenue provided,Revenue is measured based on the amount of consideration...
+amazon.pdf,55,Revenue,,UNSPEC,,False,revenue,,"Description of revenue recognition methods for ads, subscriptions, AWS, and other services",Revenue is recognized as ads are delivered based on the number of clicks or impressions
+amazon.pdf,55,Return allowances,1300000000.0,USD,$,False,costs,"Dec 31, 2022","Liabilities for return allowances as of December 31, 2022",Liabilities for return allowances were $1.3 billion
+amazon.pdf,55,Return allowances,1400000000.0,USD,$,False,costs,"Dec 31, 2023","Liabilities for return allowances as of December 31, 2023",Liabilities for return allowances were $1.4 billion
+amazon.pdf,55,Return allowances,1400000000.0,USD,$,False,costs,"Dec 31, 2024","Liabilities for return allowances as of December 31, 2024",Liabilities for return allowances were $1.4 billion
+amazon.pdf,55,Additions to return allowance,5500000000.0,USD,$,False,costs,2022,Additions to the return allowance in 2022,Additions to the allowance were $5.5 billion
+amazon.pdf,55,Additions to return allowance,5200000000.0,USD,$,False,costs,2023,Additions to the return allowance in 2023,Additions to the allowance were $5.2 billion
+amazon.pdf,55,Additions to return allowance,5500000000.0,USD,$,False,costs,2024,Additions to the return allowance in 2024,Additions to the allowance were $5.5 billion
+amazon.pdf,55,Deductions from return allowance,5200000000.0,USD,$,False,costs,2022,Deductions from the return allowance in 2022,Deductions from the allowance were $5.2 billion
+amazon.pdf,55,Deductions from return allowance,5100000000.0,USD,$,False,costs,2023,Deductions from the return allowance in 2023,Deductions from the allowance were $5.1 billion
+amazon.pdf,55,Deductions from return allowance,5500000000.0,USD,$,False,costs,2024,Deductions from the return allowance in 2024,Deductions from the allowance were $5.5 billion
+amazon.pdf,55,Assets for rights to recover products,948000000.0,USD,$,False,costs,"Dec 31, 2022","Assets for rights to recover products as of December 31, 2022","Assets totaling $948 million ... as of December 31, 2022"
+amazon.pdf,55,Assets for rights to recover products,992000000.0,USD,$,False,costs,"Dec 31, 2023","Assets for rights to recover products as of December 31, 2023","Assets totaling $992 million ... as of December 31, 2023"
+amazon.pdf,55,Assets for rights to recover products,998000000.0,USD,$,False,costs,"Dec 31, 2024","Assets for rights to recover products as of December 31, 2024","Assets totaling $998 million ... as of December 31, 2024"
+amazon.pdf,55,volume rebates,43.0,UNSPEC,,False,costs,,Percentage of volume rebates evaluated based on past experience and forecasts,Volume rebates typically depend...
+amazon.pdf,56,Sales and marketing costs,20600000000.0,USD,$,False,costs,2022,Advertising and promotional costs expensed as incurred,Advertising and other promotional costs ... $20.6 billion
+amazon.pdf,56,Sales and marketing costs,20300000000.0,USD,$,False,costs,2023,Advertising and promotional costs expensed as incurred,Advertising and other promotional costs ... $20.3 billion
+amazon.pdf,56,Sales and marketing costs,21400000000.0,USD,$,False,costs,2024,Advertising and promotional costs expensed as incurred,Advertising and other promotional costs ... $21.4 billion
+amazon.pdf,56,stock-based compensation expense,50.0,UNSPEC,,True,general,,Approximately 50% of grant date fair value recognized as expense in first year,Approximately 50% of the grant date fair value is recognized as expense
+amazon.pdf,56,"Other operating expense (income), net",44.0,UNSPEC,,False,costs,FY2024,Other operating expense (income) net is reported as 44,"Other operating expense (income), net, consists..."
+amazon.pdf,57,Marketable equity securities valuation gains (losses),-13870000000.0,USD,$,False,other_income_expense,2022,Significant loss from marketable equity securities valuation in 2022,"Marketable equity securities valuation gains (losses) $ (13,870)"
+amazon.pdf,57,Marketable equity securities valuation gains (losses),984000000.0,USD,$,False,other_income_expense,2023,Positive valuation gain from marketable equity securities in 2023,Marketable equity securities valuation gains (losses) $ 984
+amazon.pdf,57,Marketable equity securities valuation gains (losses),-1278000000.0,USD,$,False,other_income_expense,2024,Loss from marketable equity securities valuation in 2024,"Marketable equity securities valuation gains (losses) $ (1,278)"
+amazon.pdf,57,Equity warrant valuation gains (losses),-2132000000.0,USD,$,False,other_income_expense,2022,Negative valuation of equity warrants in 2022,"Equity warrant valuation gains (losses) (2,132)"
+amazon.pdf,57,Equity warrant valuation gains (losses),26000000.0,USD,$,False,other_income_expense,2023,Positive valuation of equity warrants in 2023,Equity warrant valuation gains (losses) 26
+amazon.pdf,57,Equity warrant valuation gains (losses),-192000000.0,USD,$,False,other_income_expense,2024,Negative valuation of equity warrants in 2024,Equity warrant valuation gains (losses) (192)
+amazon.pdf,57,Upward adjustments relating to equity investments in private companies,76000000.0,USD,$,False,other_income_expense,2022,Upward adjustment for equity investments in private companies in 2022,Upward adjustments relating to equity investments in private companies 76
+amazon.pdf,57,Upward adjustments relating to equity investments in private companies,40000000.0,USD,$,False,other_income_expense,2023,Upward adjustment for equity investments in private companies in 2023,Upward adjustments relating to equity investments in private companies 40
+amazon.pdf,57,Upward adjustments relating to equity investments in private companies,49000000.0,USD,$,False,other_income_expense,2024,Upward adjustment for equity investments in private companies in 2024,Upward adjustments relating to equity investments in private companies 49
+amazon.pdf,57,Foreign currency gains (losses),-340000000.0,USD,$,False,other_income_expense,2022,Foreign currency loss in 2022,Foreign currency gains (losses) (340)
+amazon.pdf,57,Foreign currency gains (losses),65000000.0,USD,$,False,other_income_expense,2023,Foreign currency gain in 2023,Foreign currency gains (losses) 65
+amazon.pdf,57,Foreign currency gains (losses),-408000000.0,USD,$,False,other_income_expense,2024,Foreign currency loss in 2024,Foreign currency gains (losses) (408)
+amazon.pdf,57,"Other, net",-540000000.0,USD,$,False,other_income_expense,2022,Net other expenses in 2022,"Other, net (540)"
+amazon.pdf,57,"Other, net",-177000000.0,USD,$,False,other_income_expense,2023,Net other expenses in 2023,"Other, net (177)"
+amazon.pdf,57,"Other, net",-421000000.0,USD,$,False,other_income_expense,2024,Net other expenses in 2024,"Other, net (421)"
+amazon.pdf,57,"Total other income (expense), net",-16806000000.0,USD,$,False,other_income_expense,2022,Total other income/expense in 2022,"Total other income (expense), net $ (16,806)"
+amazon.pdf,57,"Total other income (expense), net",938000000.0,USD,$,False,other_income_expense,2023,Total other income/expense in 2023,"Total other income (expense), net $ 938"
+amazon.pdf,57,"Total other income (expense), net",-2250000000.0,USD,$,False,other_income_expense,2024,Total other income/expense in 2024,"Total other income (expense), net $ (2,250)"
+amazon.pdf,57,Marketable equity securities valuation gain (loss),-1.27e+19,USD,$,False,other_income_expense,2022,Valuation gain/loss from equity investment in Rivian in 2022,marketable equity securities valuation gain (loss) of $(12.7) billion
+amazon.pdf,57,Marketable equity securities valuation gain (loss),797000000.0,USD,$,False,other_income_expense,2023,Valuation gain from equity investment in Rivian in 2023,marketable equity securities valuation gain (loss) of $797 million
+amazon.pdf,57,Marketable equity securities valuation gain (loss),-1.6e+18,USD,$,False,other_income_expense,2024,Valuation gain/loss from equity investment in Rivian in 2024,marketable equity securities valuation gain (loss) of $(1.6) billion
+amazon.pdf,57,"Fair value of equity investment in Rivian as of December 31, 2023",3700000000.0,USD,$,False,other_income_expense,2023,Fair value of equity investment in Rivian as of 2023,had a fair value of $3.7 billion
+amazon.pdf,57,"Fair value of equity investment in Rivian as of December 31, 2024",2100000000.0,USD,$,False,other_income_expense,2024,Fair value of equity investment in Rivian as of 2024,had a fair value of $2.1 billion
+amazon.pdf,57,Deferred tax assets,,UNSPEC,,False,costs,,Deferred tax assets are evaluated for future realization and reduced by a valuation allowance if not expected to be realized,Deferred tax assets are evaluated for future realization
+amazon.pdf,57,Fair value hierarchy level 1,1.0,UNSPEC,,False,general,N/A,Level 1 represents quoted prices for identical assets and liabilities in active markets,Level 1 — Valuations based on quoted prices
+amazon.pdf,58,Inventory valuation allowance,3000000000.0,USD,$,False,costs,"as of December 31, 2023 and 2024",Inventory write-down as of year-end 2023 and 2024,"Inventory valuation allowance, representing a write-down of inventory, was $3.0 billion"
+amazon.pdf,58,Customer receivables net,34100000000.0,USD,$,False,general,"Dec 31, 2023","Customer receivables net as of December 31, 2023","customer receivables, net, were $34.1 billion"
+amazon.pdf,58,Customer receivables net,34300000000.0,USD,$,False,general,"Dec 31, 2024","Customer receivables net as of December 31, 2024","customer receivables, net, were $34.3 billion"
+amazon.pdf,58,Vendor receivables net,8500000000.0,USD,$,False,general,"Dec 31, 2023","Vendor receivables net as of December 31, 2023","vendor receivables, net, were $8.5 billion"
+amazon.pdf,58,Vendor receivables net,11600000000.0,USD,$,False,general,"Dec 31, 2024","Vendor receivables net as of December 31, 2024","vendor receivables, net, were $11.6 billion"
+amazon.pdf,58,Other receivables net,4300000000.0,USD,$,False,general,"Dec 31, 2023","Other receivables net as of December 31, 2023","other receivables, net, were $4.3 billion"
+amazon.pdf,58,Other receivables net,3400000000.0,USD,$,False,general,"Dec 31, 2024","Other receivables net as of December 31, 2024","other receivables, net, were $3.4 billion"
+amazon.pdf,58,Prepaid expenses and other current assets,5400000000.0,USD,$,False,general,"Dec 31, 2023","Prepaid expenses and other current assets as of December 31, 2023",prepaid expenses and other current assets ... were $5.4 billion
+amazon.pdf,58,Prepaid expenses and other current assets,6300000000.0,USD,$,False,general,"Dec 31, 2024","Prepaid expenses and other current assets as of December 31, 2024",prepaid expenses and other current assets ... were $6.3 billion
+amazon.pdf,58,Allowance for doubtful accounts,1400000000.0,USD,$,False,costs,"Dec 31, 2022","Allowance for doubtful accounts as of December 31, 2022",Allowance for doubtful accounts was $1.4 billion
+amazon.pdf,58,Allowance for doubtful accounts,1700000000.0,USD,$,False,costs,"Dec 31, 2023","Allowance for doubtful accounts as of December 31, 2023",Allowance for doubtful accounts was $1.7 billion
+amazon.pdf,58,Allowance for doubtful accounts,2000000000.0,USD,$,False,costs,"Dec 31, 2024","Allowance for doubtful accounts as of December 31, 2024",Allowance for doubtful accounts was $2.0 billion
+amazon.pdf,58,Additions to allowance,1600000000.0,USD,$,False,costs,2022,Additions to the allowance in 2022,Additions to the allowance were $1.6 billion
+amazon.pdf,58,Additions to allowance,1900000000.0,USD,$,False,costs,2023,Additions to the allowance in 2023,Additions to the allowance were $1.9 billion
+amazon.pdf,58,Additions to allowance,1900000000.0,USD,$,False,costs,2024,Additions to the allowance in 2024,Additions to the allowance were $1.9 billion
+amazon.pdf,58,Deductions to allowance,1300000000.0,USD,$,False,costs,2022,Deductions from the allowance in 2022,Deductions to the allowance were $1.3 billion
+amazon.pdf,58,Deductions to allowance,1600000000.0,USD,$,False,costs,2023,Deductions from the allowance in 2023,Deductions to the allowance were $1.6 billion
+amazon.pdf,58,Deductions to allowance,1600000000.0,USD,$,False,costs,2024,Deductions from the allowance in 2024,Deductions to the allowance were $1.6 billion
+amazon.pdf,58,Depreciation and amortization,5.0,UNSPEC,,False,costs,FY2024,Asset depreciation period is five years for certain assets,Depreciation and amortization ... five years
+amazon.pdf,59,lease term,10.0,UNSPEC,,False,costs,null,Lease terms for equipment range up to 10 years,Leases generally have terms that range from one to ten years
+amazon.pdf,59,lease term,20.0,UNSPEC,,False,costs,null,Lease terms for property range up to 20 years,one to twenty years for property
+amazon.pdf,59,Lease assets,,UNSPEC,,False,general,,Lease assets are recognized based on present value of fixed lease payments,Lease assets are recognized based on...
+amazon.pdf,59,Leasehold improvements,,UNSPEC,,False,general,,Leasehold improvements are capitalized at cost and amortized over the lease term,Leasehold improvements are capitalized...
+amazon.pdf,59,Operating lease costs,,UNSPEC,,False,costs,,Operating lease costs are recognized on a straight-line basis within operating expenses,Costs associated with operating lease assets...
+amazon.pdf,59,Finance lease assets,,UNSPEC,,False,general,,Finance lease assets are amortized on a straight-line basis over the shorter of the asset's useful life or the lease term,Finance lease assets are amortized...
+amazon.pdf,59,impairment loss,0.0,UNSPEC,,False,general,"April 1, 2024",No impairments were recognized after annual impairment test,We completed the required annual impairment test ... resulting in no impairments
+amazon.pdf,59,impairment test,,UNSPEC,,False,general,,No events caused an update to the annual impairment test,There were no events that caused us to update our annual impairment test
+amazon.pdf,60,weighted average remaining life,3.1,UNSPEC,,False,general,,Weighted average remaining life of capitalized video content,The weighted average remaining life of our capitalized video content is 3.1 years.
+amazon.pdf,60,Video and music capitalized costs,17400000000.0,USD,$,False,costs,"Dec 31, 2023",Capitalized costs for video and music as of end of 2023,"total capitalized costs of video ... as of December 31, 2023"
+amazon.pdf,60,Video and music capitalized costs,19600000000.0,USD,$,False,costs,"Dec 31, 2024",Capitalized costs for video and music as of end of 2024,"total capitalized costs of video ... as of December 31, 2024"
+amazon.pdf,60,Video and music expense,18900000000.0,USD,$,False,costs,"Dec 31, 2023",Total video and music expense for 2023,Total video and music expense was $18.9 billion ... 2023
+amazon.pdf,60,Video and music expense,20400000000.0,USD,$,False,costs,"Dec 31, 2024",Total video and music expense for 2024,Total video and music expense was $20.4 billion ... 2024
+amazon.pdf,60,Investment in convertible note,1250000000.0,USD,$,False,costs,Q3 2023,"Investment in a convertible note from Anthropic, PBC","In Q3 2023, we invested in a $1.25 billion note"
+amazon.pdf,60,Investment in convertible note,2750000000.0,USD,$,False,costs,Q1 2024,Second investment in a convertible note,"In Q1 2024, we invested $2.75 billion in a second convertible note"
+amazon.pdf,60,Investment in convertible note,1300000000.0,USD,$,False,costs,Q4 2024,Investment in a third convertible note,"In Q4 2024, we entered into an agreement and invested $1.3 billion"
+amazon.pdf,60,Additional investment in convertible note,2700000000.0,USD,$,False,costs,Q4 2025,Planned additional investment in a convertible note,will invest an additional $2.7 billion by Q4 2025
+amazon.pdf,60,Fair value of notes,13800000000.0,USD,$,False,general,"December 31, 2024","Estimated fair value of convertible notes as of December 31, 2024",had an estimated fair value of approximately $13.8 billion
+amazon.pdf,61,Carrying value of equity investments,754000000.0,USD,$,False,general,"December 31, 2023",Carrying value of equity investments in private companies,"As of December 31, 2023 ..."
+amazon.pdf,61,Carrying value of equity investments,989000000.0,USD,$,False,general,"December 31, 2024",Carrying value of equity investments in private companies,"As of December 31, 2024 ..."
+amazon.pdf,61,"Carrying value of investments as of December 31, 2023",614000000.0,USD,$,False,general,"Dec 31, 2023",Investments had a carrying value of $614 million,carrying value of $614 million
+amazon.pdf,61,"Carrying value of investments as of December 31, 2024",1200000000.0,USD,$,False,general,"Dec 31, 2024",Investments had a carrying value of $1.2 billion,carrying value of $1.2 billion
+amazon.pdf,61,"Equity warrants measured at fair value as of December 31, 2023",2200000000.0,USD,$,False,general,"Dec 31, 2023",Equity warrants were valued at $2.2 billion,equity warrants measured at $2.2 billion
+amazon.pdf,61,"Equity warrants measured at fair value as of December 31, 2024",2700000000.0,USD,$,False,general,"Dec 31, 2024",Equity warrants were valued at $2.7 billion,equity warrants measured at $2.7 billion
+amazon.pdf,61,Payroll related expenses,7700000000.0,USD,$,False,costs,"Dec 31, 2023","Liabilities for payroll related expenses as of December 31, 2023",liabilities for payroll related expenses were $7.7 billion
+amazon.pdf,61,Payroll related expenses,7500000000.0,USD,$,False,costs,"Dec 31, 2024","Liabilities for payroll related expenses as of December 31, 2024",liabilities for payroll related expenses were $7.5 billion
+amazon.pdf,61,Unredeemed gift cards,5300000000.0,USD,$,False,costs,"Dec 31, 2023","Liabilities for unredeemed gift cards as of December 31, 2023",liabilities for unredeemed gift cards were $5.3 billion
+amazon.pdf,61,Unredeemed gift cards,5400000000.0,USD,$,False,costs,"Dec 31, 2024","Liabilities for unredeemed gift cards as of December 31, 2024",liabilities for unredeemed gift cards were $5.4 billion
+amazon.pdf,61,reserves for general product and automobile liabilities,1300000000.0,USD,$,False,costs,Q4 2022,Increase in reserves due to changes in estimates about claim costs,increased our reserves ... by $1.3 billion
+amazon.pdf,62,Self-insurance liabilities,6300000000.0,USD,$,False,costs,"Dec 31, 2023","Total self-insurance liabilities as of December 31, 2023",total self-insurance liabilities were $6.3 billion
+amazon.pdf,62,Self-insurance liabilities,8500000000.0,USD,$,False,costs,"Dec 31, 2024","Total self-insurance liabilities as of December 31, 2024",total self-insurance liabilities were $8.5 billion
+amazon.pdf,62,Unearned revenue,20900000000.0,USD,$,False,revenue,"Dec 31, 2023","Total unearned revenue as of December 31, 2023","total unearned revenue as of December 31, 2023 was $20.9 billion"
+amazon.pdf,62,Unearned revenue recognized,14200000000.0,USD,$,False,revenue,"Dec 31, 2024","Unearned revenue recognized during the year ended December 31, 2024","14.2 billion was recognized as revenue during the year ended December 31, 2024"
+amazon.pdf,62,Unearned revenue,24600000000.0,USD,$,False,revenue,"Dec 31, 2024","Total unearned revenue as of December 31, 2024","total unearned revenue as of December 31, 2024 was $24.6 billion"
+amazon.pdf,62,Unearned revenue in long-term liabilities,5700000000.0,USD,$,False,revenue,"Dec 31, 2023","Unearned revenue included in 'Other long-term liabilities' as of December 31, 2023","was $5.7 billion ... as of December 31, 2023"
+amazon.pdf,62,Unearned revenue in long-term liabilities,6500000000.0,USD,$,False,revenue,"Dec 31, 2024","Unearned revenue included in 'Other long-term liabilities' as of December 31, 2024","was $6.5 billion ... as of December 31, 2024"
+amazon.pdf,62,Unrecognized performance obligations,177000000000.0,USD,$,False,costs,"Dec 31, 2024",Performance obligations related to AWS not yet recognized in financial statements,commitments not yet recognized were approximately $177 billion
+amazon.pdf,62,Weighted average remaining life of long-term contracts,4.1,UNSPEC,,False,general,"Dec 31, 2024","Average remaining life of long-term contracts as of December 31, 2024",weighted average remaining life of our long-term contracts is 4.1 years
+amazon.pdf,62,Transaction gains (losses),386000000.0,USD,$,False,other_income_expense,2022,Gains from settlement and remeasurement of intercompany balances,recorded gains (losses) of $386 million
+amazon.pdf,62,Transaction gains (losses),-329000000000000.0,USD,$,False,other_income_expense,2023,Losses from settlement and remeasurement of intercompany balances,recorded gains (losses) of $(329) million
+amazon.pdf,62,Transaction gains (losses),413000000.0,USD,$,False,other_income_expense,2024,Gains from settlement and remeasurement of intercompany balances,recorded gains (losses) of $413 million
+amazon.pdf,62,effective date,2026.0,UNSPEC,,False,general,annual reporting periods,"ASU becomes effective for annual reporting periods beginning after December 15, 2026","effective for annual reporting periods beginning after December 15, 2026"
+amazon.pdf,62,interim periods effective date,2027.0,UNSPEC,,False,general,interim periods,"ASU becomes effective for interim periods within fiscal years beginning after December 15, 2027","interim periods within fiscal years beginning after December 15, 2027"
+amazon.pdf,63,Cash,11706000000.0,USD,$,False,general,"December 31, 2023","Cash balance as of December 31, 2023","Cash $ 11,706"
+amazon.pdf,63,Money market funds,39160000000.0,USD,$,False,general,"December 31, 2023","Value of money market funds as of December 31, 2023","Money market funds 39,160"
+amazon.pdf,63,Equity securities,4658000000.0,USD,$,False,general,"December 31, 2023","Equity securities value as of December 31, 2023","Equity securities (1) 4,658"
+amazon.pdf,63,Foreign government and agency securities,505000000.0,USD,$,False,general,"December 31, 2023","Value of foreign government and agency securities as of December 31, 2023",Foreign government and agency securities 505
+amazon.pdf,63,U.S. government and agency securities,1789000000.0,USD,$,False,general,"December 31, 2023","Value of U.S. government and agency securities as of December 31, 2023","U.S. government and agency securities 1,789"
+amazon.pdf,63,Corporate debt securities,27996000000.0,USD,$,False,general,"December 31, 2023","Value of corporate debt securities as of December 31, 2023","Corporate debt securities 27,996"
+amazon.pdf,63,Asset-backed securities,1707000000.0,USD,$,False,general,"December 31, 2023","Value of asset-backed securities as of December 31, 2023","Asset-backed securities 1,707"
+amazon.pdf,63,Other debt securities,108000000.0,USD,$,False,general,"December 31, 2023","Value of other debt securities as of December 31, 2023",Other debt securities 108
+amazon.pdf,63,"Total cash, cash equivalents, and marketable securities",86780000000.0,USD,$,False,general,"December 31, 2023","Total cash, cash equivalents, and marketable securities as of December 31, 2023","Total cash, cash equivalents, and marketable securities $ 86,780"
+amazon.pdf,64,Realized gains,43000000.0,USD,$,False,revenue,FY2022,Gains realized on sales of marketable debt securities,Realized gains $ 43
+amazon.pdf,64,Realized gains,2000000.0,USD,$,False,revenue,FY2023,Gains realized on sales of marketable debt securities,Realized gains $ 2
+amazon.pdf,64,Realized gains,3000000.0,USD,$,False,revenue,FY2024,Gains realized on sales of marketable debt securities,Realized gains $ 3
+amazon.pdf,64,Realized losses,341000000.0,USD,$,False,costs,FY2022,Losses realized on sales of marketable debt securities,Realized losses 341
+amazon.pdf,64,Realized losses,67000000.0,USD,$,False,costs,FY2023,Losses realized on sales of marketable debt securities,Realized losses 67
+amazon.pdf,64,Realized losses,10000000.0,USD,$,False,costs,FY2024,Losses realized on sales of marketable debt securities,Realized losses 10
+amazon.pdf,65,Depreciation and amortization expense,24900000000.0,USD,$,False,costs,2022,Depreciation and amortization expense for 2022,Depreciation and amortization expense was $24.9 billion
+amazon.pdf,65,Depreciation and amortization expense,30200000000.0,USD,$,False,costs,2023,Depreciation and amortization expense for 2023,Depreciation and amortization expense was $30.2 billion
+amazon.pdf,65,Depreciation and amortization expense,32100000000.0,USD,$,False,costs,2024,Depreciation and amortization expense for 2024,Depreciation and amortization expense was $32.1 billion
+amazon.pdf,65,Amortization of property and equipment acquired under finance leases,6100000000.0,USD,$,False,costs,2022,Amortization of property and equipment acquired under finance leases for 2022,Amortization of property and equipment acquired under finance leases was $6.1 billion
+amazon.pdf,65,Amortization of property and equipment acquired under finance leases,5900000000.0,USD,$,False,costs,2023,Amortization of property and equipment acquired under finance leases for 2023,Amortization of property and equipment acquired under finance leases was $5.9 billion
+amazon.pdf,65,Amortization of property and equipment acquired under finance leases,3900000000.0,USD,$,False,costs,2024,Amortization of property and equipment acquired under finance leases for 2024,Amortization of property and equipment acquired under finance leases was $3.9 billion
+amazon.pdf,66,Operating lease cost,8847000000.0,USD,$,False,costs,2022,"Operating lease cost for the year ended December 31, 2022","Operating lease cost $ 8,847"
+amazon.pdf,66,Operating lease cost,10550000000.0,USD,$,False,costs,2023,"Operating lease cost for the year ended December 31, 2023","Operating lease cost $ 10,550"
+amazon.pdf,66,Operating lease cost,11961000000.0,USD,$,False,costs,2024,"Operating lease cost for the year ended December 31, 2024","Operating lease cost $ 11,961"
+amazon.pdf,66,Finance lease cost,6458000000.0,USD,$,False,costs,2022,"Finance lease cost for the year ended December 31, 2022","Finance lease cost 6,458"
+amazon.pdf,66,Finance lease cost,6203000000.0,USD,$,False,costs,2023,"Finance lease cost for the year ended December 31, 2023","Finance lease cost 6,203"
+amazon.pdf,66,Finance lease cost,4151000000.0,USD,$,False,costs,2024,"Finance lease cost for the year ended December 31, 2024","Finance lease cost 4,151"
+amazon.pdf,66,Variable lease cost,1852000000.0,USD,$,False,costs,2022,"Variable lease cost for the year ended December 31, 2022","Variable lease cost 1,852"
+amazon.pdf,66,Variable lease cost,2165000000.0,USD,$,False,costs,2023,"Variable lease cost for the year ended December 31, 2023","Variable lease cost 2,165"
+amazon.pdf,66,Variable lease cost,2465000000.0,USD,$,False,costs,2024,"Variable lease cost for the year ended December 31, 2024","Variable lease cost 2,465"
+amazon.pdf,66,Total lease cost,17157000000.0,USD,$,False,costs,2022,"Total lease cost for the year ended December 31, 2022","Total lease cost $ 17,157"
+amazon.pdf,66,Total lease cost,18918000000.0,USD,$,False,costs,2023,"Total lease cost for the year ended December 31, 2023","Total lease cost $ 18,918"
+amazon.pdf,66,Total lease cost,18577000000.0,USD,$,False,costs,2024,"Total lease cost for the year ended December 31, 2024","Total lease cost $ 18,577"
+amazon.pdf,66,Gross lease liabilities,90777000000.0,USD,$,False,costs,2023,"Gross lease liabilities as of December 31, 2023","Gross lease liabilities $ 90,777"
+amazon.pdf,66,Gross lease liabilities,95294000000.0,USD,$,False,costs,2024,"Gross lease liabilities as of December 31, 2024","Gross lease liabilities $ 95,294"
+amazon.pdf,66,Present value of lease liabilities,75639000000.0,USD,$,False,costs,2023,"Present value of lease liabilities as of December 31, 2023","Present value of lease liabilities 75,639"
+amazon.pdf,66,Present value of lease liabilities,79596000000.0,USD,$,False,costs,2024,"Present value of lease liabilities as of December 31, 2024","Present value of lease liabilities 79,596"
+amazon.pdf,66,Total long-term lease liabilities,67220000000.0,USD,$,False,costs,2023,"Total long-term lease liabilities as of December 31, 2023","Total long-term lease liabilities $ 67,220"
+amazon.pdf,66,Total long-term lease liabilities,69050000000.0,USD,$,False,costs,2024,"Total long-term lease liabilities as of December 31, 2024","Total long-term lease liabilities $ 69,050"
+amazon.pdf,66,Weighted-average remaining lease term operating leases,11.3,UNSPEC,,False,costs,2023,"Weighted-average remaining lease term for operating leases as of December 31, 2023",Weighted-average remaining lease term – operating leases 11.3 years
+amazon.pdf,66,Weighted-average remaining lease term operating leases,10.6,UNSPEC,,False,costs,2024,"Weighted-average remaining lease term for operating leases as of December 31, 2024",Weighted-average remaining lease term – operating leases 10.6 years
+amazon.pdf,66,Weighted-average remaining lease term finance leases,11.9,UNSPEC,,False,costs,2023,"Weighted-average remaining lease term for finance leases as of December 31, 2023",Weighted-average remaining lease term – finance leases 11.9 years
+amazon.pdf,66,Weighted-average remaining lease term finance leases,11.9,UNSPEC,,False,costs,2024,"Weighted-average remaining lease term for finance leases as of December 31, 2024",Weighted-average remaining lease term – finance leases 11.9 years
+amazon.pdf,66,Weighted-average discount rate operating leases,3.3,UNSPEC,,True,costs,2023,"Weighted-average discount rate for operating leases as of December 31, 2023",Weighted-average discount rate – operating leases 3.3 %
+amazon.pdf,66,Weighted-average discount rate operating leases,3.5,UNSPEC,,True,costs,2024,"Weighted-average discount rate for operating leases as of December 31, 2024",Weighted-average discount rate – operating leases 3.5 %
+amazon.pdf,66,Weighted-average discount rate finance leases,2.7,UNSPEC,,True,costs,2023,"Weighted-average discount rate for finance leases as of December 31, 2023",Weighted-average discount rate – finance leases 2.7 %
+amazon.pdf,66,Weighted-average discount rate finance leases,3.0,UNSPEC,,True,costs,2024,"Weighted-average discount rate for finance leases as of December 31, 2024",Weighted-average discount rate – finance leases 3.0 %
+amazon.pdf,67,Cash consideration for MGM Holdings Inc. acquisition,6100000000.0,USD,$,False,acquisitions,2022,Acquisition of MGM Holdings Inc. to expand digital media content options,"acquired MGM Holdings Inc., for cash consideration of approximately $6.1 billion"
+amazon.pdf,67,Debt assumed in MGM Holdings Inc. acquisition,2500000000.0,USD,$,False,acquisitions,2022,Debt assumed in acquisition of MGM Holdings Inc.,assumed $2.5 billion of debt
+amazon.pdf,67,"Cash consideration for 1Life Healthcare, Inc. acquisition",3500000000.0,USD,$,False,acquisitions,2023,"Acquisition of 1Life Healthcare, Inc. to provide healthcare options","acquired 1Life Healthcare, Inc. ... for cash consideration of approximately $3.5 billion"
+amazon.pdf,67,Cash consideration for 2024 acquisitions,780000000.0,USD,$,False,acquisitions,2024,Acquisition activity in 2024 to acquire technologies and expand customer base,completed acquisition activity for aggregate cash consideration of $780 million
+amazon.pdf,67,"Goodwill - January 1, 2023",16621000000.0,USD,$,False,general,2023,Goodwill at the start of 2023 for North America segment,"Goodwill - January 1, 2023 $ 16,621"
+amazon.pdf,67,"Goodwill - January 1, 2023",2411000000.0,USD,$,False,general,2023,Goodwill at the start of 2023 for International segment,"Goodwill - January 1, 2023 $ 2,411"
+amazon.pdf,67,"Goodwill - January 1, 2023",1256000000.0,USD,$,False,general,2023,Goodwill at the start of 2023 for AWS segment,"Goodwill - January 1, 2023 $ 1,256"
+amazon.pdf,67,"Goodwill - January 1, 2023",20288000000.0,USD,$,False,general,2023,Total goodwill at the start of 2023 across all segments,"Goodwill - January 1, 2023 $ 20,288"
+amazon.pdf,67,"Goodwill - December 31, 2023",19126000000.0,USD,$,False,general,2023,Goodwill at the end of 2023 for North America segment,"Goodwill - December 31, 2023 19,126"
+amazon.pdf,67,"Goodwill - December 31, 2023",2412000000.0,USD,$,False,general,2023,Goodwill at the end of 2023 for International segment,"Goodwill - December 31, 2023 2,412"
+amazon.pdf,67,"Goodwill - December 31, 2023",1251000000.0,USD,$,False,general,2023,Goodwill at the end of 2023 for AWS segment,"Goodwill - December 31, 2023 1,251"
+amazon.pdf,67,"Goodwill - December 31, 2023",22789000000.0,USD,$,False,general,2023,Total goodwill at the end of 2023 across all segments,"Goodwill - December 31, 2023 22,789"
+amazon.pdf,67,"Goodwill - December 31, 2024",19289000000.0,USD,$,False,general,2024,Goodwill at the end of 2024 for North America segment,"Goodwill - December 31, 2024 $ 19,289"
+amazon.pdf,67,"Goodwill - December 31, 2024",2485000000.0,USD,$,False,general,2024,Goodwill at the end of 2024 for International segment,"Goodwill - December 31, 2024 $ 2,485"
+amazon.pdf,67,"Goodwill - December 31, 2024",1300000000.0,USD,$,False,general,2024,Goodwill at the end of 2024 for AWS segment,"Goodwill - December 31, 2024 $ 1,300"
+amazon.pdf,67,"Goodwill - December 31, 2024",23074000000.0,USD,$,False,general,2024,Total goodwill at the end of 2024 across all segments,"Goodwill - December 31, 2024 $ 23,074"
+amazon.pdf,68,Amortization expense for acquired finite-lived intangibles,604000000.0,USD,$,False,costs,2022,Amortization expense for acquired finite-lived intangibles in 2022,Amortization expense ... 2022
+amazon.pdf,68,Amortization expense for acquired finite-lived intangibles,706000000.0,USD,$,False,costs,2023,Amortization expense for acquired finite-lived intangibles in 2023,Amortization expense ... 2023
+amazon.pdf,68,Amortization expense for acquired finite-lived intangibles,838000000.0,USD,$,False,costs,2024,Amortization expense for acquired finite-lived intangibles in 2024,Amortization expense ... 2024
+amazon.pdf,68,Expected future amortization expense of acquired finite-lived intangible assets,994000000.0,USD,$,False,costs,2025,Expected amortization expense for 2025,"Year Ended December 31, 2025 $ 994"
+amazon.pdf,68,Expected future amortization expense of acquired finite-lived intangible assets,918000000.0,USD,$,False,costs,2026,Expected amortization expense for 2026,2026 918
+amazon.pdf,68,Expected future amortization expense of acquired finite-lived intangible assets,796000000.0,USD,$,False,costs,2027,Expected amortization expense for 2027,2027 796
+amazon.pdf,68,Expected future amortization expense of acquired finite-lived intangible assets,632000000.0,USD,$,False,costs,2028,Expected amortization expense for 2028,2028 632
+amazon.pdf,68,Expected future amortization expense of acquired finite-lived intangible assets,615000000.0,USD,$,False,costs,2029,Expected amortization expense for 2029,2029 615
+amazon.pdf,68,Expected future amortization expense of acquired finite-lived intangible assets,3484000000.0,USD,$,False,costs,Thereafter,Expected amortization expense for periods after 2029,"Thereafter 3,484"
+amazon.pdf,69,Unsecured senior notes outstanding,58000000000.0,USD,$,False,costs,"December 31, 2024",Total unsecured senior notes outstanding as of the end of 2024,"As of December 31, 2024, we had $58.0 billion of unsecured senior notes outstanding"
+amazon.pdf,69,Total face value of long-term debt,67182000000.0,USD,$,False,costs,"December 31, 2023","Total face value of long-term debt as of December 31, 2023","Total face value of long-term debt 67,182"
+amazon.pdf,69,Total face value of long-term debt,58000000000.0,USD,$,False,costs,"December 31, 2024","Total face value of long-term debt as of December 31, 2024","Total face value of long-term debt 58,000"
+amazon.pdf,69,"Unamortized discount and issuance costs, net",-374000000.0,USD,$,False,costs,"December 31, 2023","Unamortized discount and issuance costs as of December 31, 2023","Unamortized discount and issuance costs, net (374)"
+amazon.pdf,69,"Unamortized discount and issuance costs, net",-360000000.0,USD,$,False,costs,"December 31, 2024","Unamortized discount and issuance costs as of December 31, 2024","Unamortized discount and issuance costs, net (360)"
+amazon.pdf,69,Current portion of long-term debt,-8494000000.0,USD,$,False,costs,"December 31, 2023","Current portion of long-term debt as of December 31, 2023","Current portion of long-term debt (8,494)"
+amazon.pdf,69,Current portion of long-term debt,-5017000000.0,USD,$,False,costs,"December 31, 2024","Current portion of long-term debt as of December 31, 2024","Current portion of long-term debt (5,017)"
+amazon.pdf,69,Long-term debt,58314000000.0,USD,$,False,costs,"December 31, 2024","Total long-term debt as of December 31, 2024","Long-term debt $ 58,314"
+amazon.pdf,69,Long-term debt,52623000000.0,USD,$,False,costs,"December 31, 2023","Total long-term debt as of December 31, 2023","Long-term debt $ 52,623"
+amazon.pdf,69,Borrowings outstanding under the Credit Facility,682000000.0,USD,$,False,costs,"December 31, 2023","Borrowings outstanding under the Credit Facility as of December 31, 2023","There were $682 million of borrowings outstanding under the Credit Facility as of December 31, 2023"
+amazon.pdf,69,Future principal payments for total long-term debt,58000000000.0,USD,$,False,costs,"Year Ended December 31, 2025",Outstanding long-term debt principal payments projected for 2025,"Year Ended December 31, 2025 $ 5,000"
+amazon.pdf,69,Future principal payments for total long-term debt,2750000000.0,USD,$,False,costs,"Year Ended December 31, 2026",Outstanding long-term debt principal payments projected for 2026,"2026 2,750"
+amazon.pdf,69,Future principal payments for total long-term debt,8750000000.0,USD,$,False,costs,"Year Ended December 31, 2027",Outstanding long-term debt principal payments projected for 2027,"2027 8,750"
+amazon.pdf,69,Future principal payments for total long-term debt,2250000000.0,USD,$,False,costs,"Year Ended December 31, 2028",Outstanding long-term debt principal payments projected for 2028,"2028 2,250"
+amazon.pdf,69,Future principal payments for total long-term debt,3000000000.0,USD,$,False,costs,"Year Ended December 31, 2029",Outstanding long-term debt principal payments projected for 2029,"2029 3,000"
+amazon.pdf,69,Future principal payments for total long-term debt,36250000000.0,USD,$,False,costs,Thereafter,Outstanding long-term debt principal payments projected for periods beyond 2029,"Thereafter 36,250"
+amazon.pdf,69,Term Loan amount,8000000000.0,USD,$,False,costs,January 2023,Unsecured term loan issued in January 2023,entered into an $8.0 billion unsecured 364-day term loan
+amazon.pdf,70,Credit Agreement size,15000000000.0,USD,$,False,capex,,Unsecured revolving credit facility with lenders,We have a $15.0 billion unsecured revolving credit facility
+amazon.pdf,70,Short-Term Credit Agreement size,5000000000.0,USD,$,False,capex,,Unsecured 364-day revolving credit facility,entered into a $5.0 billion unsecured 364-day revolving credit facility
+amazon.pdf,70,Commitment fee on Credit Agreement,0.03,UNSPEC,,True,costs,,Fee on undrawn portion of the credit facility,commitment fee of 0.03% on the undrawn portion
+amazon.pdf,70,Commitment fee on Short-Term Credit Agreement,0.03,UNSPEC,,True,costs,,Fee on undrawn portion of the short-term credit facility,commitment fee of 0.03% on the undrawn portion
+amazon.pdf,70,Long-term debt principal and interest,6858000000.0,USD,$,False,costs,2025,"Long-term debt principal and interest for the year ended December 31, 2025","Year Ended December 31, 2025"
+amazon.pdf,70,Long-term debt principal and interest,4458000000.0,USD,$,False,costs,2026,"Long-term debt principal and interest for the year ended December 31, 2026","Year Ended December 31, 2026"
+amazon.pdf,70,Long-term debt principal and interest,10404000000.0,USD,$,False,costs,2027,"Long-term debt principal and interest for the year ended December 31, 2027","Year Ended December 31, 2027"
+amazon.pdf,70,Long-term debt principal and interest,3644000000.0,USD,$,False,costs,2028,"Long-term debt principal and interest for the year ended December 31, 2028","Year Ended December 31, 2028"
+amazon.pdf,70,Long-term debt principal and interest,4344000000.0,USD,$,False,costs,2029,"Long-term debt principal and interest for the year ended December 31, 2029","Year Ended December 31, 2029"
+amazon.pdf,70,Long-term debt principal and interest,55831000000.0,USD,$,False,costs,Thereafter,Long-term debt principal and interest for commitments beyond 2029,Thereafter Total Long-term debt principal and interest
+amazon.pdf,70,Operating lease liabilities,12002000000.0,USD,$,False,costs,2025,"Operating lease liabilities for the year ended December 31, 2025","Year Ended December 31, 2025"
+amazon.pdf,70,Operating lease liabilities,11023000000.0,USD,$,False,costs,2026,"Operating lease liabilities for the year ended December 31, 2026","Year Ended December 31, 2026"
+amazon.pdf,70,Operating lease liabilities,10087000000.0,USD,$,False,costs,2027,"Operating lease liabilities for the year ended December 31, 2027","Year Ended December 31, 2027"
+amazon.pdf,70,Operating lease liabilities,9205000000.0,USD,$,False,costs,2028,"Operating lease liabilities for the year ended December 31, 2028","Year Ended December 31, 2028"
+amazon.pdf,70,Operating lease liabilities,8534000000.0,USD,$,False,costs,2029,"Operating lease liabilities for the year ended December 31, 2029","Year Ended December 31, 2029"
+amazon.pdf,70,Operating lease liabilities,44443000000.0,USD,$,False,costs,Thereafter,Operating lease liabilities for commitments beyond 2029,Thereafter Total Operating lease liabilities
+amazon.pdf,70,"Finance lease liabilities, including interest",1491000000.0,USD,$,False,costs,2025,"Finance lease liabilities, including interest, for the year ended December 31, 2025","Year Ended December 31, 2025"
+amazon.pdf,70,"Finance lease liabilities, including interest",1495000000.0,USD,$,False,costs,2026,"Finance lease liabilities, including interest, for the year ended December 31, 2026","Year Ended December 31, 2026"
+amazon.pdf,70,"Finance lease liabilities, including interest",1317000000.0,USD,$,False,costs,2027,"Finance lease liabilities, including interest, for the year ended December 31, 2027","Year Ended December 31, 2027"
+amazon.pdf,70,"Finance lease liabilities, including interest",1114000000.0,USD,$,False,costs,2028,"Finance lease liabilities, including interest, for the year ended December 31, 2028","Year Ended December 31, 2028"
+amazon.pdf,70,"Finance lease liabilities, including interest",1022000000.0,USD,$,False,costs,2029,"Finance lease liabilities, including interest, for the year ended December 31, 2029","Year Ended December 31, 2029"
+amazon.pdf,70,"Finance lease liabilities, including interest",6081000000.0,USD,$,False,costs,Thereafter,"Finance lease liabilities, including interest, for commitments beyond 2029","Thereafter Total Finance lease liabilities, including interest"
+amazon.pdf,70,"Financing obligations, including interest",511000000.0,USD,$,False,costs,2025,"Financing obligations, including interest, for the year ended December 31, 2025","Year Ended December 31, 2025"
+amazon.pdf,70,"Financing obligations, including interest",515000000.0,USD,$,False,costs,2026,"Financing obligations, including interest, for the year ended December 31, 2026","Year Ended December 31, 2026"
+amazon.pdf,70,"Financing obligations, including interest",523000000.0,USD,$,False,costs,2027,"Financing obligations, including interest, for the year ended December 31, 2027","Year Ended December 31, 2027"
+amazon.pdf,70,"Financing obligations, including interest",531000000.0,USD,$,False,costs,2028,"Financing obligations, including interest, for the year ended December 31, 2028","Year Ended December 31, 2028"
+amazon.pdf,70,"Financing obligations, including interest",540000000.0,USD,$,False,costs,2029,"Financing obligations, including interest, for the year ended December 31, 2029","Year Ended December 31, 2029"
+amazon.pdf,70,"Financing obligations, including interest",6397000000.0,USD,$,False,costs,Thereafter,"Financing obligations, including interest, for commitments beyond 2029","Thereafter Total Financing obligations, including interest"
+amazon.pdf,70,Leases not yet commenced,2695000000.0,USD,$,False,costs,2025,"Leases not yet commenced for the year ended December 31, 2025","Year Ended December 31, 2025"
+amazon.pdf,70,Leases not yet commenced,3691000000.0,USD,$,False,costs,2026,"Leases not yet commenced for the year ended December 31, 2026","Year Ended December 31, 2026"
+amazon.pdf,70,Leases not yet commenced,5011000000.0,USD,$,False,costs,2027,"Leases not yet commenced for the year ended December 31, 2027","Year Ended December 31, 2027"
+amazon.pdf,70,Leases not yet commenced,4253000000.0,USD,$,False,costs,2028,"Leases not yet commenced for the year ended December 31, 2028","Year Ended December 31, 2028"
+amazon.pdf,70,Leases not yet commenced,4286000000.0,USD,$,False,costs,2029,"Leases not yet commenced for the year ended December 31, 2029","Year Ended December 31, 2029"
+amazon.pdf,70,Leases not yet commenced,41691000000.0,USD,$,False,costs,Thereafter,Leases not yet commenced for commitments beyond 2029,Thereafter Total Leases not yet commenced
+amazon.pdf,70,Unconditional purchase obligations,8536000000.0,USD,$,False,costs,2025,"Unconditional purchase obligations for the year ended December 31, 2025","Year Ended December 31, 2025"
+amazon.pdf,70,Unconditional purchase obligations,7941000000.0,USD,$,False,costs,2026,"Unconditional purchase obligations for the year ended December 31, 2026","Year Ended December 31, 2026"
+amazon.pdf,70,Unconditional purchase obligations,5413000000.0,USD,$,False,costs,2027,"Unconditional purchase obligations for the year ended December 31, 2027","Year Ended December 31, 2027"
+amazon.pdf,70,Unconditional purchase obligations,4321000000.0,USD,$,False,costs,2028,"Unconditional purchase obligations for the year ended December 31, 2028","Year Ended December 31, 2028"
+amazon.pdf,70,Unconditional purchase obligations,3868000000.0,USD,$,False,costs,2029,"Unconditional purchase obligations for the year ended December 31, 2029","Year Ended December 31, 2029"
+amazon.pdf,70,Unconditional purchase obligations,20296000000.0,USD,$,False,costs,Thereafter,Unconditional purchase obligations for commitments beyond 2029,Thereafter Total Unconditional purchase obligations
+amazon.pdf,70,Other commitments,2739000000.0,USD,$,False,costs,2025,"Other commitments for the year ended December 31, 2025","Year Ended December 31, 2025"
+amazon.pdf,70,Other commitments,1470000000.0,USD,$,False,costs,2026,"Other commitments for the year ended December 31, 2026","Year Ended December 31, 2026"
+amazon.pdf,70,Other commitments,1016000000.0,USD,$,False,costs,2027,"Other commitments for the year ended December 31, 2027","Year Ended December 31, 2027"
+amazon.pdf,70,Other commitments,923000000.0,USD,$,False,costs,2028,"Other commitments for the year ended December 31, 2028","Year Ended December 31, 2028"
+amazon.pdf,70,Other commitments,1025000000.0,USD,$,False,costs,2029,"Other commitments for the year ended December 31, 2029","Year Ended December 31, 2029"
+amazon.pdf,70,Other commitments,11456000000.0,USD,$,False,costs,Thereafter,Other commitments for commitments beyond 2029,Thereafter Total Other commitments
+amazon.pdf,70,Total commitments,34832000000.0,USD,$,False,costs,2025,"Total commitments for the year ended December 31, 2025","Year Ended December 31, 2025"
+amazon.pdf,70,Total commitments,30593000000.0,USD,$,False,costs,2026,"Total commitments for the year ended December 31, 2026","Year Ended December 31, 2026"
+amazon.pdf,70,Total commitments,33771000000.0,USD,$,False,costs,2027,"Total commitments for the year ended December 31, 2027","Year Ended December 31, 2027"
+amazon.pdf,70,Total commitments,23991000000.0,USD,$,False,costs,2028,"Total commitments for the year ended December 31, 2028","Year Ended December 31, 2028"
+amazon.pdf,70,Total commitments,23619000000.0,USD,$,False,costs,2029,"Total commitments for the year ended December 31, 2029","Year Ended December 31, 2029"
+amazon.pdf,70,Total commitments,186195000000.0,USD,$,False,costs,Thereafter,Total commitments for commitments beyond 2029,Thereafter Total commitments
+amazon.pdf,70,Total commitments,333001000000.0,USD,$,False,costs,Total,"Total commitments as of December 31, 2024","Total commitments $ 333,001"
+amazon.pdf,70,income tax contingencies,6500000000.0,USD,$,False,costs,FY2024,Excluded from liabilities due to inability to estimate payment amounts,Excludes approximately $6.5 billion of income tax contingencies
+amazon.pdf,71,Potential damages,140000000.0,USD,$,False,costs,2023,Plaintiffs allege potential damages if liability is found,Plaintiffs alleged ... $140 million to $267 million in damages
+amazon.pdf,71,Potential damages,267000000.0,USD,$,False,costs,2023,Plaintiffs allege potential damages if liability is found,Plaintiffs alleged ... $140 million to $267 million in damages
+amazon.pdf,71,Damages awarded,525000000.0,USD,$,False,costs,April 2024,Jury found Amazon infringed patents and awarded damages,jury found that Amazon infringed the asserted patents and awarded Kove $525 million in damages
+amazon.pdf,71,Pre-judgment interest awarded,148000000.0,USD,$,False,costs,August 2024,Court awarded pre-judgment interest to Kove,court awarded Kove $148 million in pre-judgment interest
+amazon.pdf,71,AWS revenue,90700000000.0,USD,$,False,aws,FY2024,Revenue grew on migration of enterprise workloads to cloud,AWS revenue increased ...
+amazon.pdf,71,alleged damages,1000000000.0,USD,$,False,costs,2020-2023,Private litigants seek billions of dollars in alleged damages,complaints seek billions of dollars of alleged damages
+amazon.pdf,72,AWS revenue,0.0,UNSPEC,,False,aws,,,
+amazon.pdf,72,potential damages,986000000.0,USD,$,False,costs,Q4 2022,Potential damages if liability is found against Amazon,Broadband iTV alleged ... $986 million in damages
+amazon.pdf,72,potential damages,166000000.0,USD,$,False,costs,Q4 2022,Potential damages if liability is found against Amazon,Broadband iTV alleged ... $166 million in damages
+amazon.pdf,72,Fine imposed by CNPD,746000000.0,EUR,€,False,costs,July 2021,Imposed fine for non-compliance with EU GDPR,CNPD issued a decision against Amazon...
+amazon.pdf,72,Fine imposed by ICA,1130000000.0,EUR,€,False,costs,December 2021,Imposed fine for alleged competition rule violations,ICA issued a decision against Amazon...
+amazon.pdf,72,legal proceedings,60.0,UNSPEC,,False,general,FY2024,Potential losses from legal proceedings could exceed 60,we may experience losses in excess of the 60
+amazon.pdf,73,Common shares outstanding,10600000000.0,UNSPEC,,False,general,"Dec 31, 2022",Total common shares and stock awards outstanding as of end of 2022,Common shares outstanding ... 10.6 billion
+amazon.pdf,73,Common shares outstanding,10800000000.0,UNSPEC,,False,general,"Dec 31, 2023",Total common shares and stock awards outstanding as of end of 2023,Common shares outstanding ... 10.8 billion
+amazon.pdf,73,Common shares outstanding,10900000000.0,UNSPEC,,False,general,"Dec 31, 2024",Total common shares and stock awards outstanding as of end of 2024,Common shares outstanding ... 10.9 billion
+amazon.pdf,73,Stock repurchase authorization,10000000000.0,USD,$,False,costs,Mar 2022,Board authorized $10 billion stock repurchase program,Board of Directors authorized a program to repurchase up to $10.0 billion
+amazon.pdf,73,Stock repurchases in 2022,6000000000.0,USD,$,False,costs,2022,Company repurchased $6 billion of common stock in 2022,repurchased 46.2 million shares ... for $6.0 billion in 2022
+amazon.pdf,73,Remaining repurchase capacity,6100000000.0,USD,$,False,costs,"Dec 31, 2024",Remaining repurchase capacity as of end of 2024,we have $6.1 billion remaining under the repurchase program
+amazon.pdf,73,Cost of sales stock-based compensation expense,757000000.0,USD,$,False,costs,2022,Cost of sales had stock-based compensation expense of $757 million,Cost of sales $ 757
+amazon.pdf,73,Cost of sales stock-based compensation expense,836000000.0,USD,$,False,costs,2023,Cost of sales had stock-based compensation expense of $836 million,Cost of sales $ 836
+amazon.pdf,73,Cost of sales stock-based compensation expense,838000000.0,USD,$,False,costs,2024,Cost of sales had stock-based compensation expense of $838 million,Cost of sales $ 838
+amazon.pdf,73,Fulfillment stock-based compensation expense,2745000000.0,USD,$,False,costs,2022,Fulfillment had stock-based compensation expense of $2.745 billion,"Fulfillment 2,745"
+amazon.pdf,73,Fulfillment stock-based compensation expense,3090000000.0,USD,$,False,costs,2023,Fulfillment had stock-based compensation expense of $3.09 billion,"Fulfillment 3,090"
+amazon.pdf,73,Fulfillment stock-based compensation expense,2973000000.0,USD,$,False,costs,2024,Fulfillment had stock-based compensation expense of $2.973 billion,"Fulfillment 2,973"
+amazon.pdf,73,Technology and infrastructure stock-based compensation expense,10621000000.0,USD,$,False,costs,2022,Technology and infrastructure had stock-based compensation expense of $10.621 billion,"Technology and infrastructure 10,621"
+amazon.pdf,73,Technology and infrastructure stock-based compensation expense,13434000000.0,USD,$,False,costs,2023,Technology and infrastructure had stock-based compensation expense of $13.434 billion,"Technology and infrastructure 13,434"
+amazon.pdf,73,Technology and infrastructure stock-based compensation expense,12150000000.0,USD,$,False,costs,2024,Technology and infrastructure had stock-based compensation expense of $12.15 billion,"Technology and infrastructure 12,150"
+amazon.pdf,73,Sales and marketing stock-based compensation expense,3875000000.0,USD,$,False,costs,2022,Sales and marketing had stock-based compensation expense of $3.875 billion,"Sales and marketing 3,875"
+amazon.pdf,73,Sales and marketing stock-based compensation expense,4623000000.0,USD,$,False,costs,2023,Sales and marketing had stock-based compensation expense of $4.623 billion,"Sales and marketing 4,623"
+amazon.pdf,73,Sales and marketing stock-based compensation expense,4084000000.0,USD,$,False,costs,2024,Sales and marketing had stock-based compensation expense of $4.084 billion,"Sales and marketing 4,084"
+amazon.pdf,73,General and administrative stock-based compensation expense,1623000000.0,USD,$,False,costs,2022,General and administrative had stock-based compensation expense of $1.623 billion,"General and administrative 1,623"
+amazon.pdf,73,General and administrative stock-based compensation expense,2040000000.0,USD,$,False,costs,2023,General and administrative had stock-based compensation expense of $2.04 billion,"General and administrative 2,040"
+amazon.pdf,73,General and administrative stock-based compensation expense,1966000000.0,USD,$,False,costs,2024,General and administrative had stock-based compensation expense of $1.966 billion,"General and administrative 1,966"
+amazon.pdf,73,Total stock-based compensation expense,19621000000.0,USD,$,False,costs,2022,Total stock-based compensation expense was $19.621 billion,"Total stock-based compensation expense (1) $ 19,621"
+amazon.pdf,73,Total stock-based compensation expense,24023000000.0,USD,$,False,costs,2023,Total stock-based compensation expense was $24.023 billion,"Total stock-based compensation expense (1) $ 24,023"
+amazon.pdf,73,Total stock-based compensation expense,22011000000.0,USD,$,False,costs,2024,Total stock-based compensation expense was $22.011 billion,"Total stock-based compensation expense (1) $ 22,011"
+amazon.pdf,73,Tax benefits related to stock-based compensation,4300000000.0,USD,$,False,costs,2022,Tax benefits related to stock-based compensation were $4.3 billion,The related tax benefits were $4.3 billion
+amazon.pdf,73,Tax benefits related to stock-based compensation,5400000000.0,USD,$,False,costs,2023,Tax benefits related to stock-based compensation were $5.4 billion,The related tax benefits were $5.4 billion
+amazon.pdf,73,Tax benefits related to stock-based compensation,5000000000.0,USD,$,False,costs,2024,Tax benefits related to stock-based compensation were $5.0 billion,The related tax benefits were $5.0 billion
+amazon.pdf,74,Net unrecognized compensation cost,16200000000.0,USD,$,False,costs,"December 31, 2024",Unrecognized compensation cost related to unvested stock-based compensation,There was $16.2 billion of net unrecognized compensation cost
+amazon.pdf,74,Fair value of restricted stock units that vested,12800000000.0,USD,$,False,costs,2022,Fair value of restricted stock units that vested in 2022,Fair value of restricted stock units that vested was $12.8 billion
+amazon.pdf,74,Fair value of restricted stock units that vested,17600000000.0,USD,$,False,costs,2023,Fair value of restricted stock units that vested in 2023,Fair value of restricted stock units that vested was $17.6 billion
+amazon.pdf,74,Fair value of restricted stock units that vested,39600000000.0,USD,$,False,costs,2024,Fair value of restricted stock units that vested in 2024,Fair value of restricted stock units that vested was $39.6 billion
+amazon.pdf,74,Net tax provision (benefit),-3.2e+18,USD,$,False,costs,2022,Net tax provision for 2022,Recorded a net tax provision (benefit) of $(3.2) billion
+amazon.pdf,74,Net tax provision (benefit),7100000000.0,USD,$,False,costs,2023,Net tax provision for 2023,Recorded a net tax provision (benefit) of $7.1 billion
+amazon.pdf,74,Net tax provision (benefit),9300000000.0,USD,$,False,costs,2024,Net tax provision for 2024,Recorded a net tax provision (benefit) of $9.3 billion
+amazon.pdf,74,Cash paid for income taxes,6000000000.0,USD,$,False,costs,2022,Cash paid for income taxes in 2022,Cash paid for income taxes was $6.0 billion
+amazon.pdf,74,Cash paid for income taxes,11200000000.0,USD,$,False,costs,2023,Cash paid for income taxes in 2023,Cash paid for income taxes was $11.2 billion
+amazon.pdf,74,Cash paid for income taxes,12300000000.0,USD,$,False,costs,2024,Cash paid for income taxes in 2024,Cash paid for income taxes was $12.3 billion
+amazon.pdf,74,Federal tax provision,0.0,UNSPEC,,False,costs,2022,Includes accelerated depreciation deductions,federal tax provision included accelerated depreciation deductions
+amazon.pdf,74,Federal tax provision,0.0,UNSPEC,,False,costs,2023,Includes accelerated depreciation deductions,federal tax provision included accelerated depreciation deductions
+amazon.pdf,74,Federal tax provision,0.0,UNSPEC,,False,costs,2024,Includes accelerated depreciation deductions,federal tax provision included accelerated depreciation deductions
+amazon.pdf,75,U.S. Federal Current Tax,2175000000.0,USD,$,False,costs,2022,U.S. federal current tax for 2022,"U.S. Federal: Current $ 2,175"
+amazon.pdf,75,U.S. Federal Current Tax,8652000000.0,USD,$,False,costs,2023,U.S. federal current tax for 2023,"U.S. Federal: Current $ 8,652"
+amazon.pdf,75,U.S. Federal Current Tax,9039000000.0,USD,$,False,costs,2024,U.S. federal current tax for 2024,"U.S. Federal: Current $ 9,039"
+amazon.pdf,75,U.S. State Current Tax,1074000000.0,USD,$,False,costs,2022,U.S. state current tax for 2022,"U.S. State: Current 1,074"
+amazon.pdf,75,U.S. State Current Tax,2158000000.0,USD,$,False,costs,2023,U.S. state current tax for 2023,"U.S. State: Current 2,158"
+amazon.pdf,75,U.S. State Current Tax,2109000000.0,USD,$,False,costs,2024,U.S. state current tax for 2024,"U.S. State: Current 2,109"
+amazon.pdf,75,International Current Tax,1682000000.0,USD,$,False,costs,2022,International current tax for 2022,"International: Current 1,682"
+amazon.pdf,75,International Current Tax,2186000000.0,USD,$,False,costs,2023,International current tax for 2023,"International: Current 2,186"
+amazon.pdf,75,International Current Tax,2765000000.0,USD,$,False,costs,2024,International current tax for 2024,"International: Current 2,765"
+amazon.pdf,75,Provision (Benefit) for Income Taxes,-3217000000.0,USD,$,False,costs,2022,Total provision (benefit) for income taxes in 2022,"Provision (benefit) for income taxes, net $ (3,217)"
+amazon.pdf,75,Provision (Benefit) for Income Taxes,7120000000.0,USD,$,False,costs,2023,Total provision (benefit) for income taxes in 2023,"Provision (benefit) for income taxes, net $ 7,120"
+amazon.pdf,75,Provision (Benefit) for Income Taxes,9265000000.0,USD,$,False,costs,2024,Total provision (benefit) for income taxes in 2024,"Provision (benefit) for income taxes, net $ 9,265"
+amazon.pdf,75,U.S. Income Before Income Taxes,-8225000000.0,USD,$,False,revenue,2022,U.S. income before income taxes in 2022,"U.S. $ (8,225)"
+amazon.pdf,75,U.S. Income Before Income Taxes,32328000000.0,USD,$,False,revenue,2023,U.S. income before income taxes in 2023,"U.S. $ 32,328"
+amazon.pdf,75,U.S. Income Before Income Taxes,61947000000.0,USD,$,False,revenue,2024,U.S. income before income taxes in 2024,"U.S. $ 61,947"
+amazon.pdf,75,International Income Before Income Taxes,2289000000.0,USD,$,False,revenue,2022,International income before income taxes in 2022,"International 2,289"
+amazon.pdf,75,International Income Before Income Taxes,5229000000.0,USD,$,False,revenue,2023,International income before income taxes in 2023,"International 5,229"
+amazon.pdf,75,International Income Before Income Taxes,6667000000.0,USD,$,False,revenue,2024,International income before income taxes in 2024,"International 6,667"
+amazon.pdf,75,Income (Loss) Before Income Taxes,-5936000000.0,USD,$,False,revenue,2022,Total income (loss) before income taxes in 2022,"Income (loss) before income taxes $ (5,936)"
+amazon.pdf,75,Income (Loss) Before Income Taxes,37557000000.0,USD,$,False,revenue,2023,Total income (loss) before income taxes in 2023,"Income (loss) before income taxes $ 37,557"
+amazon.pdf,75,Income (Loss) Before Income Taxes,68614000000.0,USD,$,False,revenue,2024,Total income (loss) before income taxes in 2024,"Income (loss) before income taxes $ 68,614"
+amazon.pdf,76,Foreign net operating loss carryforwards,9900000000.0,USD,$,False,costs,"December 31, 2024","Foreign net operating loss carryforwards before tax effects as of December 31, 2024",Foreign net operating loss carryforwards ... $9.9 billion
+amazon.pdf,76,Deferred tax assets net of valuation allowances,55045000000.0,USD,$,False,costs,"December 31, 2024","Total deferred tax assets after valuation allowances as of December 31, 2024","Deferred tax assets, net of valuation allowances 55,045"
+amazon.pdf,76,Deferred tax assets net of valuation allowances,45788000000.0,USD,$,False,costs,"December 31, 2023","Total deferred tax assets after valuation allowances as of December 31, 2023","Deferred tax assets, net of valuation allowances 45,788"
+amazon.pdf,76,provision for income taxes,64.0,UNSPEC,,False,costs,FY2024,Provision for income taxes includes reserve provisions and changes to reserves,The provision for income taxes includes ...
+amazon.pdf,77,Gross tax contingencies - January 1,3242000000.0,USD,$,False,costs,2022,Gross tax contingencies at the start of 2022,"Gross tax contingencies – January 1 $ 3,242"
+amazon.pdf,77,Gross tax contingencies - January 1,4002000000.0,USD,$,False,costs,2023,Gross tax contingencies at the start of 2023,"Gross tax contingencies – January 1 $ 4,002"
+amazon.pdf,77,Gross tax contingencies - January 1,5228000000.0,USD,$,False,costs,2024,Gross tax contingencies at the start of 2024,"Gross tax contingencies – January 1 $ 5,228"
+amazon.pdf,77,Gross increases to tax positions in prior periods,274000000.0,USD,$,False,costs,2022,Increase in tax positions for 2022,Gross increases to tax positions in prior periods 274
+amazon.pdf,77,Gross increases to tax positions in prior periods,440000000.0,USD,$,False,costs,2023,Increase in tax positions for 2023,Gross increases to tax positions in prior periods 440
+amazon.pdf,77,Gross increases to tax positions in prior periods,154000000.0,USD,$,False,costs,2024,Increase in tax positions for 2024,Gross increases to tax positions in prior periods 154
+amazon.pdf,77,Gross decreases to tax positions in prior periods,172000000.0,USD,$,False,costs,2022,Decrease in tax positions for 2022,Gross decreases to tax positions in prior periods (172)
+amazon.pdf,77,Gross decreases to tax positions in prior periods,38000000.0,USD,$,False,costs,2023,Decrease in tax positions for 2023,Gross decreases to tax positions in prior periods (38)
+amazon.pdf,77,Gross decreases to tax positions in prior periods,129000000.0,USD,$,False,costs,2024,Decrease in tax positions for 2024,Gross decreases to tax positions in prior periods (129)
+amazon.pdf,77,Gross increases to current period tax positions,706000000.0,USD,$,False,costs,2022,Increase in current period tax positions for 2022,Gross increases to current period tax positions 706
+amazon.pdf,77,Gross increases to current period tax positions,1009000000.0,USD,$,False,costs,2023,Increase in current period tax positions for 2023,"Gross increases to current period tax positions 1,009"
+amazon.pdf,77,Gross increases to current period tax positions,1392000000.0,USD,$,False,costs,2024,Increase in current period tax positions for 2024,"Gross increases to current period tax positions 1,392"
+amazon.pdf,77,Settlements with tax authorities,20000000.0,USD,$,False,costs,2022,Settlements with tax authorities for 2022,Settlements with tax authorities (20)
+amazon.pdf,77,Settlements with tax authorities,106000000.0,USD,$,False,costs,2023,Settlements with tax authorities for 2023,Settlements with tax authorities (106)
+amazon.pdf,77,Settlements with tax authorities,9000000.0,USD,$,False,costs,2024,Settlements with tax authorities for 2024,Settlements with tax authorities (9)
+amazon.pdf,77,Lapse of statute of limitations,28000000.0,USD,$,False,costs,2022,Lapse of statute of limitations for 2022,Lapse of statute of limitations (28)
+amazon.pdf,77,Lapse of statute of limitations,79000000.0,USD,$,False,costs,2023,Lapse of statute of limitations for 2023,Lapse of statute of limitations (79)
+amazon.pdf,77,Lapse of statute of limitations,151000000.0,USD,$,False,costs,2024,Lapse of statute of limitations for 2024,Lapse of statute of limitations (151)
+amazon.pdf,77,Gross tax contingencies - December 31,4002000000.0,USD,$,False,costs,2022,Gross tax contingencies at the end of 2022,"Gross tax contingencies – December 31 (1) $ 4,002"
+amazon.pdf,77,Gross tax contingencies - December 31,5228000000.0,USD,$,False,costs,2023,Gross tax contingencies at the end of 2023,"Gross tax contingencies – December 31 (1) $ 5,228"
+amazon.pdf,77,Gross tax contingencies - December 31,6485000000.0,USD,$,False,costs,2024,Gross tax contingencies at the end of 2024,"Gross tax contingencies – December 31 (1) $ 6,485"
+amazon.pdf,77,Income tax contingencies,6500000000.0,USD,$,False,costs,2024,"Total income tax contingencies as of December 31, 2024","As of December 31, 2024, we had approximately $6.5 billion of income tax contingencies"
+amazon.pdf,77,Accrued interest and penalties,194000000.0,USD,$,False,costs,2023,"Accrued interest and penalties as of December 31, 2023",accrued interest and penalties ... $194 million
+amazon.pdf,77,Accrued interest and penalties,316000000.0,USD,$,False,costs,2024,"Accrued interest and penalties as of December 31, 2024",accrued interest and penalties ... $316 million
+amazon.pdf,77,Interest and penalties recognized,-7000000000000.0,USD,$,False,costs,2022,Interest and penalties recognized for 2022,Interest and penalties ... $(7) million
+amazon.pdf,77,Interest and penalties recognized,91000000.0,USD,$,False,costs,2023,Interest and penalties recognized for 2023,Interest and penalties ... $91 million
+amazon.pdf,77,Interest and penalties recognized,121000000.0,USD,$,False,costs,2024,Interest and penalties recognized for 2024,Interest and penalties ... $121 million
+amazon.pdf,77,tax expense,0.0,UNSPEC,,False,costs,next twelve months,Potential for significant additional tax expense if matter is adversely resolved,could recognize significant additional tax expense
+amazon.pdf,77,Technology and infrastructure costs,0.0,UNSPEC,,False,costs,Q4 2023,Majority of technology costs are incurred in the U.S. and included in North America and AWS segments,Majority of technology costs recorded in 'Technology and infrastructure' are incurred in the U.S.
+amazon.pdf,77,Infrastructure costs,0.0,UNSPEC,,False,costs,Q4 2023,Majority of infrastructure costs in 'Technology and infrastructure' are allocated to AWS segment based on usage,Majority of infrastructure costs recorded in 'Technology and infrastructure' are allocated to the AWS segment
+amazon.pdf,78,North America net sales,315880000000.0,USD,$,False,revenue,2022,North America net sales for 2022,"North America Net sales $ 315,880"
+amazon.pdf,78,North America net sales,352828000000.0,USD,$,False,revenue,2023,North America net sales for 2023,"North America Net sales $ 352,828"
+amazon.pdf,78,North America net sales,387497000000.0,USD,$,False,revenue,2024,North America net sales for 2024,"North America Net sales $ 387,497"
+amazon.pdf,78,North America operating expenses,318727000000.0,USD,$,False,costs,2022,North America operating expenses for 2022,"Operating expenses 318,727"
+amazon.pdf,78,North America operating expenses,337951000000.0,USD,$,False,costs,2023,North America operating expenses for 2023,"Operating expenses 337,951"
+amazon.pdf,78,North America operating expenses,362530000000.0,USD,$,False,costs,2024,North America operating expenses for 2024,"Operating expenses 362,530"
+amazon.pdf,78,North America operating income,-2847000000.0,USD,$,False,operating_income,2022,North America operating loss for 2022,"Operating income (loss) $ (2,847)"
+amazon.pdf,78,North America operating income,14877000000.0,USD,$,False,operating_income,2023,North America operating income for 2023,"Operating income (loss) $ 14,877"
+amazon.pdf,78,North America operating income,24967000000.0,USD,$,False,operating_income,2024,North America operating income for 2024,"Operating income (loss) $ 24,967"
+amazon.pdf,78,International net sales,118007000000.0,USD,$,False,revenue,2022,International net sales for 2022,"International Net sales $ 118,007"
+amazon.pdf,78,International net sales,131200000000.0,USD,$,False,revenue,2023,International net sales for 2023,"International Net sales $ 131,200"
+amazon.pdf,78,International net sales,142906000000.0,USD,$,False,revenue,2024,International net sales for 2024,"International Net sales $ 142,906"
+amazon.pdf,78,International operating expenses,125753000000.0,USD,$,False,costs,2022,International operating expenses for 2022,"Operating expenses 125,753"
+amazon.pdf,78,International operating expenses,133856000000.0,USD,$,False,costs,2023,International operating expenses for 2023,"Operating expenses 133,856"
+amazon.pdf,78,International operating expenses,139114000000.0,USD,$,False,costs,2024,International operating expenses for 2024,"Operating expenses 139,114"
+amazon.pdf,78,International operating income,-7746000000.0,USD,$,False,operating_income,2022,International operating loss for 2022,"Operating income (loss) $ (7,746)"
+amazon.pdf,78,International operating income,-2656000000.0,USD,$,False,operating_income,2023,International operating loss for 2023,"Operating income (loss) $ (2,656)"
+amazon.pdf,78,International operating income,3792000000.0,USD,$,False,operating_income,2024,International operating income for 2024,"Operating income (loss) $ 3,792"
+amazon.pdf,78,AWS net sales,80096000000.0,USD,$,False,revenue,2022,AWS net sales for 2022,"AWS Net sales $ 80,096"
+amazon.pdf,78,AWS net sales,90757000000.0,USD,$,False,revenue,2023,AWS net sales for 2023,"AWS Net sales $ 90,757"
+amazon.pdf,78,AWS net sales,107556000000.0,USD,$,False,revenue,2024,AWS net sales for 2024,"AWS Net sales $ 107,556"
+amazon.pdf,78,AWS operating expenses,57255000000.0,USD,$,False,costs,2022,AWS operating expenses for 2022,"Operating expenses 57,255"
+amazon.pdf,78,AWS operating expenses,66126000000.0,USD,$,False,costs,2023,AWS operating expenses for 2023,"Operating expenses 66,126"
+amazon.pdf,78,AWS operating expenses,67722000000.0,USD,$,False,costs,2024,AWS operating expenses for 2024,"Operating expenses 67,722"
+amazon.pdf,78,AWS operating income,22841000000.0,USD,$,False,operating_income,2022,AWS operating income for 2022,"Operating income $ 22,841"
+amazon.pdf,78,AWS operating income,24631000000.0,USD,$,False,operating_income,2023,AWS operating income for 2023,"Operating income $ 24,631"
+amazon.pdf,78,AWS operating income,39834000000.0,USD,$,False,operating_income,2024,AWS operating income for 2024,"Operating income $ 39,834"
+amazon.pdf,78,Consolidated net sales,513983000000.0,USD,$,False,revenue,2022,Consolidated net sales for 2022,"Consolidated Net sales $ 513,983"
+amazon.pdf,78,Consolidated net sales,574785000000.0,USD,$,False,revenue,2023,Consolidated net sales for 2023,"Consolidated Net sales $ 574,785"
+amazon.pdf,78,Consolidated net sales,637959000000.0,USD,$,False,revenue,2024,Consolidated net sales for 2024,"Consolidated Net sales $ 637,959"
+amazon.pdf,78,Consolidated operating expenses,501735000000.0,USD,$,False,costs,2022,Consolidated operating expenses for 2022,"Operating expenses 501,735"
+amazon.pdf,78,Consolidated operating expenses,537933000000.0,USD,$,False,costs,2023,Consolidated operating expenses for 2023,"Operating expenses 537,933"
+amazon.pdf,78,Consolidated operating expenses,569366000000.0,USD,$,False,costs,2024,Consolidated operating expenses for 2024,"Operating expenses 569,366"
+amazon.pdf,78,Consolidated operating income,12248000000.0,USD,$,False,operating_income,2022,Consolidated operating income for 2022,"Operating income 12,248"
+amazon.pdf,78,Consolidated operating income,36852000000.0,USD,$,False,operating_income,2023,Consolidated operating income for 2023,"Operating income 36,852"
+amazon.pdf,78,Consolidated operating income,68593000000.0,USD,$,False,operating_income,2024,Consolidated operating income for 2024,"Operating income 68,593"
+amazon.pdf,78,Total non-operating income,-18184000000.0,USD,$,False,general,2022,Total non-operating income for 2022,"Total non-operating income (expense) (18,184)"
+amazon.pdf,78,Total non-operating income,705000000.0,USD,$,False,general,2023,Total non-operating income for 2023,Total non-operating income (expense) 705
+amazon.pdf,78,Total non-operating income,2000000.0,USD,$,False,general,2024,Total non-operating income for 2024,Total non-operating income (expense) 21
+amazon.pdf,78,Benefit for income taxes,3217000000.0,USD,$,False,general,2022,Income tax benefit for 2022,"Benefit (provision) for income taxes 3,217"
+amazon.pdf,78,Benefit for income taxes,-7120000000.0,USD,$,False,general,2023,Income tax provision for 2023,"Benefit (provision) for income taxes (7,120)"
+amazon.pdf,78,Benefit for income taxes,-9265000000.0,USD,$,False,general,2024,Income tax provision for 2024,"Benefit (provision) for income taxes (9,265)"
+amazon.pdf,78,Equity-method investment activity,-3000000.0,USD,$,False,general,2022,Equity-method investment activity for 2022,"Equity-method investment activity, net of tax (3)"
+amazon.pdf,78,Equity-method investment activity,-12000000.0,USD,$,False,general,2023,Equity-method investment activity for 2023,"Equity-method investment activity, net of tax (12)"
+amazon.pdf,78,Equity-method investment activity,-101000000.0,USD,$,False,general,2024,Equity-method investment activity for 2024,"Equity-method investment activity, net of tax (101)"
+amazon.pdf,78,Net income,-2722000000.0,USD,$,False,net_income,2022,Net loss for 2022,"Net income (loss) $ (2,722)"
+amazon.pdf,78,Net income,30425000000.0,USD,$,False,net_income,2023,Net income for 2023,"Net income (loss) $ 30,425"
+amazon.pdf,78,Net income,59248000000.0,USD,$,False,net_income,2024,Net income for 2024,"Net income (loss) $ 59,248"
+amazon.pdf,79,Online stores revenue,220004000.0,USD,$,False,revenue,2022,Revenue from online stores in 2022,"Online stores (1) $ 220,004"
+amazon.pdf,79,Online stores revenue,231872000.0,USD,$,False,revenue,2023,Revenue from online stores in 2023,"Online stores (1) $ 231,872"
+amazon.pdf,79,Online stores revenue,247029000.0,USD,$,False,revenue,2024,Revenue from online stores in 2024,"Online stores (1) $ 247,029"
+amazon.pdf,79,Physical stores revenue,18963000.0,USD,$,False,revenue,2022,Revenue from physical stores in 2022,"Physical stores (2) 18,963"
+amazon.pdf,79,Physical stores revenue,20030000.0,USD,$,False,revenue,2023,Revenue from physical stores in 2023,"Physical stores (2) 20,030"
+amazon.pdf,79,Physical stores revenue,21215000.0,USD,$,False,revenue,2024,Revenue from physical stores in 2024,"Physical stores (2) 21,215"
+amazon.pdf,79,Third-party seller services revenue,117716000.0,USD,$,False,revenue,2022,Revenue from third-party seller services in 2022,"Third-party seller services (3) 117,716"
+amazon.pdf,79,Third-party seller services revenue,140053000.0,USD,$,False,revenue,2023,Revenue from third-party seller services in 2023,"Third-party seller services (3) 140,053"
+amazon.pdf,79,Third-party seller services revenue,156146000.0,USD,$,False,revenue,2024,Revenue from third-party seller services in 2024,"Third-party seller services (3) 156,146"
+amazon.pdf,79,Advertising services revenue,37739000.0,USD,$,False,revenue,2022,Revenue from advertising services in 2022,"Advertising services (4) 37,739"
+amazon.pdf,79,Advertising services revenue,46906000.0,USD,$,False,revenue,2023,Revenue from advertising services in 2023,"Advertising services (4) 46,906"
+amazon.pdf,79,Advertising services revenue,56214000.0,USD,$,False,revenue,2024,Revenue from advertising services in 2024,"Advertising services (4) 56,214"
+amazon.pdf,79,Subscription services revenue,35218000.0,USD,$,False,revenue,2022,Revenue from subscription services in 2022,"Subscription services (5) 35,218"
+amazon.pdf,79,Subscription services revenue,40209000.0,USD,$,False,revenue,2023,Revenue from subscription services in 2023,"Subscription services (5) 40,209"
+amazon.pdf,79,Subscription services revenue,44374000.0,USD,$,False,revenue,2024,Revenue from subscription services in 2024,"Subscription services (5) 44,374"
+amazon.pdf,79,AWS revenue,80096000.0,USD,$,False,aws,2022,Revenue from AWS in 2022,"AWS 80,096"
+amazon.pdf,79,AWS revenue,90757000.0,USD,$,False,aws,2023,Revenue from AWS in 2023,"AWS 90,757"
+amazon.pdf,79,AWS revenue,107556000.0,USD,$,False,aws,2024,Revenue from AWS in 2024,"AWS 107,556"
+amazon.pdf,79,Other revenue,4247000.0,USD,$,False,revenue,2022,Revenue from other offerings in 2022,"Other (6) 4,247"
+amazon.pdf,79,Other revenue,4958000.0,USD,$,False,revenue,2023,Revenue from other offerings in 2023,"Other (6) 4,958"
+amazon.pdf,79,Other revenue,5425000.0,USD,$,False,revenue,2024,Revenue from other offerings in 2024,"Other (6) 5,425"
+amazon.pdf,79,Consolidated revenue,513983000.0,USD,$,False,revenue,2022,Total consolidated revenue in 2022,"Consolidated $ 513,983"
+amazon.pdf,79,Consolidated revenue,574785000.0,USD,$,False,revenue,2023,Total consolidated revenue in 2023,"Consolidated $ 574,785"
+amazon.pdf,79,Consolidated revenue,637959000.0,USD,$,False,revenue,2024,Total consolidated revenue in 2024,"Consolidated $ 637,959"
+amazon.pdf,79,United States revenue,356113000.0,USD,$,False,revenue,2022,Revenue attributed to the United States in 2022,"United States $ 356,113"
+amazon.pdf,79,United States revenue,395637000.0,USD,$,False,revenue,2023,Revenue attributed to the United States in 2023,"United States $ 395,637"
+amazon.pdf,79,United States revenue,438015000.0,USD,$,False,revenue,2024,Revenue attributed to the United States in 2024,"United States $ 438,015"
+amazon.pdf,79,Germany revenue,33598000.0,USD,$,False,revenue,2022,Revenue attributed to Germany in 2022,"Germany 33,598"
+amazon.pdf,79,Germany revenue,37588000.0,USD,$,False,revenue,2023,Revenue attributed to Germany in 2023,"Germany 37,588"
+amazon.pdf,79,Germany revenue,40856000.0,USD,$,False,revenue,2024,Revenue attributed to Germany in 2024,"Germany 40,856"
+amazon.pdf,79,United Kingdom revenue,30074000.0,USD,$,False,revenue,2022,Revenue attributed to the United Kingdom in 2022,"United Kingdom 30,074"
+amazon.pdf,79,United Kingdom revenue,33591000.0,USD,$,False,revenue,2023,Revenue attributed to the United Kingdom in 2023,"United Kingdom 33,591"
+amazon.pdf,79,United Kingdom revenue,37855000.0,USD,$,False,revenue,2024,Revenue attributed to the United Kingdom in 2024,"United Kingdom 37,855"
+amazon.pdf,79,Japan revenue,24396000.0,USD,$,False,revenue,2022,Revenue attributed to Japan in 2022,"Japan 24,396"
+amazon.pdf,79,Japan revenue,26002000.0,USD,$,False,revenue,2023,Revenue attributed to Japan in 2023,"Japan 26,002"
+amazon.pdf,79,Japan revenue,27401000.0,USD,$,False,revenue,2024,Revenue attributed to Japan in 2024,"Japan 27,401"
+amazon.pdf,79,Rest of world revenue,69802000.0,USD,$,False,revenue,2022,Revenue attributed to rest of the world in 2022,"Rest of world 69,802"
+amazon.pdf,79,Rest of world revenue,81967000.0,USD,$,False,revenue,2023,Revenue attributed to rest of the world in 2023,"Rest of world 81,967"
+amazon.pdf,79,Rest of world revenue,93832000.0,USD,$,False,revenue,2024,Revenue attributed to rest of the world in 2024,"Rest of world 93,832"
+amazon.pdf,80,"North America segment assets December 31, 2022",185268000000.0,USD,$,False,assets,"December 31, 2022","North America segment assets include property and equipment, operating leases, inventory, and accounts receivable","North America (1) $ 185,268"
+amazon.pdf,80,"North America segment assets December 31, 2023",196029000000.0,USD,$,False,assets,"December 31, 2023",North America segment assets increased from 2022 to 2023,"North America (1) $ 196,029"
+amazon.pdf,80,"North America segment assets December 31, 2024",210120000000.0,USD,$,False,assets,"December 31, 2024",North America segment assets continued to grow in 2024,"North America (1) $ 210,120"
+amazon.pdf,80,"International segment assets December 31, 2022",64666000000.0,USD,$,False,assets,"December 31, 2022","International segment assets consist of property and equipment, operating leases, inventory, and accounts receivable","International (1) 64,666"
+amazon.pdf,80,"International segment assets December 31, 2023",69718000000.0,USD,$,False,assets,"December 31, 2023",International segment assets increased slightly from 2022 to 2023,"International (1) 69,718"
+amazon.pdf,80,"International segment assets December 31, 2024",69487000000.0,USD,$,False,assets,"December 31, 2024",International segment assets declined slightly in 2024,"International (1) 69,487"
+amazon.pdf,80,"AWS segment assets December 31, 2022",88491000000.0,USD,$,False,assets,"December 31, 2022","AWS segment assets primarily consist of property and equipment, accounts receivable, and operating leases","AWS (2) 88,491"
+amazon.pdf,80,"AWS segment assets December 31, 2023",108533000000.0,USD,$,False,assets,"December 31, 2023",AWS segment assets grew significantly in 2023,"AWS (2) 108,533"
+amazon.pdf,80,"AWS segment assets December 31, 2024",155953000000.0,USD,$,False,assets,"December 31, 2024",AWS segment assets continued to grow in 2024,"AWS (2) 155,953"
+amazon.pdf,80,"Corporate segment assets December 31, 2022",124250000000.0,USD,$,False,assets,"December 31, 2022","Corporate segment assets include cash, marketable securities, and other long-term investments","Corporate 124,250"
+amazon.pdf,80,"Corporate segment assets December 31, 2023",153574000000.0,USD,$,False,assets,"December 31, 2023",Corporate segment assets increased from 2022 to 2023,"Corporate 153,574"
+amazon.pdf,80,"Corporate segment assets December 31, 2024",189334000000.0,USD,$,False,assets,"December 31, 2024",Corporate segment assets continued to grow in 2024,"Corporate 189,334"
+amazon.pdf,80,"Consolidated assets December 31, 2022",462675000000.0,USD,$,False,assets,"December 31, 2022",Total segment assets reconciled to consolidated amounts,"Consolidated $ 462,675"
+amazon.pdf,80,"Consolidated assets December 31, 2023",527854000000.0,USD,$,False,assets,"December 31, 2023",Consolidated assets increased from 2022 to 2023,"Consolidated $ 527,854"
+amazon.pdf,80,"Consolidated assets December 31, 2024",624894000000.0,USD,$,False,assets,"December 31, 2024",Consolidated assets continued to grow in 2024,"Consolidated $ 624,894"
+amazon.pdf,80,"North America property and equipment net December 31, 2022",90076000000.0,USD,$,False,assets,"December 31, 2022",North America property and equipment net includes accounts receivable and operating leases,"North America $ 90,076"
+amazon.pdf,80,"North America property and equipment net December 31, 2023",93632000000.0,USD,$,False,assets,"December 31, 2023",North America property and equipment net increased slightly in 2023,"North America $ 93,632"
+amazon.pdf,80,"North America property and equipment net December 31, 2024",103041000000.0,USD,$,False,assets,"December 31, 2024",North America property and equipment net grew significantly in 2024,"North America $ 103,041"
+amazon.pdf,80,"International property and equipment net December 31, 2022",23347000000.0,USD,$,False,assets,"December 31, 2022",International property and equipment net includes accounts receivable and operating leases,"International 23,347"
+amazon.pdf,80,"International property and equipment net December 31, 2023",24357000000.0,USD,$,False,assets,"December 31, 2023",International property and equipment net increased slightly in 2023,"International 24,357"
+amazon.pdf,80,"International property and equipment net December 31, 2024",25618000000.0,USD,$,False,assets,"December 31, 2024",International property and equipment net grew in 2024,"International 25,618"
+amazon.pdf,80,"AWS property and equipment net December 31, 2022",60324000000.0,USD,$,False,assets,"December 31, 2022",AWS property and equipment net includes accounts receivable and operating leases,"AWS 60,324"
+amazon.pdf,80,"AWS property and equipment net December 31, 2023",72701000000.0,USD,$,False,assets,"December 31, 2023",AWS property and equipment net increased significantly in 2023,"AWS 72,701"
+amazon.pdf,80,"AWS property and equipment net December 31, 2024",110683000000.0,USD,$,False,assets,"December 31, 2024",AWS property and equipment net grew substantially in 2024,"AWS 110,683"
+amazon.pdf,80,"Corporate property and equipment net December 31, 2022",12968000000.0,USD,$,False,assets,"December 31, 2022",Corporate property and equipment net includes property and equipment acquired but not yet paid for,"Corporate 12,968"
+amazon.pdf,80,"Corporate property and equipment net December 31, 2023",13487000000.0,USD,$,False,assets,"December 31, 2023",Corporate property and equipment net increased slightly in 2023,"Corporate 13,487"
+amazon.pdf,80,"Corporate property and equipment net December 31, 2024",13323000000.0,USD,$,False,assets,"December 31, 2024",Corporate property and equipment net decreased slightly in 2024,"Corporate 13,323"
+amazon.pdf,80,"Consolidated property and equipment net December 31, 2022",186715000000.0,USD,$,False,assets,"December 31, 2022",Consolidated property and equipment net includes all segments' property and equipment,"Consolidated $ 186,715"
+amazon.pdf,80,"Consolidated property and equipment net December 31, 2023",204177000000.0,USD,$,False,assets,"December 31, 2023",Consolidated property and equipment net increased from 2022 to 2023,"Consolidated $ 204,177"
+amazon.pdf,80,"Consolidated property and equipment net December 31, 2024",252665000000.0,USD,$,False,assets,"December 31, 2024",Consolidated property and equipment net grew significantly in 2024,"Consolidated $ 252,665"
+amazon.pdf,80,"North America total net additions to property and equipment Year Ended December 31, 2022",23682000000.0,USD,$,False,assets,"Year Ended December 31, 2022",North America total net additions include finance leases and build-to-suit lease arrangements,"North America (1) $ 23,682"
+amazon.pdf,80,"North America total net additions to property and equipment Year Ended December 31, 2023",17529000000.0,USD,$,False,assets,"Year Ended December 31, 2023",North America total net additions decreased in 2023,"North America (1) $ 17,529"
+amazon.pdf,80,"North America total net additions to property and equipment Year Ended December 31, 2024",24348000000.0,USD,$,False,assets,"Year Ended December 31, 2024",North America total net additions increased in 2024,"North America (1) $ 24,348"
+amazon.pdf,80,"International total net additions to property and equipment Year Ended December 31, 2022",6711000000.0,USD,$,False,assets,"Year Ended December 31, 2022",International total net additions include finance leases and build-to-suit lease arrangements,"International (1) 6,711"
+amazon.pdf,80,"International total net additions to property and equipment Year Ended December 31, 2023",4144000000.0,USD,$,False,assets,"Year Ended December 31, 2023",International total net additions decreased in 2023,"International (1) 4,144"
+amazon.pdf,80,"International total net additions to property and equipment Year Ended December 31, 2024",6643000000.0,USD,$,False,assets,"Year Ended December 31, 2024",International total net additions increased in 2024,"International (1) 6,643"
+amazon.pdf,80,"AWS total net additions to property and equipment Year Ended December 31, 2022",27755000000.0,USD,$,False,assets,"Year Ended December 31, 2022",AWS total net additions include finance leases and build-to-suit lease arrangements,"AWS (2) 27,755"
+amazon.pdf,80,"AWS total net additions to property and equipment Year Ended December 31, 2023",24843000000.0,USD,$,False,assets,"Year Ended December 31, 2023",AWS total net additions decreased in 2023,"AWS (2) 24,843"
+amazon.pdf,80,"AWS total net additions to property and equipment Year Ended December 31, 2024",53267000000.0,USD,$,False,assets,"Year Ended December 31, 2024",AWS total net additions increased significantly in 2024,"AWS (2) 53,267"
+amazon.pdf,80,"Corporate total net additions to property and equipment Year Ended December 31, 2022",2688000000.0,USD,$,False,assets,"Year Ended December 31, 2022",Corporate total net additions include property and equipment acquired but not yet paid for,"Corporate 2,688"
+amazon.pdf,80,"Corporate total net additions to property and equipment Year Ended December 31, 2023",1828000000.0,USD,$,False,assets,"Year Ended December 31, 2023",Corporate total net additions decreased in 2023,"Corporate 1,828"
+amazon.pdf,80,"Corporate total net additions to property and equipment Year Ended December 31, 2024",1494000000.0,USD,$,False,assets,"Year Ended December 31, 2024",Corporate total net additions decreased further in 2024,"Corporate 1,494"
+amazon.pdf,80,"Consolidated total net additions to property and equipment Year Ended December 31, 2022",60836000000.0,USD,$,False,assets,"Year Ended December 31, 2022",Consolidated total net additions include all segments' property and equipment additions,"Consolidated $ 60,836"
+amazon.pdf,80,"Consolidated total net additions to property and equipment Year Ended December 31, 2023",48344000000.0,USD,$,False,assets,"Year Ended December 31, 2023",Consolidated total net additions decreased in 2023,"Consolidated $ 48,344"
+amazon.pdf,80,"Consolidated total net additions to property and equipment Year Ended December 31, 2024",85752000000.0,USD,$,False,assets,"Year Ended December 31, 2024",Consolidated total net additions increased significantly in 2024,"Consolidated $ 85,752"
+amazon.pdf,80,"U.S. property and equipment, net and operating leases as of December 31, 2022",180000000000.0,USD,$,False,assets,"as of December 31, 2022","U.S. property and equipment, net and operating leases include significant infrastructure","U.S. property and equipment, net and operating leases were $180.0 billion"
+amazon.pdf,80,"U.S. property and equipment, net and operating leases as of December 31, 2023",196000000000.0,USD,$,False,assets,"as of December 31, 2023","U.S. property and equipment, net and operating leases increased in 2023","U.S. property and equipment, net and operating leases were $196.0 billion"
+amazon.pdf,80,"U.S. property and equipment, net and operating leases as of December 31, 2024",241600000000.0,USD,$,False,assets,"as of December 31, 2024","U.S. property and equipment, net and operating leases grew significantly in 2024","U.S. property and equipment, net and operating leases were $241.6 billion"
+amazon.pdf,80,"Non-U.S. property and equipment, net and operating leases as of December 31, 2022",72900000000.0,USD,$,False,assets,"as of December 31, 2022","Non-U.S. property and equipment, net and operating leases are smaller than U.S. equivalents","non-U.S. property and equipment, net and operating leases were $72.9 billion"
+amazon.pdf,80,"Non-U.S. property and equipment, net and operating leases as of December 31, 2023",80700000000.0,USD,$,False,assets,"as of December 31, 2023","Non-U.S. property and equipment, net and operating leases increased slightly in 2023","non-U.S. property and equipment, net and operating leases were $80.7 billion"
+amazon.pdf,80,"Non-U.S. property and equipment, net and operating leases as of December 31, 2024",87200000000.0,USD,$,False,assets,"as of December 31, 2024","Non-U.S. property and equipment, net and operating leases grew in 2024","non-U.S. property and equipment, net and operating leases were $87.2 billion"
+amazon.pdf,80,page_number,68.0,UNSPEC,,False,general,,Page number extracted,Page number indicated as 68
+amazon.pdf,81,Depreciation and amortization expense North America 2022,11565000000.0,USD,$,False,costs,"Year Ended December 31, 2022",Depreciation and amortization expense for North America in 2022,"North America $ 11,565"
+amazon.pdf,81,Depreciation and amortization expense North America 2023,13678000000.0,USD,$,False,costs,"Year Ended December 31, 2023",Depreciation and amortization expense for North America in 2023,"North America $ 13,678"
+amazon.pdf,81,Depreciation and amortization expense North America 2024,14285000000.0,USD,$,False,costs,"Year Ended December 31, 2024",Depreciation and amortization expense for North America in 2024,"North America $ 14,285"
+amazon.pdf,81,Depreciation and amortization expense International 2022,3483000000.0,USD,$,False,costs,"Year Ended December 31, 2022",Depreciation and amortization expense for International in 2022,"International 3,483"
+amazon.pdf,81,Depreciation and amortization expense International 2023,4016000000.0,USD,$,False,costs,"Year Ended December 31, 2023",Depreciation and amortization expense for International in 2023,"International 4,016"
+amazon.pdf,81,Depreciation and amortization expense International 2024,4462000000.0,USD,$,False,costs,"Year Ended December 31, 2024",Depreciation and amortization expense for International in 2024,"International 4,462"
+amazon.pdf,81,Depreciation and amortization expense AWS 2022,9876000000.0,USD,$,False,aws,"Year Ended December 31, 2022",Depreciation and amortization expense for AWS in 2022,"AWS 9,876"
+amazon.pdf,81,Depreciation and amortization expense AWS 2023,12531000000.0,USD,$,False,aws,"Year Ended December 31, 2023",Depreciation and amortization expense for AWS in 2023,"AWS 12,531"
+amazon.pdf,81,Depreciation and amortization expense AWS 2024,13320000000.0,USD,$,False,aws,"Year Ended December 31, 2024",Depreciation and amortization expense for AWS in 2024,"AWS 13,320"
+amazon.pdf,81,Depreciation and amortization expense Consolidated 2022,24924000000.0,USD,$,False,costs,"Year Ended December 31, 2022",Total depreciation and amortization expense for consolidated in 2022,"Consolidated $ 24,924"
+amazon.pdf,81,Depreciation and amortization expense Consolidated 2023,30225000000.0,USD,$,False,costs,"Year Ended December 31, 2023",Total depreciation and amortization expense for consolidated in 2023,"Consolidated $ 30,225"
+amazon.pdf,81,Depreciation and amortization expense Consolidated 2024,32067000000.0,USD,$,False,costs,"Year Ended December 31, 2024",Total depreciation and amortization expense for consolidated in 2024,"Consolidated $ 32,067"
+amazon.pdf,82,Disclosure Controls and Procedures,,UNSPEC,,False,general,"December 31, 2024",Disclosure controls and procedures were effective as of the period end,Disclosure controls and procedures were effective
+amazon.pdf,82,Internal Control over Financial Reporting,,UNSPEC,,False,general,"December 31, 2024",Internal control over financial reporting was effective as of the period end,Internal control over financial reporting was effective
+amazon.pdf,82,Limitations on Controls,70.0,UNSPEC,,False,general,FY2024,Page number of the section discussing limitations of controls,page 82: Limitations on Controls
+amazon.pdf,83,Internal control over financial reporting,0.0,UNSPEC,,False,general,"December 31, 2024",Audited and confirmed effective internal control over financial reporting,"Amazon.com, Inc. maintained effective internal control..."
+amazon.pdf,83,internal control over financial reporting,,UNSPEC,,False,general,,Description of internal control over financial reporting process,Definition and Limitations of Internal Control Over Financial Reporting
+amazon.pdf,84,shares sold,158970.0,UNSPEC,,False,general,"until Dec 31, 2025","Douglas Herrington plans to sell up to 158,970 shares under Rule 10b5-1(c)",Douglas Herrington adopted a trading plan
+amazon.pdf,84,shares sold,16938.0,UNSPEC,,False,general,"until Nov 29, 2025","Shelley Reynolds plans to sell up to 16,938 shares under Rule 10b5-1(c)",Shelley Reynolds adopted a trading plan
+amazon.pdf,84,shares sold,32370.0,UNSPEC,,False,general,"until May 30, 2025","Brian Olsavsky plans to sell up to 32,370 shares under Rule 10b5-1(c)",Brian Olsavsky adopted a trading plan
+amazon.pdf,84,shares sold,87070.0,UNSPEC,,False,general,"until Dec 31, 2025","David Zapolsky plans to sell up to 87,070 shares under Rule 10b5-1(c)",David Zapolsky adopted a trading plan
+amazon.pdf,84,shares sold,80400.0,UNSPEC,,False,general,"until Dec 31, 2025","Andrew Jassy plans to sell up to 80,400 shares under Rule 10b5-1(c)",Andrew Jassy adopted a trading plan
+amazon.pdf,84,Page number,84.0,UNSPEC,,False,general,,Document reference for corporate governance and shareholder information,Information relating to our Code of Business Conduct...
+amazon.pdf,85,Principal accountant fees and services,73.0,UNSPEC,,False,costs,2025 Annual Meeting,Information incorporated by reference from Proxy Statement,Item 14. Principal Accountant Fees...
+amazon.pdf,86,AWS revenue,90700000000.0,USD,$,False,aws,FY2024,Revenue grew on migration of enterprise workloads to cloud,AWS revenue increased ...
+amazon.pdf,86,Note due 2020,1900000000.0,USD,$,True,general,2020,Interest rate for the note issued by Amazon,Form of 1.900% Note due 2020
+amazon.pdf,86,Note due 2023,2400000000.0,USD,$,True,general,2023,Interest rate for the note issued by Amazon,Form of 2.400% Note due 2023
+amazon.pdf,86,Note due 2024,2800000000.0,USD,$,True,general,2024,Interest rate for the note issued by Amazon,Form of 2.800% Note due 2024
+amazon.pdf,86,Note due 2027,3150000000.0,USD,$,True,general,2027,Interest rate for the note issued by Amazon,Form of 3.150% Note due 2027
+amazon.pdf,86,Note due 2037,3875000000.0,USD,$,True,general,2037,Interest rate for the note issued by Amazon,Form of 3.875% Note due 2037
+amazon.pdf,86,Note due 2047,4050000000.0,USD,$,True,general,2047,Interest rate for the note issued by Amazon,Form of 4.050% Note due 2047
+amazon.pdf,86,Note due 2057,4250000000.0,USD,$,True,general,2057,Interest rate for the note issued by Amazon,Form of 4.250% Note due 2057
+amazon.pdf,86,Note due 2025,5200000000.0,USD,$,True,general,2025,Interest rate for the note issued by Amazon,Form of 5.200% Note due 2025
+amazon.pdf,87,Note due 2023,0.4,UNSPEC,,True,costs,2023,Interest rate for note issued in 2020,Form of 0.400% Note due 2023
+amazon.pdf,87,Note due 2025,0.8,UNSPEC,,True,costs,2025,Interest rate for note issued in 2020,Form of 0.800% Note due 2025
+amazon.pdf,87,Note due 2027,1.2,UNSPEC,,True,costs,2027,Interest rate for note issued in 2020,Form of 1.200% Note due 2027
+amazon.pdf,87,Note due 2030,1.5,UNSPEC,,True,costs,2030,Interest rate for note issued in 2020,Form of 1.500% Note due 2030
+amazon.pdf,87,Note due 2050,2.5,UNSPEC,,True,costs,2050,Interest rate for note issued in 2020,Form of 2.500% Note due 2050
+amazon.pdf,87,Note due 2060,2.7,UNSPEC,,True,costs,2060,Interest rate for note issued in 2020,Form of 2.700% Note due 2060
+amazon.pdf,87,Note due 2023,0.25,UNSPEC,,True,costs,2023,Interest rate for note issued in 2021,Form of 0.250% Note due 2023
+amazon.pdf,87,Note due 2024,0.45,UNSPEC,,True,costs,2024,Interest rate for note issued in 2021,Form of 0.450% Note due 2024
+amazon.pdf,87,Note due 2026,1.0,UNSPEC,,True,costs,2026,Interest rate for note issued in 2021,Form of 1.000% Note due 2026
+amazon.pdf,87,Note due 2028,1.65,UNSPEC,,True,costs,2028,Interest rate for note issued in 2021,Form of 1.650% Note due 2028
+amazon.pdf,87,Note due 2031,2.1,UNSPEC,,True,costs,2031,Interest rate for note issued in 2021,Form of 2.100% Note due 2031
+amazon.pdf,87,Note due 2041,2.875,UNSPEC,,True,costs,2041,Interest rate for note issued in 2021,Form of 2.875% Note due 2041
+amazon.pdf,87,Note due 2051,3.1,UNSPEC,,True,costs,2051,Interest rate for note issued in 2021,Form of 3.100% Note due 2051
+amazon.pdf,87,Note due 2061,3.25,UNSPEC,,True,costs,2061,Interest rate for note issued in 2021,Form of 3.250% Note due 2061
+amazon.pdf,87,Note due 2024,4.7,UNSPEC,,True,costs,2024,Interest rate for note issued in 2022,Form of 4.700% Note due 2024
+amazon.pdf,87,Note due 2025,4.6,UNSPEC,,True,costs,2025,Interest rate for note issued in 2022,Form of 4.600% Note due 2025
+amazon.pdf,87,Note due 2027,4.55,UNSPEC,,True,costs,2027,Interest rate for note issued in 2022,Form of 4.550% Note due 2027
+amazon.pdf,87,Note due 2029,4.65,UNSPEC,,True,costs,2029,Interest rate for note issued in 2022,Form of 4.650% Note due 2029
+amazon.pdf,87,Note due 2032,4.7,UNSPEC,,True,costs,2032,Interest rate for note issued in 2022,Form of 4.700% Note due 2032
+amazon.pdf,87,AWS revenue,90700000000.0,USD,$,False,aws,FY2024,Revenue grew on migration of enterprise workloads to cloud,AWS revenue increased ...
+amazon.pdf,87,page_number,87.0,UNSPEC,,False,general,,Page number of the document,Page 87
+amazon.pdf,88,total assets,10.0,UNSPEC,,True,costs,"Year ended December 31, 2024",Percentage of total assets represented by long-term debt securities,total amount of securities ... does not exceed 10 percent
+amazon.pdf,88,Form 10-K Summary,76.0,UNSPEC,,False,general,None,Page number of the summary section,Form 10-K Summary None. 76
+amazon.pdf,89,signature,1.0,UNSPEC,,False,general,,Signature of Andrew R. Jassy as President and CEO,Andrew R. Jassy President and Chief Executive Officer
+amazon.pdf,89,signature,1.0,UNSPEC,,False,general,,Signature of Brian T. Olsavsky as Senior Vice President and CFO,Brian T. Olsavsky Senior Vice President and Chief Financial Officer
+amazon.pdf,89,revenue,0.0,UNSPEC,,False,revenue,,No revenue value provided on this page,Reynolds Shelley L. Reynolds ...
+amazon.pdf,89,Directors,7.0,UNSPEC,,False,general,,Number of directors listed,Huttenlocher Daniel P. Huttenlocher Director
+amazon.pdf,89,Director,0.0,UNSPEC,,False,general,,Patricia Q. Stonesifer is a director,Stonesifer Patricia Q. Stonesifer Director
+amazon.pdf,90,"Cumulative total return for Amazon.com, Inc. in 2024",237.0,USD,$,False,revenue,"Year Ended December 31, 2024",Stock price performance in 2024 showed a cumulative return of $237 from an initial $100 investment,"Amazon.com, Inc. $100 $176 $180 $91 $164 $237"
+amazon.pdf,90,Cumulative total return for NYSE Technology Index in 2024,247.0,USD,$,False,revenue,"Year Ended December 31, 2024",NYSE Technology Index showed a cumulative return of $247 from an initial $100 investment,NYSE Technology Index 100 173 203 119 201 247
+amazon.pdf,90,Cumulative total return for S&P 500 Index in 2024,197.0,USD,$,False,revenue,"Year Ended December 31, 2024",S&P 500 Index showed a cumulative return of $197 from an initial $100 investment,S&P 500 Index 100 118 152 125 158 197
+amazon.pdf,90,Cumulative total return for S&P 500 Consumer Discretionary Distribution & Retail Index in 2024,218.0,USD,$,False,revenue,"Year Ended December 31, 2024",S&P 500 Consumer Discretionary Distribution & Retail Index showed a cumulative return of $218 from an initial $100 investment,S&P 500 Consumer Discretionary Distribution & Retail Index 100 146 175 115 163 218
